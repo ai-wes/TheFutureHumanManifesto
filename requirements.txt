@@ -1,0 +1,42 @@
+# Core Libraries for GAPS 2.0
+
+# Data Ingestion & Processing
+confluent-kafka
+quixstreams
+aiohttp
+feedparser # For arxiv_producer.py
+pydantic
+
+# Knowledge Graph
+neo4j
+
+# Probabilistic Forecasting
+tensorflow
+tensorflow_probability
+numpy
+pandas
+
+# Narrative Synthesis & LLM Interaction
+langchain
+langchain-community # For FAISS, Ollama, HuggingFaceEmbeddings
+faiss-cpu # Or faiss-gpu if a GPU is available and preferred
+sentence-transformers # For HuggingFaceEmbeddings
+ollama # Python client for Ollama
+
+# Dashboard
+streamlit
+plotly
+
+# Utilities (already listed or implied, but good to be aware)
+# uuid (built-in)
+# json (built-in)
+# time (built-in)
+# asyncio (built-in)
+
+# Optional, but good for development/production
+# python-dotenv # For managing environment variables
+# uvicorn # If deploying Langchain services as FastAPI, or for other ASGI apps
+# gunicorn # For WSGI applications
+
+# Note: Specific versions can be pinned for better reproducibility, e.g., pandas==1.5.3
+# For now, listing without specific versions for broader compatibility during initial setup.
