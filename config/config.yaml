@@ -1,0 +1,84 @@
+data_sources:
+  arxiv:
+    base_url: http://export.arxiv.org/api/query
+    categories:
+    - cs.AI
+    - cs.LG
+    - cs.CL
+    - cs.CV
+    - q-bio
+    max_results: 100
+  gdelt:
+    base_url: http://data.gdeltproject.org/gdeltv2/
+    themes:
+    - ARTIFICIAL_INTELLIGENCE
+    - BIOTECHNOLOGY
+    - TECHNOLOGY
+  news_api:
+    api_key: your_news_api_key
+    keywords:
+    - artificial intelligence
+    - transhumanism
+    - biotechnology
+    - nanotechnology
+    sources:
+    - bbc-news
+    - reuters
+    - associated-press
+    - the-verge
+  patents:
+    api_key: your_patents_api_key
+    base_url: https://patents.googleapis.com/v1/patents:search
+forecasting:
+  domains:
+  - artificial_general_intelligence
+  - biotechnology_longevity
+  - brain_computer_interfaces
+  - nanotechnology
+  - quantum_computing
+  - space_colonization
+  - genetic_engineering
+  forecast_horizons:
+  - 30
+  - 90
+  - 365
+  - 1825
+  models:
+  - tfp_sts
+  - pymc_bayesian
+  - neural_ensemble
+  update_frequency: daily
+narratives:
+  length: detailed
+  perspective: balanced
+  style: academic
+neo4j:
+  database: neo4j
+  password: password
+  uri: neo4j://localhost:7687
+  username: neo4j
+openai:
+  api_key: your_openai_api_key_here
+  max_tokens: 4000
+  model: gpt-4-turbo-preview
+redis:
+  db: 0
+  host: localhost
+  port: 6379
+  streams:
+    raw_arxiv: stream:raw_arxiv
+    raw_markets: stream:raw_markets
+    raw_news: stream:raw_news
+    raw_patents: stream:raw_patents
+    raw_social: stream:raw_social
+scenarios:
+  crossover_rate: 0.8
+  generations: 10
+  mutation_rate: 0.1
+  population_size: 50
+  scenarios_per_chapter: 5
+scheduling:
+  data_ingestion: 0 */6 * * *
+  forecasting: 0 2 * * 0
+  kg_processing: 0 8 * * *
+  scenario_generation: 0 4 * * 0
