@@ -1,0 +1,4012 @@
+[
+  {
+    "id": "kurzweil_asm_1999_agi_2029",
+    "technological_factors": [
+      "Exponential computing growth",
+      "Neural networks",
+      "Machine learning",
+      "Moore's Law"
+    ],
+    "social_factors": [
+      "AI research investment",
+      "Public interest in AI",
+      "Technological optimism"
+    ],
+    "economic_factors": [
+      "Venture capital in AI",
+      "Corporate R&D spending",
+      "Government AI funding"
+    ],
+    "timeline": "by 2029",
+    "key_events": [
+      "Artificial General Intelligence achieved matching human intelligence across all cognitive tasks"
+    ],
+    "domains_focused": [
+      "artificial_intelligence",
+      "machine_learning",
+      "cognitive_science"
+    ],
+    "domains": [
+      "artificial_intelligence",
+      "machine_learning",
+      "cognitive_science"
+    ],
+    "time_since_prediction_years": 30,
+    "metadata": {
+      "predictor_source": "Ray Kurzweil - The Age of Spiritual Machines",
+      "prediction_date": "1999-01-01",
+      "original_stated_confidence": "High",
+      "actual_outcome": "Pending - 2029 not yet reached",
+      "actual_outcome_date": "TBD",
+      "outcome_notes": "Significant progress in AI but AGI definition remains debated. Large language models show impressive capabilities but lack general reasoning.",
+      "unforeseen_influencing_factors_positive": [
+        "Deep learning breakthroughs",
+        "Transformer architecture",
+        "Massive data availability",
+        "GPU computing"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "AI safety concerns",
+        "Regulatory scrutiny",
+        "Technical challenges in reasoning"
+      ]
+    }
+  },
+  {
+    "id": "kurzweil_singularity_2005_technological_singularity_2045",
+    "technological_factors": [
+      "Artificial General Intelligence",
+      "Nanotechnology",
+      "Biotechnology",
+      "Brain-computer interfaces"
+    ],
+    "social_factors": [
+      "Human-AI merger acceptance",
+      "Transhumanist movement",
+      "Technological adoption rates"
+    ],
+    "economic_factors": [
+      "Technology investment",
+      "Healthcare spending",
+      "Economic disruption from AI"
+    ],
+    "timeline": "by 2045",
+    "key_events": [
+      "Technological Singularity - AI surpasses human intelligence leading to intelligence explosion and human-AI merger"
+    ],
+    "domains_focused": [
+      "artificial_intelligence",
+      "transhumanism",
+      "brain_computer_interfaces",
+      "nanotechnology"
+    ],
+    "domains": [
+      "artificial_intelligence",
+      "transhumanism",
+      "brain_computer_interfaces",
+      "nanotechnology"
+    ],
+    "time_since_prediction_years": 40,
+    "metadata": {
+      "predictor_source": "Ray Kurzweil - The Singularity is Near",
+      "prediction_date": "2005-01-01",
+      "original_stated_confidence": "High",
+      "actual_outcome": "Pending - 2045 not yet reached",
+      "actual_outcome_date": "TBD",
+      "outcome_notes": "Progress toward AGI accelerating but human-AI merger remains speculative. Brain-computer interfaces advancing slowly.",
+      "unforeseen_influencing_factors_positive": [
+        "Rapid AI advancement",
+        "Neural interface progress",
+        "Increasing AI investment"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Ethical concerns about human enhancement",
+        "Regulatory barriers",
+        "Technical challenges in brain interfaces"
+      ]
+    }
+  },
+  {
+    "id": "kurzweil_singularity_2024_longevity_escape_velocity_2029",
+    "technological_factors": [
+      "Nanotechnology",
+      "AI-driven drug discovery",
+      "Genetic engineering",
+      "Regenerative medicine"
+    ],
+    "social_factors": [
+      "Aging population",
+      "Healthcare system transformation",
+      "Life extension acceptance"
+    ],
+    "economic_factors": [
+      "Healthcare costs",
+      "Longevity industry investment",
+      "Pharmaceutical R&D"
+    ],
+    "timeline": "by 2029",
+    "key_events": [
+      "Longevity escape velocity achieved - life extension by more than one year per year through nanobots and AI medicine"
+    ],
+    "domains_focused": [
+      "longevity",
+      "nanotechnology",
+      "regenerative_medicine",
+      "ai_healthcare"
+    ],
+    "domains": [
+      "longevity",
+      "nanotechnology",
+      "regenerative_medicine",
+      "ai_healthcare"
+    ],
+    "time_since_prediction_years": 5,
+    "metadata": {
+      "predictor_source": "Ray Kurzweil - The Singularity is Nearer",
+      "prediction_date": "2024-06-25",
+      "original_stated_confidence": "High",
+      "actual_outcome": "Pending - 2029 not yet reached",
+      "actual_outcome_date": "TBD",
+      "outcome_notes": "Significant advances in AI drug discovery and genetic medicine but nanobots in bloodstream remain experimental.",
+      "unforeseen_influencing_factors_positive": [
+        "AI protein folding breakthroughs",
+        "mRNA vaccine success",
+        "Gene editing advances"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Clinical trial timelines",
+        "Regulatory approval processes",
+        "Cost and accessibility barriers"
+      ]
+    }
+  },
+  {
+    "id": "asimov_1983_computerization_ubiquitous_2019",
+    "technological_factors": [
+      "Personal computers",
+      "Networking",
+      "Miniaturization",
+      "Software development"
+    ],
+    "social_factors": [
+      "Computer literacy",
+      "Workplace transformation",
+      "Home technology adoption"
+    ],
+    "economic_factors": [
+      "Computer industry growth",
+      "Software market",
+      "Productivity gains"
+    ],
+    "timeline": "by 2019",
+    "key_events": [
+      "Computerization becomes impossible to do without, disrupting work habits and penetrating homes"
+    ],
+    "domains_focused": [
+      "personal_computing",
+      "networking",
+      "automation",
+      "workplace_transformation"
+    ],
+    "domains": [
+      "personal_computing",
+      "networking",
+      "automation",
+      "workplace_transformation"
+    ],
+    "time_since_prediction_years": 36,
+    "metadata": {
+      "predictor_source": "Isaac Asimov - Toronto Star Interview",
+      "prediction_date": "1983-01-01",
+      "original_stated_confidence": "High",
+      "actual_outcome": "Realized as predicted",
+      "actual_outcome_date": "2000-2010",
+      "outcome_notes": "Asimov accurately predicted the ubiquity of computers and their penetration into homes and workplaces.",
+      "unforeseen_influencing_factors_positive": [
+        "Internet development",
+        "Mobile computing",
+        "Software industry growth"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Digital divide",
+        "Privacy concerns",
+        "Cybersecurity threats"
+      ]
+    }
+  },
+  {
+    "id": "asimov_1983_robotics_automation_2019",
+    "technological_factors": [
+      "Industrial robotics",
+      "Automation systems",
+      "Artificial intelligence",
+      "Manufacturing technology"
+    ],
+    "social_factors": [
+      "Job displacement",
+      "Leisure society",
+      "Worker retraining"
+    ],
+    "economic_factors": [
+      "Manufacturing costs",
+      "Labor market changes",
+      "Productivity improvements"
+    ],
+    "timeline": "by 2019",
+    "key_events": [
+      "Robotics revolutionizes work with automation stealing clerical and factory jobs, forcing career reconsideration"
+    ],
+    "domains_focused": [
+      "robotics",
+      "automation",
+      "manufacturing",
+      "employment"
+    ],
+    "domains": ["robotics", "automation", "manufacturing", "employment"],
+    "time_since_prediction_years": 36,
+    "metadata": {
+      "predictor_source": "Isaac Asimov - Toronto Star Interview",
+      "prediction_date": "1983-01-01",
+      "original_stated_confidence": "High",
+      "actual_outcome": "Partially realized",
+      "actual_outcome_date": "2000-2020",
+      "outcome_notes": "Significant automation occurred in manufacturing and some service sectors, but job displacement was offset by new job creation.",
+      "unforeseen_influencing_factors_positive": [
+        "Service economy growth",
+        "New technology jobs",
+        "Human-robot collaboration"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Cost of advanced robots",
+        "Technical limitations",
+        "Social resistance to automation"
+      ]
+    }
+  },
+  {
+    "id": "asimov_1983_space_mining_moon_2019",
+    "technological_factors": [
+      "Space transportation",
+      "Mining technology",
+      "Lunar habitats",
+      "Resource extraction"
+    ],
+    "social_factors": [
+      "Space exploration priorities",
+      "International cooperation",
+      "Public space interest"
+    ],
+    "economic_factors": [
+      "Space program funding",
+      "Launch costs",
+      "Resource economics"
+    ],
+    "timeline": "by 2019",
+    "key_events": [
+      "Humans have mining factories and solar power station on Moon with progress toward space settlements"
+    ],
+    "domains_focused": [
+      "space_exploration",
+      "lunar_mining",
+      "space_habitation",
+      "resource_extraction"
+    ],
+    "domains": [
+      "space_exploration",
+      "lunar_mining",
+      "space_habitation",
+      "resource_extraction"
+    ],
+    "time_since_prediction_years": 36,
+    "metadata": {
+      "predictor_source": "Isaac Asimov - Toronto Star Interview",
+      "prediction_date": "1983-01-01",
+      "original_stated_confidence": "Medium",
+      "actual_outcome": "Not realized",
+      "actual_outcome_date": "Never",
+      "outcome_notes": "Space exploration stalled after Apollo program. ISS achieved but lunar mining and settlements not realized.",
+      "unforeseen_influencing_factors_positive": [
+        "Private space companies emergence",
+        "Renewed space interest"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Political priorities shift",
+        "High costs",
+        "Technical challenges",
+        "End of Cold War reducing space race incentives"
+      ]
+    }
+  },
+  {
+    "id": "clarke_2001_cold_fusion_energy_2002",
+    "technological_factors": [
+      "Cold fusion research",
+      "Alternative energy",
+      "Nuclear technology",
+      "Energy storage"
+    ],
+    "social_factors": [
+      "Energy independence demands",
+      "Environmental concerns",
+      "Scientific skepticism"
+    ],
+    "economic_factors": [
+      "Energy market",
+      "Research funding",
+      "Infrastructure costs"
+    ],
+    "timeline": "by 2002",
+    "key_events": [
+      "Clean low-power fuel involving new energy source, possibly based on cold fusion"
+    ],
+    "domains_focused": [
+      "energy_technology",
+      "nuclear_fusion",
+      "alternative_energy"
+    ],
+    "domains": ["energy_technology", "nuclear_fusion", "alternative_energy"],
+    "time_since_prediction_years": 1,
+    "metadata": {
+      "predictor_source": "Arthur C. Clarke - Future Predictions 2001",
+      "prediction_date": "2001-12-03",
+      "original_stated_confidence": "Medium",
+      "actual_outcome": "Not realized",
+      "actual_outcome_date": "Never",
+      "outcome_notes": "Cold fusion remains scientifically disputed. Renewable energy advanced instead through solar and wind.",
+      "unforeseen_influencing_factors_positive": [
+        "Solar cost reductions",
+        "Wind technology advances",
+        "Battery improvements"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Cold fusion scientific controversy",
+        "Lack of reproducible results",
+        "Investment shift to proven renewables"
+      ]
+    }
+  },
+  {
+    "id": "clarke_2001_human_clone_2004",
+    "technological_factors": [
+      "Cloning technology",
+      "Genetic engineering",
+      "Reproductive medicine",
+      "Biotechnology"
+    ],
+    "social_factors": [
+      "Ethical debates",
+      "Religious opposition",
+      "Scientific acceptance"
+    ],
+    "economic_factors": [
+      "Biotech investment",
+      "Medical costs",
+      "Regulatory compliance"
+    ],
+    "timeline": "by 2004",
+    "key_events": ["First publicly admitted human clone"],
+    "domains_focused": [
+      "biotechnology",
+      "genetic_engineering",
+      "cloning",
+      "reproductive_medicine"
+    ],
+    "domains": [
+      "biotechnology",
+      "genetic_engineering",
+      "cloning",
+      "reproductive_medicine"
+    ],
+    "time_since_prediction_years": 3,
+    "metadata": {
+      "predictor_source": "Arthur C. Clarke - Future Predictions 2001",
+      "prediction_date": "2001-12-03",
+      "original_stated_confidence": "High",
+      "actual_outcome": "Realized (close)",
+      "actual_outcome_date": "2005-01-01",
+      "outcome_notes": "Claims of human cloning emerged around 2004-2005, though with scientific controversy about validity.",
+      "unforeseen_influencing_factors_positive": [
+        "Rapid biotech advances",
+        "International research competition"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Ethical restrictions",
+        "Scientific fraud cases",
+        "Regulatory barriers"
+      ]
+    }
+  },
+  {
+    "id": "clarke_2001_atomic_control_matter_2015",
+    "technological_factors": [
+      "Nanotechnology",
+      "Atomic manipulation",
+      "Materials science",
+      "Quantum control"
+    ],
+    "social_factors": [
+      "Nanotechnology acceptance",
+      "Safety concerns",
+      "Research priorities"
+    ],
+    "economic_factors": [
+      "Nanotech investment",
+      "Manufacturing transformation",
+      "R&D costs"
+    ],
+    "timeline": "by 2015",
+    "key_events": [
+      "Complete control of matter at the atomic level is achieved"
+    ],
+    "domains_focused": [
+      "nanotechnology",
+      "materials_science",
+      "atomic_manipulation"
+    ],
+    "domains": ["nanotechnology", "materials_science", "atomic_manipulation"],
+    "time_since_prediction_years": 14,
+    "metadata": {
+      "predictor_source": "Arthur C. Clarke - Future Predictions 2001",
+      "prediction_date": "2001-12-03",
+      "original_stated_confidence": "Medium",
+      "actual_outcome": "Partially realized",
+      "actual_outcome_date": "2010-2020",
+      "outcome_notes": "Significant advances in atomic manipulation and nanotechnology, but 'complete control' remains elusive.",
+      "unforeseen_influencing_factors_positive": [
+        "Advanced microscopy",
+        "Quantum computing research",
+        "Materials engineering breakthroughs"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Quantum limitations",
+        "Technical complexity",
+        "Cost barriers"
+      ]
+    }
+  },
+  {
+    "id": "clarke_1964_remote_work_communication_2000",
+    "technological_factors": [
+      "Telecommunications",
+      "Computer networks",
+      "Video communication",
+      "Global connectivity"
+    ],
+    "social_factors": [
+      "Work culture change",
+      "Geographic distribution",
+      "Communication patterns"
+    ],
+    "economic_factors": [
+      "Communication costs",
+      "Office real estate",
+      "Productivity gains"
+    ],
+    "timeline": "by 2000",
+    "key_events": [
+      "Instant global contact capability allowing business conduct from anywhere, ending commuting in favor of communication"
+    ],
+    "domains_focused": [
+      "telecommunications",
+      "remote_work",
+      "digital_communication"
+    ],
+    "domains": ["telecommunications", "remote_work", "digital_communication"],
+    "time_since_prediction_years": 36,
+    "metadata": {
+      "predictor_source": "Arthur C. Clarke - BBC Horizon Interview",
+      "prediction_date": "1964-09-21",
+      "original_stated_confidence": "High",
+      "actual_outcome": "Realized (early)",
+      "actual_outcome_date": "1995-2005",
+      "outcome_notes": "Clarke remarkably accurately predicted remote work and global communication decades before the internet.",
+      "unforeseen_influencing_factors_positive": [
+        "Internet development",
+        "Mobile phones",
+        "Video conferencing",
+        "Broadband expansion"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Corporate culture resistance",
+        "Technology adoption lag",
+        "Digital divide"
+      ]
+    }
+  },
+  {
+    "id": "toffler_1970_information_economy_2000",
+    "technological_factors": [
+      "Computer technology",
+      "Information systems",
+      "Data processing",
+      "Knowledge management"
+    ],
+    "social_factors": [
+      "Educational transformation",
+      "Social acceleration",
+      "Cultural change"
+    ],
+    "economic_factors": [
+      "Service economy growth",
+      "Information value",
+      "Knowledge workers"
+    ],
+    "timeline": "by 2000",
+    "key_events": [
+      "Transition to super-industrial society dominated by information, knowledge, and services over manufacturing"
+    ],
+    "domains_focused": [
+      "information_economy",
+      "knowledge_work",
+      "social_transformation"
+    ],
+    "domains": [
+      "information_economy",
+      "knowledge_work",
+      "social_transformation"
+    ],
+    "time_since_prediction_years": 30,
+    "metadata": {
+      "predictor_source": "Alvin Toffler - Future Shock",
+      "prediction_date": "1970-01-01",
+      "original_stated_confidence": "High",
+      "actual_outcome": "Realized as predicted",
+      "actual_outcome_date": "1990-2000",
+      "outcome_notes": "Toffler accurately predicted the transition from industrial to information-based economy.",
+      "unforeseen_influencing_factors_positive": [
+        "Personal computer revolution",
+        "Internet commercialization",
+        "Software industry growth"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Manufacturing job losses",
+        "Income inequality",
+        "Digital skills gap"
+      ]
+    }
+  },
+  {
+    "id": "toffler_1970_family_dissolution_1990",
+    "technological_factors": [
+      "Communication technology",
+      "Transportation",
+      "Birth control",
+      "Medical advances"
+    ],
+    "social_factors": [
+      "Changing gender roles",
+      "Individualism",
+      "Social mobility"
+    ],
+    "economic_factors": [
+      "Dual-income families",
+      "Economic independence",
+      "Cost of living"
+    ],
+    "timeline": "by 1990",
+    "key_events": [
+      "Dissolution of traditional family unit leading to rising divorce rates and alternative family structures"
+    ],
+    "domains_focused": ["social_change", "family_structure", "demographics"],
+    "domains": ["social_change", "family_structure", "demographics"],
+    "time_since_prediction_years": 20,
+    "metadata": {
+      "predictor_source": "Alvin Toffler - Future Shock",
+      "prediction_date": "1970-01-01",
+      "original_stated_confidence": "High",
+      "actual_outcome": "Realized as predicted",
+      "actual_outcome_date": "1970-1990",
+      "outcome_notes": "Divorce rates rose significantly and alternative family arrangements became common as Toffler predicted.",
+      "unforeseen_influencing_factors_positive": [
+        "Women's liberation movement",
+        "Birth control availability",
+        "Economic opportunities"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Social conservatism",
+        "Religious resistance",
+        "Economic pressures"
+      ]
+    }
+  },
+  {
+    "id": "toffler_1970_genetic_engineering_breeding_2000",
+    "technological_factors": [
+      "Genetic engineering",
+      "Reproductive technology",
+      "Biotechnology",
+      "Medical advances"
+    ],
+    "social_factors": [
+      "Ethical debates",
+      "Enhancement acceptance",
+      "Medical tourism"
+    ],
+    "economic_factors": [
+      "Biotech investment",
+      "Healthcare costs",
+      "Insurance implications"
+    ],
+    "timeline": "by 2000",
+    "key_events": [
+      "Women able to buy embryos and breed babies with enhanced capabilities like supernormal vision or hearing"
+    ],
+    "domains_focused": [
+      "genetic_engineering",
+      "human_enhancement",
+      "reproductive_technology"
+    ],
+    "domains": [
+      "genetic_engineering",
+      "human_enhancement",
+      "reproductive_technology"
+    ],
+    "time_since_prediction_years": 30,
+    "metadata": {
+      "predictor_source": "Alvin Toffler - Future Shock",
+      "prediction_date": "1970-01-01",
+      "original_stated_confidence": "Medium",
+      "actual_outcome": "Partially realized",
+      "actual_outcome_date": "2000-2020",
+      "outcome_notes": "IVF and genetic screening became available, but designer babies with enhanced capabilities remain largely unrealized.",
+      "unforeseen_influencing_factors_positive": [
+        "IVF development",
+        "Genetic screening advances",
+        "Prenatal diagnostics"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Ethical restrictions",
+        "Technical limitations",
+        "Cost barriers",
+        "Safety concerns"
+      ]
+    }
+  },
+  {
+    "id": "moore_1965_transistor_doubling_1975",
+    "technological_factors": [
+      "Semiconductor manufacturing",
+      "Integrated circuits",
+      "Miniaturization",
+      "Process improvement"
+    ],
+    "social_factors": [
+      "Technology adoption",
+      "Computer accessibility",
+      "Digital society"
+    ],
+    "economic_factors": [
+      "Semiconductor industry",
+      "Computing costs",
+      "Manufacturing efficiency"
+    ],
+    "timeline": "every 2 years ongoing",
+    "key_events": [
+      "Number of transistors on microchips doubles every two years through continued miniaturization"
+    ],
+    "domains_focused": ["semiconductors", "computer_hardware", "manufacturing"],
+    "domains": ["semiconductors", "computer_hardware", "manufacturing"],
+    "time_since_prediction_years": 10,
+    "metadata": {
+      "predictor_source": "Gordon Moore - Intel Co-founder",
+      "prediction_date": "1965-04-19",
+      "original_stated_confidence": "High",
+      "actual_outcome": "Realized for 50+ years",
+      "actual_outcome_date": "1965-2015",
+      "outcome_notes": "Moore's Law held remarkably true for over 50 years, enabling the digital revolution.",
+      "unforeseen_influencing_factors_positive": [
+        "Massive industry investment",
+        "Manufacturing innovations",
+        "Materials science advances"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Physical limits approaching",
+        "Cost increases",
+        "Alternative computing architectures"
+      ]
+    }
+  },
+  {
+    "id": "bush_1945_memex_information_machine_1975",
+    "technological_factors": [
+      "Information storage",
+      "Retrieval systems",
+      "Microfilm technology",
+      "Mechanical interfaces"
+    ],
+    "social_factors": [
+      "Information explosion",
+      "Research productivity",
+      "Knowledge sharing"
+    ],
+    "economic_factors": [
+      "Research costs",
+      "Information industry",
+      "Publishing transformation"
+    ],
+    "timeline": "by 1975",
+    "key_events": [
+      "Memex machine enabling associative information storage and retrieval, transforming research and knowledge work"
+    ],
+    "domains_focused": [
+      "information_systems",
+      "knowledge_management",
+      "research_tools"
+    ],
+    "domains": [
+      "information_systems",
+      "knowledge_management",
+      "research_tools"
+    ],
+    "time_since_prediction_years": 30,
+    "metadata": {
+      "predictor_source": "Vannevar Bush - As We May Think",
+      "prediction_date": "1945-07-01",
+      "original_stated_confidence": "High",
+      "actual_outcome": "Realized in different form",
+      "actual_outcome_date": "1990-2000",
+      "outcome_notes": "Bush's vision materialized as hypertext, the internet, and search engines rather than mechanical microfilm systems.",
+      "unforeseen_influencing_factors_positive": [
+        "Digital computing",
+        "Internet development",
+        "Hypertext concept"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Digital technology replacing mechanical",
+        "Different technical approach needed"
+      ]
+    }
+  },
+  {
+    "id": "von_neumann_1945_computer_universal_applications",
+    "technological_factors": [
+      "Stored-program computers",
+      "Digital computing",
+      "Software development",
+      "Programming languages"
+    ],
+    "social_factors": [
+      "Computer adoption",
+      "Problem-solving approaches",
+      "Scientific computing"
+    ],
+    "economic_factors": [
+      "Computing industry",
+      "Business applications",
+      "Research productivity"
+    ],
+    "timeline": "ongoing future",
+    "key_events": [
+      "Computers will find unpredictable applications that become most important, exceeding current feasible uses"
+    ],
+    "domains_focused": [
+      "computer_science",
+      "software_applications",
+      "digital_transformation"
+    ],
+    "domains": [
+      "computer_science",
+      "software_applications",
+      "digital_transformation"
+    ],
+    "time_since_prediction_years": 55,
+    "metadata": {
+      "predictor_source": "John von Neumann - EDVAC proposal",
+      "prediction_date": "1945-01-01",
+      "original_stated_confidence": "High",
+      "actual_outcome": "Realized as predicted",
+      "actual_outcome_date": "1960-2000",
+      "outcome_notes": "Von Neumann correctly predicted that unforeseen computer applications would become most important.",
+      "unforeseen_influencing_factors_positive": [
+        "Software industry emergence",
+        "Personal computers",
+        "Internet applications"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Programming complexity",
+        "Software reliability challenges"
+      ]
+    }
+  },
+  {
+    "id": "jobs_1996_web_ubiquity_2005",
+    "technological_factors": [
+      "Internet infrastructure",
+      "Mobile connectivity",
+      "Wireless technology",
+      "Web browsers"
+    ],
+    "social_factors": [
+      "Digital adoption",
+      "Information access",
+      "Communication patterns"
+    ],
+    "economic_factors": [
+      "Internet economy",
+      "Telecom investment",
+      "E-commerce growth"
+    ],
+    "timeline": "by 2005",
+    "key_events": ["Web dial tone everywhere - ubiquitous internet access"],
+    "domains_focused": ["internet_access", "mobile_computing", "connectivity"],
+    "domains": ["internet_access", "mobile_computing", "connectivity"],
+    "time_since_prediction_years": 9,
+    "metadata": {
+      "predictor_source": "Steve Jobs - Wired Interview",
+      "prediction_date": "1996-01-01",
+      "original_stated_confidence": "High",
+      "actual_outcome": "Realized as predicted",
+      "actual_outcome_date": "2005-2010",
+      "outcome_notes": "Jobs accurately predicted ubiquitous internet access through mobile devices and improved infrastructure.",
+      "unforeseen_influencing_factors_positive": [
+        "Mobile phone adoption",
+        "WiFi expansion",
+        "Broadband deployment"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Digital divide",
+        "Infrastructure costs",
+        "Regulatory barriers"
+      ]
+    }
+  },
+  {
+    "id": "jobs_1996_ecommerce_retail_transformation_2005",
+    "technological_factors": [
+      "Internet commerce",
+      "Payment systems",
+      "Logistics technology",
+      "Web security"
+    ],
+    "social_factors": [
+      "Shopping behavior change",
+      "Trust in online transactions",
+      "Consumer adoption"
+    ],
+    "economic_factors": [
+      "Retail transformation",
+      "Logistics costs",
+      "Payment processing"
+    ],
+    "timeline": "by 2005",
+    "key_events": [
+      "People stop going to stores and buy stuff over the web, transforming commerce"
+    ],
+    "domains_focused": [
+      "e_commerce",
+      "retail_transformation",
+      "digital_payments"
+    ],
+    "domains": [
+      "e_commerce",
+      "retail_transformation",
+      "digital_payments"
+    ],
+    "time_since_prediction_years": 9,
+    "metadata": {
+      "predictor_source": "Steve Jobs - Wired Interview",
+      "prediction_date": "1996-01-01",
+      "original_stated_confidence": "High",
+      "actual_outcome": "Realized as predicted",
+      "actual_outcome_date": "2000-2010",
+      "outcome_notes": "E-commerce growth dramatically transformed retail as Jobs predicted, with Amazon leading the transformation.",
+      "unforeseen_influencing_factors_positive": [
+        "Amazon's marketplace model",
+        "Secure payment systems",
+        "Logistics improvements"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Consumer trust issues",
+        "Shipping costs",
+        "Return policies complexity"
+      ]
+    }
+  },
+  {
+    "id": "jobs_1996_cloud_storage_2005",
+    "technological_factors": [
+      "Network storage",
+      "Server technology",
+      "Bandwidth increases",
+      "Data synchronization"
+    ],
+    "social_factors": [
+      "Data portability expectations",
+      "Device proliferation",
+      "User behavior"
+    ],
+    "economic_factors": [
+      "Storage costs",
+      "Infrastructure investment",
+      "Service business models"
+    ],
+    "timeline": "by 2005",
+    "key_events": [
+      "Users won't manage their own storage, accessing data from cloud services"
+    ],
+    "domains_focused": ["cloud_computing", "data_storage", "network_services"],
+    "domains": ["cloud_computing", "data_storage", "network_services"],
+    "time_since_prediction_years": 9,
+    "metadata": {
+      "predictor_source": "Steve Jobs - Wired Interview",
+      "prediction_date": "1996-01-01",
+      "original_stated_confidence": "Medium",
+      "actual_outcome": "Realized (slightly late)",
+      "actual_outcome_date": "2005-2015",
+      "outcome_notes": "Cloud storage became dominant with services like iCloud, Google Drive, and Dropbox, though slightly later than predicted.",
+      "unforeseen_influencing_factors_positive": [
+        "Bandwidth improvements",
+        "Mobile device adoption",
+        "Storage cost reductions"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Security concerns",
+        "Bandwidth limitations",
+        "Reliability issues"
+      ]
+    }
+  },
+  {
+    "id": "gates_1995_video_streaming_2005",
+    "technological_factors": [
+      "Video compression",
+      "Internet bandwidth",
+      "Digital distribution",
+      "Streaming protocols"
+    ],
+    "social_factors": [
+      "Entertainment consumption patterns",
+      "Technology adoption",
+      "Media industry transformation"
+    ],
+    "economic_factors": [
+      "Content distribution costs",
+      "Broadband investment",
+      "Media industry disruption"
+    ],
+    "timeline": "by 2005",
+    "key_events": [
+      "VCRs obsolete within ten years, replaced by digital streaming and on-demand video"
+    ],
+    "domains_focused": [
+      "video_streaming",
+      "digital_media",
+      "entertainment_technology"
+    ],
+    "domains": [
+      "video_streaming",
+      "digital_media",
+      "entertainment_technology"
+    ],
+    "time_since_prediction_years": 10,
+    "metadata": {
+      "predictor_source": "Bill Gates - GQ Magazine Interview",
+      "prediction_date": "1995-07-01",
+      "original_stated_confidence": "High",
+      "actual_outcome": "Realized as predicted",
+      "actual_outcome_date": "2005-2010",
+      "outcome_notes": "Gates accurately predicted the obsolescence of VCRs and rise of digital video streaming.",
+      "unforeseen_influencing_factors_positive": [
+        "Netflix streaming launch",
+        "YouTube creation",
+        "Broadband expansion"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Content licensing complexity",
+        "Bandwidth limitations",
+        "Digital rights management"
+      ]
+    }
+  },
+  {
+    "id": "pearce_prediction_factory_farming_end_2050",
+    "technological_factors": [
+      "Cultured meat",
+      "Plant-based alternatives",
+      "Cellular agriculture",
+      "Food technology"
+    ],
+    "social_factors": [
+      "Animal welfare awareness",
+      "Environmental consciousness",
+      "Ethical consumption"
+    ],
+    "economic_factors": [
+      "Alternative protein costs",
+      "Traditional farming economics",
+      "Investment flows"
+    ],
+    "timeline": "by 2050",
+    "key_events": [
+      "Slaughterhouses and factory-farms shut and outlawed world-wide, with veganism/invitrotarianism becoming the norm"
+    ],
+    "domains_focused": [
+      "food_technology",
+      "animal_welfare",
+      "environmental_sustainability"
+    ],
+    "domains": [
+      "food_technology",
+      "animal_welfare",
+      "environmental_sustainability"
+    ],
+    "time_since_prediction_years": 30,
+    "metadata": {
+      "predictor_source": "David Pearce - Transhumanist Predictions",
+      "prediction_date": "2020-01-01",
+      "original_stated_confidence": "Medium",
+      "actual_outcome": "Pending - 2050 not yet reached",
+      "actual_outcome_date": "TBD",
+      "outcome_notes": "Significant growth in alternative proteins but factory farming still dominant globally.",
+      "unforeseen_influencing_factors_positive": [
+        "Cultured meat advances",
+        "Plant-based meat success",
+        "Environmental awareness"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Cost competitiveness",
+        "Consumer acceptance",
+        "Industry resistance",
+        "Regulatory barriers"
+      ]
+    }
+  },
+  {
+    "id": "1950s_flying_cars_2000",
+    "technological_factors": [
+      "Vertical takeoff vehicles",
+      "Personal aviation",
+      "Traffic control systems",
+      "Engine technology"
+    ],
+    "social_factors": [
+      "Transportation expectations",
+      "Urban planning",
+      "Safety acceptance"
+    ],
+    "economic_factors": [
+      "Manufacturing costs",
+      "Infrastructure requirements",
+      "Insurance costs"
+    ],
+    "timeline": "by 2000",
+    "key_events": [
+      "Personal flying vehicles for individual transportation become commonplace"
+    ],
+    "domains_focused": [
+      "personal_aviation",
+      "transportation",
+      "urban_mobility"
+    ],
+    "domains": [
+      "personal_aviation",
+      "transportation",
+      "urban_mobility"
+    ],
+    "time_since_prediction_years": 50,
+    "metadata": {
+      "predictor_source": "1950s Popular Science and Futurist Publications",
+      "prediction_date": "1950-01-01",
+      "original_stated_confidence": "High",
+      "actual_outcome": "Not realized",
+      "actual_outcome_date": "Never",
+      "outcome_notes": "Flying cars remain impractical for mass adoption due to safety, cost, and infrastructure requirements.",
+      "unforeseen_influencing_factors_positive": [
+        "Drone technology advances",
+        "Electric aviation progress"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Safety regulations",
+        "Cost barriers",
+        "Traffic control complexity",
+        "Noise concerns"
+      ]
+    }
+  },
+  {
+    "id": "1950s_nuclear_powered_appliances_1970",
+    "technological_factors": [
+      "Nuclear miniaturization",
+      "Radiation shielding",
+      "Safety systems",
+      "Atomic energy"
+    ],
+    "social_factors": [
+      "Nuclear optimism",
+      "Technology enthusiasm",
+      "Safety awareness"
+    ],
+    "economic_factors": [
+      "Nuclear industry",
+      "Energy costs",
+      "Appliance manufacturing"
+    ],
+    "timeline": "by 1970",
+    "key_events": [
+      "Nuclear-powered vacuum cleaners and household appliances become reality"
+    ],
+    "domains_focused": [
+      "nuclear_technology",
+      "home_appliances",
+      "energy_systems"
+    ],
+    "domains": [
+      "nuclear_technology",
+      "home_appliances",
+      "energy_systems"
+    ],
+    "time_since_prediction_years": 15,
+    "metadata": {
+      "predictor_source": "1950s Atomic Age Predictions",
+      "prediction_date": "1955-01-01",
+      "original_stated_confidence": "Medium",
+      "actual_outcome": "Not realized",
+      "actual_outcome_date": "Never",
+      "outcome_notes": "Nuclear household appliances proved impractical due to safety, cost, and regulatory concerns.",
+      "unforeseen_influencing_factors_positive": ["Nuclear reactor advances"],
+      "unforeseen_influencing_factors_negative": [
+        "Safety concerns",
+        "Nuclear accidents",
+        "Cost prohibitive",
+        "Regulatory restrictions"
+      ]
+    }
+  },
+  {
+    "id": "1950s_underwater_cities_2000",
+    "technological_factors": [
+      "Underwater construction",
+      "Life support systems",
+      "Pressure resistance",
+      "Ocean engineering"
+    ],
+    "social_factors": [
+      "Population pressure",
+      "Ocean exploration",
+      "Alternative living"
+    ],
+    "economic_factors": [
+      "Construction costs",
+      "Resource extraction",
+      "Tourism potential"
+    ],
+    "timeline": "by 2000",
+    "key_events": [
+      "Permanent underwater cities established for residential and commercial use"
+    ],
+    "domains_focused": [
+      "ocean_engineering",
+      "underwater_habitation",
+      "marine_technology"
+    ],
+    "domains": [
+      "ocean_engineering",
+      "underwater_habitation",
+      "marine_technology"
+    ],
+    "time_since_prediction_years": 50,
+    "metadata": {
+      "predictor_source": "1950s Science Fiction and Popular Magazines",
+      "prediction_date": "1950-01-01",
+      "original_stated_confidence": "Medium",
+      "actual_outcome": "Not realized",
+      "actual_outcome_date": "Never",
+      "outcome_notes": "Underwater habitation remains limited to research stations and submarines due to cost and technical challenges.",
+      "unforeseen_influencing_factors_positive": [
+        "Ocean exploration technology",
+        "Deep sea research"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Extreme costs",
+        "Technical complexity",
+        "Safety risks",
+        "Limited practical benefits"
+      ]
+    }
+  },
+  {
+    "id": "1950s_weather_control_1980",
+    "technological_factors": [
+      "Cloud seeding",
+      "Atmospheric manipulation",
+      "Climate engineering",
+      "Meteorological science"
+    ],
+    "social_factors": [
+      "Agricultural needs",
+      "Disaster prevention",
+      "International cooperation"
+    ],
+    "economic_factors": [
+      "Agricultural productivity",
+      "Weather modification costs",
+      "Insurance industry"
+    ],
+    "timeline": "by 1980",
+    "key_events": [
+      "Routine weather control and climate manipulation for agricultural and social benefit"
+    ],
+    "domains_focused": [
+      "weather_modification",
+      "climate_engineering",
+      "atmospheric_science"
+    ],
+    "domains": [
+      "weather_modification",
+      "climate_engineering",
+      "atmospheric_science"
+    ],
+    "time_since_prediction_years": 30,
+    "metadata": {
+      "predictor_source": "1950s Weather Control Predictions",
+      "prediction_date": "1950-01-01",
+      "original_stated_confidence": "High",
+      "actual_outcome": "Partially realized",
+      "actual_outcome_date": "1960-1980",
+      "outcome_notes": "Limited cloud seeding and weather modification achieved but not routine large-scale weather control.",
+      "unforeseen_influencing_factors_positive": [
+        "Cloud seeding technology",
+        "Atmospheric research"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Complexity of weather systems",
+        "International conflicts",
+        "Unintended consequences",
+        "Cost-benefit limitations"
+      ]
+    }
+  },
+  {
+    "id": "1950s_space_tourism_1980",
+    "technological_factors": [
+      "Rocket technology",
+      "Space transportation",
+      "Life support systems",
+      "Orbital facilities"
+    ],
+    "social_factors": [
+      "Space enthusiasm",
+      "Adventure tourism",
+      "Safety acceptance"
+    ],
+    "economic_factors": [
+      "Launch costs",
+      "Tourism market",
+      "Space industry development"
+    ],
+    "timeline": "by 1980",
+    "key_events": [
+      "Regular commercial space tourism and orbital hotels for civilian passengers"
+    ],
+    "domains_focused": [
+      "space_tourism",
+      "commercial_spaceflight",
+      "orbital_facilities"
+    ],
+    "domains": [
+      "space_tourism",
+      "commercial_spaceflight",
+      "orbital_facilities"
+    ],
+    "time_since_prediction_years": 25,
+    "metadata": {
+      "predictor_source": "1950s Space Age Predictions",
+      "prediction_date": "1955-01-01",
+      "original_stated_confidence": "High",
+      "actual_outcome": "Not realized (timeline)",
+      "actual_outcome_date": "2020-2025",
+      "outcome_notes": "Space tourism finally emerging 40+ years later than predicted with SpaceX, Blue Origin, and Virgin Galactic.",
+      "unforeseen_influencing_factors_positive": [
+        "Private space companies",
+        "Reusable rockets",
+        "Billionaire investment"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "High costs",
+        "Safety requirements",
+        "Technical complexity",
+        "Government priorities shift"
+      ]
+    }
+  },
+  {
+    "id": "edison_1889_ac_current_failure",
+    "technological_factors": [
+      "Electrical systems",
+      "Power distribution",
+      "Current types",
+      "Infrastructure"
+    ],
+    "social_factors": [
+      "Technology adoption",
+      "Safety concerns",
+      "Industry competition"
+    ],
+    "economic_factors": [
+      "Power industry",
+      "Infrastructure investment",
+      "Patent revenues"
+    ],
+    "timeline": "never",
+    "key_events": [
+      "Alternating current will never be adopted - 'Nobody will use it, ever'"
+    ],
+    "domains_focused": [
+      "electrical_systems",
+      "power_distribution",
+      "energy_infrastructure"
+    ],
+    "domains": [
+      "electrical_systems",
+      "power_distribution",
+      "energy_infrastructure"
+    ],
+    "time_since_prediction_years": 0,
+    "metadata": {
+      "predictor_source": "Thomas Edison",
+      "prediction_date": "1889-01-01",
+      "original_stated_confidence": "High",
+      "actual_outcome": "Completely wrong",
+      "actual_outcome_date": "1895-1900",
+      "outcome_notes": "AC current became dominant worldwide, powering modern electrical infrastructure.",
+      "unforeseen_influencing_factors_positive": [
+        "Tesla's AC motor",
+        "Westinghouse investment",
+        "Long-distance transmission advantages"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Edison's DC investment",
+        "Patent competition",
+        "Personal rivalry with Tesla"
+      ]
+    }
+  },
+  {
+    "id": "wright_1920_transatlantic_flight_never",
+    "technological_factors": [
+      "Aircraft range",
+      "Engine reliability",
+      "Navigation systems",
+      "Fuel capacity"
+    ],
+    "social_factors": [
+      "Aviation enthusiasm",
+      "Technology confidence",
+      "Safety concerns"
+    ],
+    "economic_factors": [
+      "Aircraft development",
+      "Commercial aviation",
+      "Government support"
+    ],
+    "timeline": "never",
+    "key_events": ["No flying machine will ever fly from New York to Paris"],
+    "domains_focused": [
+      "aviation",
+      "long_distance_flight",
+      "aircraft_technology"
+    ],
+    "domains": [
+      "aviation",
+      "long_distance_flight",
+      "aircraft_technology"
+    ],
+    "time_since_prediction_years": 0,
+    "metadata": {
+      "predictor_source": "Orville Wright",
+      "prediction_date": "1920-01-01",
+      "original_stated_confidence": "High",
+      "actual_outcome": "Completely wrong",
+      "actual_outcome_date": "1927-05-21",
+      "outcome_notes": "Charles Lindbergh's transatlantic flight occurred just 7 years later, proving Wright wrong.",
+      "unforeseen_influencing_factors_positive": [
+        "Engine improvements",
+        "Navigation advances",
+        "Prize incentives",
+        "Pilot skill"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Technical challenges underestimated",
+        "Rapid aviation progress"
+      ]
+    }
+  },
+  {
+    "id": "olsen_1977_home_computers_never",
+    "technological_factors": [
+      "Computer miniaturization",
+      "Cost reduction",
+      "User interfaces",
+      "Software development"
+    ],
+    "social_factors": [
+      "Computer literacy",
+      "Home technology adoption",
+      "Consumer needs"
+    ],
+    "economic_factors": [
+      "Computer costs",
+      "Consumer markets",
+      "Manufacturing scale"
+    ],
+    "timeline": "never",
+    "key_events": [
+      "There is no reason anyone would want a computer in their home"
+    ],
+    "domains_focused": [
+      "personal_computing",
+      "consumer_technology",
+      "home_automation"
+    ],
+    "domains": [
+      "personal_computing",
+      "consumer_technology",
+      "home_automation"
+    ],
+    "time_since_prediction_years": 0,
+    "metadata": {
+      "predictor_source": "Ken Olsen - DEC Founder",
+      "prediction_date": "1977-01-01",
+      "original_stated_confidence": "High",
+      "actual_outcome": "Completely wrong",
+      "actual_outcome_date": "1980-1990",
+      "outcome_notes": "Personal computers became ubiquitous in homes worldwide within a decade.",
+      "unforeseen_influencing_factors_positive": [
+        "Apple II success",
+        "Software development",
+        "Cost reductions",
+        "User-friendly interfaces"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Mainframe thinking",
+        "Limited vision of applications",
+        "Cost assumptions"
+      ]
+    }
+  },
+  {
+    "id": "musk_2016_tesla_autopilot_coast_to_coast_2017",
+    "technological_factors": [
+      "Computer vision",
+      "Machine learning",
+      "Sensor technology",
+      "Autonomous driving"
+    ],
+    "social_factors": [
+      "Self-driving acceptance",
+      "Safety expectations",
+      "Regulatory approval"
+    ],
+    "economic_factors": [
+      "Autonomous vehicle investment",
+      "Transportation costs",
+      "Insurance implications"
+    ],
+    "timeline": "by December 2017",
+    "key_events": [
+      "Tesla will demonstrate full autonomy from LA parking lot to NYC parking lot without any controls touched"
+    ],
+    "domains_focused": [
+      "autonomous_vehicles",
+      "machine_learning",
+      "computer_vision"
+    ],
+    "domains": [
+      "Autonomous Vehicles",
+      "Machine Learning",
+      "Computer Vision"
+    ],
+    "time_since_prediction_years": 8,
+    "metadata": {
+      "predictor_source": "Elon Musk - Tesla CEO",
+      "prediction_date": "2016-10-01",
+      "original_stated_confidence": "High",
+      "actual_outcome": "Not realized",
+      "actual_outcome_date": "Never",
+      "outcome_notes": "Tesla has not achieved full coast-to-coast autonomy as predicted, despite significant advances.",
+      "unforeseen_influencing_factors_positive": [
+        "AI advances",
+        "Data collection",
+        "Neural network improvements"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Edge case complexity",
+        "Safety requirements",
+        "Regulatory scrutiny",
+        "Technical challenges"
+      ]
+    }
+  },
+  {
+    "id": "musk_2019_tesla_robotaxis_2020",
+    "technological_factors": [
+      "Full self-driving",
+      "Fleet management",
+      "Autonomous navigation",
+      "AI systems"
+    ],
+    "social_factors": [
+      "Ride-sharing adoption",
+      "Safety acceptance",
+      "Regulatory approval"
+    ],
+    "economic_factors": [
+      "Transportation economics",
+      "Vehicle utilization",
+      "Service business models"
+    ],
+    "timeline": "by 2020",
+    "key_events": [
+      "Over a million Tesla robotaxis on the road providing autonomous ride services"
+    ],
+    "domains_focused": [
+      "autonomous_vehicles",
+      "ride_sharing",
+      "transportation_services"
+    ],
+    "domains": [
+      "Autonomous Vehicles",
+      "Ride Sharing",
+      "Transportation Services"
+    ],
+    "time_since_prediction_years": 5,
+    "metadata": {
+      "predictor_source": "Elon Musk - Tesla Autonomy Day",
+      "prediction_date": "2019-04-22",
+      "original_stated_confidence": "Very High",
+      "actual_outcome": "Not realized",
+      "actual_outcome_date": "Never",
+      "outcome_notes": "Tesla robotaxis have not materialized as predicted; FSD still requires human supervision.",
+      "unforeseen_influencing_factors_positive": [
+        "FSD beta deployment",
+        "Data collection scale"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Regulatory barriers",
+        "Safety concerns",
+        "Technical complexity",
+        "Liability issues"
+      ]
+    }
+  },
+  {
+    "id": "1960s_picturephone_ubiquity_1980",
+    "technological_factors": [
+      "Video telephony",
+      "Transmission technology",
+      "Display systems",
+      "Network infrastructure"
+    ],
+    "social_factors": [
+      "Communication preferences",
+      "Privacy concerns",
+      "Technology adoption"
+    ],
+    "economic_factors": [
+      "Telecommunications costs",
+      "Equipment prices",
+      "Network investment"
+    ],
+    "timeline": "by 1980",
+    "key_events": [
+      "Video telephony becomes standard for business and personal communication"
+    ],
+    "domains_focused": [
+      "video_communication",
+      "telecommunications",
+      "visual_telephony"
+    ],
+    "domains": [
+      "Video Communication",
+      "Telecommunications",
+      "Visual Telephony"
+    ],
+    "time_since_prediction_years": 16,
+    "metadata": {
+      "predictor_source": "AT&T and 1960s Telecommunications Industry",
+      "prediction_date": "1964-01-01",
+      "original_stated_confidence": "High",
+      "actual_outcome": "Not realized (timeline)",
+      "actual_outcome_date": "2020-2025",
+      "outcome_notes": "Video calling became common 40+ years later with internet, smartphones, and platforms like Zoom/Skype.",
+      "unforeseen_influencing_factors_positive": [
+        "Internet development",
+        "Mobile cameras",
+        "Broadband expansion"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "High costs",
+        "Limited bandwidth",
+        "User preferences",
+        "Quality issues"
+      ]
+    }
+  },
+  {
+    "id": "1960s_nuclear_powered_aircraft_1980",
+    "technological_factors": [
+      "Nuclear propulsion",
+      "Radiation shielding",
+      "Reactor miniaturization",
+      "Safety systems"
+    ],
+    "social_factors": [
+      "Nuclear acceptance",
+      "Safety concerns",
+      "Environmental awareness"
+    ],
+    "economic_factors": [
+      "Nuclear aircraft costs",
+      "Fuel savings",
+      "Development investment"
+    ],
+    "timeline": "by 1980",
+    "key_events": [
+      "Nuclear-powered commercial aircraft for long-distance travel"
+    ],
+    "domains_focused": [
+      "nuclear_propulsion",
+      "aircraft_technology",
+      "aviation_energy"
+    ],
+    "domains": [
+      "Nuclear Propulsion",
+      "Aircraft Technology",
+      "Aviation Energy"
+    ],
+    "time_since_prediction_years": 20,
+    "metadata": {
+      "predictor_source": "1960s Nuclear Industry Predictions",
+      "prediction_date": "1960-01-01",
+      "original_stated_confidence": "Medium",
+      "actual_outcome": "Not realized",
+      "actual_outcome_date": "Never",
+      "outcome_notes": "Nuclear aircraft proved impractical due to safety, weight, and cost concerns.",
+      "unforeseen_influencing_factors_positive": ["Nuclear reactor advances"],
+      "unforeseen_influencing_factors_negative": [
+        "Safety regulations",
+        "Weight problems",
+        "Cost prohibitive",
+        "Public opposition"
+      ]
+    }
+  },
+  {
+    "id": "1970s_global_cooling_ice_age_1990",
+    "technological_factors": [
+      "Climate science",
+      "Atmospheric modeling",
+      "Temperature measurement",
+      "Climate data"
+    ],
+    "social_factors": [
+      "Environmental awareness",
+      "Scientific authority",
+      "Media coverage"
+    ],
+    "economic_factors": [
+      "Research funding",
+      "Policy implications",
+      "Economic impacts"
+    ],
+    "timeline": "by 1990",
+    "key_events": ["Global cooling and return to ice age conditions"],
+    "domains_focused": [
+      "climate_science",
+      "atmospheric_research",
+      "environmental_prediction"
+    ],
+    "domains": [
+      "Climate Science",
+      "Atmospheric Research",
+      "Environmental Prediction"
+    ],
+    "time_since_prediction_years": 15,
+    "metadata": {
+      "predictor_source": "Selected 1970s Media and Some Scientists",
+      "prediction_date": "1975-01-01",
+      "original_stated_confidence": "Medium",
+      "actual_outcome": "Completely wrong",
+      "actual_outcome_date": "Never",
+      "outcome_notes": "Global warming occurred instead. The 'cooling consensus' was largely media-driven, not scientific consensus.",
+      "unforeseen_influencing_factors_positive": [
+        "Better climate models",
+        "More data collection"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Media sensationalism",
+        "Limited climate data",
+        "CO2 effects underestimated"
+      ]
+    }
+  },
+  {
+    "id": "ibm_1980_pc_market_forecast_241k_units",
+    "technological_factors": [
+      "Personal computers",
+      "Microprocessors",
+      "Software development",
+      "User interfaces"
+    ],
+    "social_factors": [
+      "Computer adoption",
+      "Home technology use",
+      "Business applications"
+    ],
+    "economic_factors": [
+      "PC market size",
+      "Manufacturing costs",
+      "Software revenues"
+    ],
+    "timeline": "5 years (1981-1986)",
+    "key_events": [
+      "Personal computer market will reach only 241,000 units over five years"
+    ],
+    "domains_focused": [
+      "personal_computing",
+      "market_forecasting",
+      "technology_adoption"
+    ],
+    "domains": [
+      "Personal Computing",
+      "Market Forecasting",
+      "Technology Adoption"
+    ],
+    "time_since_prediction_years": 1,
+    "metadata": {
+      "predictor_source": "IBM Internal Market Forecast",
+      "prediction_date": "1980-01-01",
+      "original_stated_confidence": "High",
+      "actual_outcome": "Massively underestimated",
+      "actual_outcome_date": "1981-1986",
+      "outcome_notes": "Actual PC sales reached 25 million units, 100x higher than IBM's forecast.",
+      "unforeseen_influencing_factors_positive": [
+        "Software ecosystem",
+        "Business applications",
+        "Cost reductions",
+        "User-friendly interfaces"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Mainframe thinking",
+        "Limited vision of applications",
+        "Conservative market analysis"
+      ]
+    }
+  },
+  {
+    "id": "1980s_paperless_office_1990",
+    "technological_factors": [
+      "Computer terminals",
+      "Electronic document storage",
+      "Digital communication",
+      "Office automation"
+    ],
+    "social_factors": [
+      "Workplace transformation",
+      "Technology adoption",
+      "Productivity expectations"
+    ],
+    "economic_factors": [
+      "Office efficiency",
+      "Paper costs",
+      "Equipment investment"
+    ],
+    "timeline": "by 1990",
+    "key_events": [
+      "Offices become completely paperless through computer systems and digital documents"
+    ],
+    "domains_focused": [
+      "office_automation",
+      "digital_documents",
+      "workplace_technology"
+    ],
+    "domains": [
+      "Office Automation",
+      "Digital Documents",
+      "Workplace Technology"
+    ],
+    "time_since_prediction_years": 10,
+    "metadata": {
+      "predictor_source": "1980s Office Technology Predictions",
+      "prediction_date": "1980-01-01",
+      "original_stated_confidence": "High",
+      "actual_outcome": "Not realized",
+      "actual_outcome_date": "Never (fully)",
+      "outcome_notes": "Paper use initially increased with computers; partial reduction occurred later with digital workflows.",
+      "unforeseen_influencing_factors_positive": [
+        "Email adoption",
+        "Digital workflows",
+        "Cloud storage"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Printing convenience",
+        "Legal requirements",
+        "User preferences",
+        "Backup needs"
+      ]
+    }
+  },
+  {
+    "id": "1990s_information_superhighway_500_channels",
+    "technological_factors": [
+      "Digital television",
+      "Cable infrastructure",
+      "Set-top boxes",
+      "Interactive services"
+    ],
+    "social_factors": [
+      "Media consumption",
+      "Entertainment choices",
+      "Information access"
+    ],
+    "economic_factors": [
+      "Cable industry",
+      "Content costs",
+      "Subscription models"
+    ],
+    "timeline": "by 2000",
+    "key_events": [
+      "500-channel interactive television systems transform home entertainment and information access"
+    ],
+    "domains_focused": [
+      "digital_television",
+      "interactive_media",
+      "information_systems"
+    ],
+    "domains": [
+      "Digital Television",
+      "Interactive Media",
+      "Information Systems"
+    ],
+    "time_since_prediction_years": 8,
+    "metadata": {
+      "predictor_source": "1990s Cable and Technology Industry",
+      "prediction_date": "1992-01-01",
+      "original_stated_confidence": "High",
+      "actual_outcome": "Partially realized in different form",
+      "actual_outcome_date": "2005-2015",
+      "outcome_notes": "Internet video streaming exceeded 500-channel vision through platforms like Netflix, YouTube, and streaming services.",
+      "unforeseen_influencing_factors_positive": [
+        "Internet development",
+        "Streaming technology",
+        "On-demand content"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Bandwidth limitations",
+        "Cost of interactive TV",
+        "Consumer preferences shifted to internet"
+      ]
+    }
+  },
+  {
+    "id": "1990s_virtual_reality_mainstream_2000",
+    "technological_factors": [
+      "VR headsets",
+      "3D graphics",
+      "Motion tracking",
+      "Computing power"
+    ],
+    "social_factors": [
+      "Gaming culture",
+      "Technology adoption",
+      "Entertainment preferences"
+    ],
+    "economic_factors": [
+      "VR hardware costs",
+      "Content development",
+      "Market size"
+    ],
+    "timeline": "by 2000",
+    "key_events": [
+      "Virtual Reality becomes mainstream entertainment and communication medium"
+    ],
+    "domains_focused": [
+      "virtual_reality",
+      "3d_graphics",
+      "immersive_technology"
+    ],
+    "domains": [
+      "Virtual Reality",
+      "3D Graphics",
+      "Immersive Technology"
+    ],
+    "time_since_prediction_years": 8,
+    "metadata": {
+      "predictor_source": "1990s VR Industry and Media",
+      "prediction_date": "1992-01-01",
+      "original_stated_confidence": "High",
+      "actual_outcome": "Not realized (timeline)",
+      "actual_outcome_date": "2016-2025",
+      "outcome_notes": "VR remained niche until 2010s; mainstream adoption beginning with Oculus, PlayStation VR, and Meta Quest.",
+      "unforeseen_influencing_factors_positive": [
+        "Mobile processing power",
+        "Display improvements",
+        "Motion sensing"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "High costs",
+        "Motion sickness",
+        "Content limitations",
+        "Bulky hardware"
+      ]
+    }
+  },
+  {
+    "id": "1995_internet_fad_prediction",
+    "technological_factors": [
+      "Internet infrastructure",
+      "Web browsers",
+      "Online services",
+      "Network effects"
+    ],
+    "social_factors": [
+      "Technology adoption",
+      "Communication patterns",
+      "Information access"
+    ],
+    "economic_factors": [
+      "Internet economy",
+      "E-commerce potential",
+      "Service business models"
+    ],
+    "timeline": "by 2000",
+    "key_events": [
+      "Internet will prove to be a temporary fad with limited lasting impact"
+    ],
+    "domains_focused": [
+      "internet_adoption",
+      "digital_communication",
+      "information_technology"
+    ],
+    "domains": [
+      "Internet Adoption",
+      "Digital Communication",
+      "Information Technology"
+    ],
+    "time_since_prediction_years": 5,
+    "metadata": {
+      "predictor_source": "Various Technology Skeptics and Media",
+      "prediction_date": "1995-01-01",
+      "original_stated_confidence": "Medium",
+      "actual_outcome": "Completely wrong",
+      "actual_outcome_date": "1995-2005",
+      "outcome_notes": "Internet became fundamental infrastructure transforming all aspects of society and economy.",
+      "unforeseen_influencing_factors_positive": [
+        "E-commerce growth",
+        "Social media",
+        "Search engines",
+        "Broadband expansion"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Skeptic bias",
+        "Limited early applications",
+        "Technical barriers overestimated"
+      ]
+    }
+  },
+  {
+    "id": "2000s_segway_transportation_revolution",
+    "technological_factors": [
+      "Self-balancing technology",
+      "Electric motors",
+      "Gyroscopic systems",
+      "Personal transportation"
+    ],
+    "social_factors": [
+      "Urban mobility",
+      "Transportation preferences",
+      "Technology adoption"
+    ],
+    "economic_factors": [
+      "Personal transport market",
+      "Manufacturing costs",
+      "Infrastructure needs"
+    ],
+    "timeline": "by 2010",
+    "key_events": [
+      "Segway personal transporters revolutionize urban mobility and replace walking"
+    ],
+    "domains_focused": [
+      "personal_transportation",
+      "urban_mobility",
+      "electric_vehicles"
+    ],
+    "domains": [
+      "Personal Transportation",
+      "Urban Mobility",
+      "Electric Vehicles"
+    ],
+    "time_since_prediction_years": 9,
+    "metadata": {
+      "predictor_source": "Segway Marketing and Technology Media",
+      "prediction_date": "2001-12-03",
+      "original_stated_confidence": "High",
+      "actual_outcome": "Not realized",
+      "actual_outcome_date": "Never",
+      "outcome_notes": "Segway remained a niche product; electric scooters and bikes achieved broader adoption instead.",
+      "unforeseen_influencing_factors_positive": [
+        "Personal electric vehicle interest"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "High costs",
+        "Practical limitations",
+        "Safety concerns",
+        "Alternative solutions emerged"
+      ]
+    }
+  },
+  {
+    "id": "2007_iphone_failure_prediction_ballmer",
+    "technological_factors": [
+      "Touchscreen interfaces",
+      "Mobile computing",
+      "App ecosystems",
+      "Smartphone design"
+    ],
+    "social_factors": [
+      "Mobile phone preferences",
+      "Business communication",
+      "Consumer adoption"
+    ],
+    "economic_factors": [
+      "Smartphone market",
+      "Mobile industry",
+      "Enterprise sales"
+    ],
+    "timeline": "immediate failure",
+    "key_events": [
+      "iPhone will fail due to lack of keyboard and high price, appealing to few users"
+    ],
+    "domains_focused": [
+      "mobile_technology",
+      "smartphone_design",
+      "consumer_electronics"
+    ],
+    "domains": [
+      "Mobile Technology",
+      "Smartphone Design",
+      "Consumer Electronics"
+    ],
+    "time_since_prediction_years": 0,
+    "metadata": {
+      "predictor_source": "Steve Ballmer - Microsoft CEO",
+      "prediction_date": "2007-01-30",
+      "original_stated_confidence": "High",
+      "actual_outcome": "Completely wrong",
+      "actual_outcome_date": "2007-2010",
+      "outcome_notes": "iPhone became enormously successful, transforming the mobile industry and creating the modern smartphone market.",
+      "unforeseen_influencing_factors_positive": [
+        "App Store ecosystem",
+        "Touch interface innovation",
+        "Consumer preference shift"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Established industry thinking",
+        "Enterprise focus bias",
+        "Keyboard attachment"
+      ]
+    }
+  },
+  {
+    "id": "2010s_3d_television_mainstream_adoption",
+    "technological_factors": [
+      "3D display technology",
+      "Content production",
+      "Glasses technology",
+      "Broadcasting standards"
+    ],
+    "social_factors": [
+      "Entertainment preferences",
+      "Technology adoption",
+      "Home theater trends"
+    ],
+    "economic_factors": [
+      "TV industry investment",
+      "Content costs",
+      "Consumer pricing"
+    ],
+    "timeline": "by 2015",
+    "key_events": [
+      "3D television becomes standard for home entertainment with widespread consumer adoption"
+    ],
+    "domains_focused": [
+      "3d_displays",
+      "television_technology",
+      "home_entertainment"
+    ],
+    "domains": [
+      "3D Displays",
+      "Television Technology",
+      "Home Entertainment"
+    ],
+    "time_since_prediction_years": 5,
+    "metadata": {
+      "predictor_source": "Television Industry and Technology Analysts",
+      "prediction_date": "2010-01-01",
+      "original_stated_confidence": "High",
+      "actual_outcome": "Not realized",
+      "actual_outcome_date": "Never",
+      "outcome_notes": "3D TV failed to gain mainstream adoption; manufacturers largely abandoned 3D features by 2017.",
+      "unforeseen_influencing_factors_positive": ["Movie theater 3D success"],
+      "unforeseen_influencing_factors_negative": [
+        "Glasses requirement",
+        "Content limitations",
+        "Viewing comfort issues",
+        "High costs"
+      ]
+    }
+  },
+  {
+    "id": "wearable_computing_ubiquity_2015",
+    "technological_factors": [
+      "Miniaturization",
+      "Flexible displays",
+      "Sensor technology",
+      "Wireless connectivity"
+    ],
+    "social_factors": [
+      "Fashion integration",
+      "Health monitoring",
+      "Convenience expectations"
+    ],
+    "economic_factors": [
+      "Wearable device costs",
+      "Health insurance",
+      "Fashion industry"
+    ],
+    "timeline": "by 2015",
+    "key_events": [
+      "Wearable computers integrated into clothing and accessories become ubiquitous for daily computing tasks"
+    ],
+    "domains_focused": [
+      "wearable_computing",
+      "smart_clothing",
+      "ubiquitous_computing"
+    ],
+    "domains": [
+      "Wearable Computing",
+      "Smart Clothing",
+      "Ubiquitous Computing"
+    ],
+    "time_since_prediction_years": 10,
+    "metadata": {
+      "predictor_source": "Wearable Computing Researchers and Industry",
+      "prediction_date": "2005-01-01",
+      "original_stated_confidence": "High",
+      "actual_outcome": "Partially realized",
+      "actual_outcome_date": "2015-2020",
+      "outcome_notes": "Smartwatches and fitness trackers achieved adoption but full clothing integration remains limited.",
+      "unforeseen_influencing_factors_positive": [
+        "Apple Watch success",
+        "Fitness tracking popularity",
+        "Health monitoring demand"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Battery limitations",
+        "Washing/durability issues",
+        "Fashion industry resistance",
+        "Privacy concerns"
+      ]
+    }
+  },
+  {
+    "id": "google_glass_mainstream_2015",
+    "technological_factors": [
+      "Augmented reality",
+      "Miniature displays",
+      "Voice control",
+      "Wireless connectivity"
+    ],
+    "social_factors": [
+      "Privacy concerns",
+      "Social acceptance",
+      "Technology adoption"
+    ],
+    "economic_factors": [
+      "AR device costs",
+      "Developer ecosystem",
+      "Enterprise applications"
+    ],
+    "timeline": "by 2015",
+    "key_events": [
+      "Google Glass and similar AR glasses become mainstream consumer devices"
+    ],
+    "domains_focused": [
+      "augmented_reality",
+      "smart_glasses",
+      "wearable_displays"
+    ],
+    "domains": [
+      "Augmented Reality",
+      "Smart Glasses",
+      "Wearable Displays"
+    ],
+    "time_since_prediction_years": 3,
+    "metadata": {
+      "predictor_source": "Google and AR Industry Predictions",
+      "prediction_date": "2012-04-04",
+      "original_stated_confidence": "High",
+      "actual_outcome": "Not realized",
+      "actual_outcome_date": "Never (consumer)",
+      "outcome_notes": "Google Glass failed as consumer product due to privacy concerns, high cost, and limited functionality.",
+      "unforeseen_influencing_factors_positive": [
+        "Enterprise applications",
+        "AR technology advances"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Privacy backlash",
+        "Social stigma",
+        "High costs",
+        "Limited battery life",
+        "Functionality gaps"
+      ]
+    }
+  },
+  {
+    "id": "blockchain_everything_transformation_2020",
+    "technological_factors": [
+      "Distributed ledgers",
+      "Smart contracts",
+      "Cryptocurrency",
+      "Decentralized systems"
+    ],
+    "social_factors": [
+      "Financial system distrust",
+      "Decentralization appeal",
+      "Technology adoption"
+    ],
+    "economic_factors": [
+      "Cryptocurrency markets",
+      "Financial services disruption",
+      "Energy costs"
+    ],
+    "timeline": "by 2020",
+    "key_events": [
+      "Blockchain technology transforms all major industries and replaces traditional financial and data systems"
+    ],
+    "domains_focused": [
+      "blockchain_technology",
+      "cryptocurrency",
+      "distributed_systems"
+    ],
+    "domains": [
+      "Blockchain Technology",
+      "Cryptocurrency",
+      "Distributed Systems"
+    ],
+    "time_since_prediction_years": 5,
+    "metadata": {
+      "predictor_source": "Blockchain Industry and Cryptocurrency Advocates",
+      "prediction_date": "2015-01-01",
+      "original_stated_confidence": "High",
+      "actual_outcome": "Partially realized",
+      "actual_outcome_date": "2020-2025",
+      "outcome_notes": "Blockchain found applications in finance and digital assets but failed to transform most industries as predicted.",
+      "unforeseen_influencing_factors_positive": [
+        "Cryptocurrency adoption",
+        "DeFi development",
+        "NFT markets"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Scalability issues",
+        "Energy consumption",
+        "Regulatory uncertainty",
+        "Technical complexity",
+        "Limited practical advantages"
+      ]
+    }
+  },
+  {
+    "id": "quantum_computing_breakthrough_2020",
+    "technological_factors": [
+      "Quantum processors",
+      "Error correction",
+      "Quantum algorithms",
+      "Cryogenic systems"
+    ],
+    "social_factors": [
+      "Scientific expectations",
+      "Investment enthusiasm",
+      "Cybersecurity concerns"
+    ],
+    "economic_factors": [
+      "Quantum computing investment",
+      "Research funding",
+      "Industry partnerships"
+    ],
+    "timeline": "by 2020",
+    "key_events": [
+      "Practical quantum computers solve real-world problems and break current encryption systems"
+    ],
+    "domains_focused": [
+      "quantum_computing",
+      "cryptography",
+      "computational_science"
+    ],
+    "domains": [
+      "Quantum Computing",
+      "Cryptography",
+      "Computational Science"
+    ],
+    "time_since_prediction_years": 10,
+    "metadata": {
+      "predictor_source": "Quantum Computing Industry and Researchers",
+      "prediction_date": "2010-01-01",
+      "original_stated_confidence": "Medium",
+      "actual_outcome": "Not realized (timeline)",
+      "actual_outcome_date": "TBD",
+      "outcome_notes": "Quantum computers achieved limited milestones but practical applications and encryption breaking remain future goals.",
+      "unforeseen_influencing_factors_positive": [
+        "Major tech company investment",
+        "Government funding",
+        "Research breakthroughs"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Error correction challenges",
+        "Decoherence problems",
+        "Scalability issues",
+        "Cost barriers"
+      ]
+    }
+  },
+  {
+    "id": "metaverse_mainstream_adoption_2025",
+    "technological_factors": [
+      "Virtual reality",
+      "Augmented reality",
+      "Blockchain",
+      "Cloud computing"
+    ],
+    "social_factors": [
+      "Remote work trends",
+      "Social media evolution",
+      "Gaming culture"
+    ],
+    "economic_factors": [
+      "VR/AR investment",
+      "Virtual economies",
+      "Real estate markets"
+    ],
+    "timeline": "by 2025",
+    "key_events": [
+      "Metaverse platforms become mainstream for work, social interaction, and commerce"
+    ],
+    "domains_focused": [
+      "virtual_worlds",
+      "augmented_reality",
+      "digital_economies"
+    ],
+    "domains": [
+      "Virtual Worlds",
+      "Augmented Reality",
+      "Digital Economies"
+    ],
+    "time_since_prediction_years": 4,
+    "metadata": {
+      "predictor_source": "Meta (Facebook) and Metaverse Industry",
+      "prediction_date": "2021-10-28",
+      "original_stated_confidence": "High",
+      "actual_outcome": "Pending - 2025 approaching",
+      "actual_outcome_date": "TBD",
+      "outcome_notes": "Metaverse adoption slower than predicted; VR/AR technology and user adoption lagging expectations.",
+      "unforeseen_influencing_factors_positive": [
+        "VR hardware improvements",
+        "Gaming platform growth"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "VR adoption barriers",
+        "Motion sickness",
+        "High costs",
+        "Content limitations",
+        "User interface challenges"
+      ]
+    }
+  },
+  {
+    "id": 1,
+    "technological_factors": ["Artificial Intelligence", "Computing"],
+    "social_factors": ["Post-WWII scientific optimism"],
+    "economic_factors": ["Government-funded early computing research"],
+    "timeline": "By the year 2000",
+    "key_events": "Alan Turing predicted that by around the year 2000, machines would be able to fool human interrogators about 30% of the time in a five-minute conversation (the \"Turing Test\"):contentReference[oaicite:0]{index=0}.",
+    "domains_focused": ["AI", "Computer Science"],
+    "domains": ["AI", "Computer Science"],
+    "time_since_prediction_years": 50,
+    "metadata": {
+      "predictor_source": "Alan Turing – \"Computing Machinery and Intelligence\" (Mind journal, 1950)",
+      "prediction_date": "1950-10-01",
+      "original_stated_confidence": "Speculative (belief stated in paper)",
+      "actual_outcome": "Not realized",
+      "actual_outcome_date": "2000-12-31",
+      "outcome_notes": "By 2000, no AI had definitively passed the Turing Test under the conditions Turing outlined. (Even by 2025, chatbots have made progress but not convincingly passed as human in unrestricted conversation.)",
+      "unforeseen_influencing_factors_positive": [
+        "Advances in computing power and machine learning in later decades"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "AI complexity underestimated; language understanding proved harder than anticipated"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "technological_factors": ["Nuclear power", "Home appliances"],
+    "social_factors": ["Atomic Age enthusiasm in the 1950s"],
+    "economic_factors": ["Post-war consumer boom"],
+    "timeline": "Within 10 years (by mid-1960s)",
+    "key_events": "Alex Lewyt (president of a vacuum company) predicted in 1955 that nuclear-powered vacuum cleaners would \"probably be a reality within ten years\":contentReference[oaicite:1]{index=1}.",
+    "domains_focused": ["Home Technology", "Energy"],
+    "domains": ["Home Technology", "Energy"],
+    "time_since_prediction_years": 10,
+    "metadata": {
+      "predictor_source": "Alex Lewyt – Interview in The New York Times (1955)",
+      "prediction_date": "1955-04-00",
+      "original_stated_confidence": "Optimistic assertion",
+      "actual_outcome": "Not realized",
+      "actual_outcome_date": "1965-12-31",
+      "outcome_notes": "No nuclear-powered appliances appeared in the 1960s; the idea was impractical due to safety and cost. Vacuum cleaners remained electric.",
+      "unforeseen_influencing_factors_positive": [],
+      "unforeseen_influencing_factors_negative": [
+        "Radiation safety issues",
+        "High development costs",
+        "Public fear of nuclear technology in homes"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "technological_factors": ["Artificial Intelligence", "Computer algorithms"],
+    "social_factors": ["Early optimism in AI research"],
+    "economic_factors": ["Cold War funding for computing and AI"],
+    "timeline": "Within 10 years (by 1967)",
+    "key_events": "Herbert A. Simon predicted in 1957 that a digital computer would surpass human chess champions within a decade:contentReference[oaicite:2]{index=2}.",
+    "domains_focused": ["AI", "Gaming/Chess"],
+    "domains": ["AI", "Gaming/Chess"],
+    "time_since_prediction_years": 10,
+    "metadata": {
+      "predictor_source": "Herbert Simon – Speech at Dartmouth AI conference (1957)",
+      "prediction_date": "1957-09-00",
+      "original_stated_confidence": "Confident claim",
+      "actual_outcome": "Not realized in timeframe (realized later)",
+      "actual_outcome_date": "1997-05-11",
+      "outcome_notes": "It took about 40 years, not 10, for a computer to beat a reigning world chess champion. IBM's Deep Blue defeated Garry Kasparov in 1997:contentReference[oaicite:3]{index=3}.",
+      "unforeseen_influencing_factors_positive": [
+        "Steady exponential growth in computing power (Moore's Law) eventually enabled stronger chess programs"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "AI complexity underestimated; chess proved harder than expected for early programs"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "technological_factors": ["Microelectronics", "Semiconductors"],
+    "social_factors": ["Space Race-era technological optimism"],
+    "economic_factors": ["Booming electronics industry in 1960s"],
+    "timeline": "Over the next ~10 years (1965–1975)",
+    "key_events": "Gordon Moore predicted in 1965 that the number of components on an integrated circuit would double every year for at least a decade:contentReference[oaicite:4]{index=4}. This extrapolation, later known as \"Moore's Law,\" foresaw exponential growth in computing power.",
+    "domains_focused": ["Computing", "Electronics"],
+    "domains": ["Computing", "Electronics"],
+    "time_since_prediction_years": 10,
+    "metadata": {
+      "predictor_source": "Gordon E. Moore – Electronics Magazine article \"Cramming More Components onto Integrated Circuits\" (1965)",
+      "prediction_date": "1965-04-19",
+      "original_stated_confidence": "Analytical projection",
+      "actual_outcome": "Realized (and extended)",
+      "actual_outcome_date": "1975-01-01",
+      "outcome_notes": "The prediction held true through the 1970s: chip transistor counts doubled roughly every 1-2 years. \"Moore's Law\" remained a driving trend in computing for decades beyond the original timeframe:contentReference[oaicite:5]{index=5}.",
+      "unforeseen_influencing_factors_positive": [
+        "Advances in photolithography and materials, massive R&D investments in semiconductor industry"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Physical limits approaching in later years, eventually slowing the pace after 2010s"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "technological_factors": ["Robotics", "Automation"],
+    "social_factors": ["Space Age futurism"],
+    "economic_factors": ["Post-war economic boom enabling research"],
+    "timeline": "By 2014 (50 years in the future from 1964)",
+    "key_events": "Isaac Asimov predicted in 1964 that by 2014 \"Robots will neither be common nor very good,\" though they would exist and perform basic tasks:contentReference[oaicite:6]{index=6}.",
+    "domains_focused": ["AI", "Robotics"],
+    "domains": ["AI", "Robotics"],
+    "time_since_prediction_years": 50,
+    "metadata": {
+      "predictor_source": "Isaac Asimov – New York Times essay (1964) on the World's Fair of 2014",
+      "prediction_date": "1964-08-00",
+      "original_stated_confidence": "Matter-of-fact projection",
+      "actual_outcome": "Realized",
+      "actual_outcome_date": "2014-01-01",
+      "outcome_notes": "Largely accurate. By 2014, robots (like factory robots, Roomba vacuums) existed but were not ubiquitous in everyday life and remained limited in capability – just as Asimov foresaw:contentReference[oaicite:7]{index=7}.",
+      "unforeseen_influencing_factors_positive": [
+        "Steady improvements in computing and sensors enabling basic robots"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Robotics proved challenging: general-purpose humanoid robots were still primitive and expensive by 2014"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "technological_factors": ["Telecommunications", "Display technology"],
+    "social_factors": ["Mid-century futurism"],
+    "economic_factors": ["Telecom industry growth"],
+    "timeline": "By 2014",
+    "key_events": "Isaac Asimov also predicted that by 2014 communications would be \"sight-sound\" – people would routinely make video calls and read documents on screens:contentReference[oaicite:8]{index=8}. He envisioned wall-sized displays and a form of Skype/Facetime decades before they existed.",
+    "domains_focused": ["Communications", "Computing"],
+    "domains": ["Communications", "Computing"],
+    "time_since_prediction_years": 50,
+    "metadata": {
+      "predictor_source": "Isaac Asimov – World's Fair 2014 essay (NYT, 1964)",
+      "prediction_date": "1964-08-00",
+      "original_stated_confidence": "Confident",
+      "actual_outcome": "Realized",
+      "actual_outcome_date": "2014-01-01",
+      "outcome_notes": "Accurate. By 2014, video conferencing and digital document viewing were commonplace (e.g., Skype, webcams, smartphones, tablets):contentReference[oaicite:9]{index=9}. Large flat-panel TVs and monitors also echoed his vision of wall-sized screens.",
+      "unforeseen_influencing_factors_positive": [
+        "Development of the internet, digital video compression, and high-speed networks enabling global video calls"
+      ],
+      "unforeseen_influencing_factors_negative": []
+    }
+  },
+  {
+    "id": 7,
+    "technological_factors": ["Global communications", "Computers"],
+    "social_factors": ["Post-war internationalism"],
+    "economic_factors": ["Advances in telecommunications"],
+    "timeline": "By the year 2000 (approx. 35 years ahead)",
+    "key_events": "Arthur C. Clarke, in a BBC TV interview in 1964, predicted that by the year 2000 people would be able to communicate instantly with anyone on Earth and even work remotely from anywhere (e.g. from Tahiti or Bali as easily as London):contentReference[oaicite:10]{index=10}. He suggested this would make cities less important since work need not be centralized.",
+    "domains_focused": ["Telecommunications", "Work"],
+    "domains": ["Telecommunications", "Work"],
+    "time_since_prediction_years": 36,
+    "metadata": {
+      "predictor_source": "Arthur C. Clarke – BBC Horizon interview (1964)",
+      "prediction_date": "1964-00-00",
+      "original_stated_confidence": "Confident",
+      "actual_outcome": "Largely realized",
+      "actual_outcome_date": "2000-01-01",
+      "outcome_notes": "Largely correct. By 2000, the internet, email, and mobile phones allowed instant global communication. Remote work was technologically possible (and became widespread by the 2020s):contentReference[oaicite:11]{index=11}. However, cities remained important economic centers, contrary to his speculation that they might diminish in relevance.",
+      "unforeseen_influencing_factors_positive": [
+        "The creation of the internet and satellites enabling global networking"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Social and cultural inertia still drew people to cities; remote work adoption took longer due to organizational habits"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "technological_factors": ["Marine engineering", "Architecture"],
+    "social_factors": ["1970s futurist optimism"],
+    "economic_factors": ["Focus on new frontiers amid resource concerns"],
+    "timeline": "By the 21st century (2000s)",
+    "key_events": "Futurist Alvin Toffler predicted in 1970 the eventual creation of \"artificial cities beneath the waves\" – underwater cities for humans to live in:contentReference[oaicite:12]{index=12}.",
+    "domains_focused": ["Urban Planning", "Environment"],
+    "domains": ["Urban Planning", "Environment"],
+    "time_since_prediction_years": 55,
+    "metadata": {
+      "predictor_source": "Alvin Toffler – *Future Shock* (1970)",
+      "prediction_date": "1970-01-01",
+      "original_stated_confidence": "Speculative",
+      "actual_outcome": "Not realized",
+      "actual_outcome_date": "2025-01-01",
+      "outcome_notes": "No actual underwater city exists as of 2025. Aside from small research habitats (e.g. SEALAB, Aquarius), humans have not established permanent undersea colonies; Toffler’s vision did not materialize:contentReference[oaicite:13]{index=13}.",
+      "unforeseen_influencing_factors_positive": [],
+      "unforeseen_influencing_factors_negative": [
+        "High costs and technical challenges of undersea construction",
+        "Lack of economic incentive to live underwater"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "technological_factors": ["Spaceflight", "Habitat engineering"],
+    "social_factors": ["Space Race and 1970s vision of new frontiers"],
+    "economic_factors": [
+      "Expectation of continued massive investment in space"
+    ],
+    "timeline": "By early 21st century",
+    "key_events": "Alvin Toffler also believed a \"new frontier spirit\" would lead to colonies in space, predicting large-scale human settlements either in orbit or on other planets in the early 21st century:contentReference[oaicite:14]{index=14}.",
+    "domains_focused": ["Space Exploration"],
+    "domains": ["Space Exploration"],
+    "time_since_prediction_years": 55,
+    "metadata": {
+      "predictor_source": "Alvin Toffler – *Future Shock* (1970)",
+      "prediction_date": "1970-01-01",
+      "original_stated_confidence": "Speculative",
+      "actual_outcome": "Not realized",
+      "actual_outcome_date": "2025-01-01",
+      "outcome_notes": "Space colonies have not been realized. By 2025, while there is a continuous human presence in orbit (International Space Station) and plans for lunar/Mars bases, no permanent, self-sustaining off-Earth colony exists:contentReference[oaicite:15]{index=15}.",
+      "unforeseen_influencing_factors_positive": [
+        "International cooperation led to space stations (Mir, ISS) as stepping stones"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Enormous cost of space colonization",
+        "Political and budgetary limitations after Apollo era"
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "technological_factors": ["Artificial Intelligence", "General automation"],
+    "social_factors": ["Height of Cold War technological optimism"],
+    "economic_factors": ["Significant government funding in AI during 1960s"],
+    "timeline": "In 3–8 years (by ~1978)",
+    "key_events": "Marvin Minsky, a pioneer of AI, stated in 1970: \"In from three to eight years we will have a machine with the general intelligence of an average human being...\":contentReference[oaicite:16]{index=16}. He envisioned an AI that could read, learn, and improve itself rapidly, reaching genius level and beyond.",
+    "domains_focused": ["AI"],
+    "domains": ["AI"],
+    "time_since_prediction_years": 8,
+    "metadata": {
+      "predictor_source": "Marvin Minsky – LIFE Magazine interview (November 1970):contentReference[oaicite:17]{index=17}",
+      "prediction_date": "1970-11-20",
+      "original_stated_confidence": "Strong (matter-of-fact declaration)",
+      "actual_outcome": "Not realized",
+      "actual_outcome_date": "1978-12-31",
+      "outcome_notes": "Far off the mark. By 1978 no AI had human-level general intelligence. Even by 2025, AI systems (while powerful in narrow domains) do not possess the general intelligence Minsky imagined within the 1970s timeframe.",
+      "unforeseen_influencing_factors_positive": [
+        "None within original timeframe (AI progress was slower than expected)"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Overestimation of early AI techniques (logic, simple neural nets)",
+        "Underestimation of complexity of generalized human cognition"
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "technological_factors": ["Automation", "Productivity technology"],
+    "social_factors": ["1960s focus on leisure and automation"],
+    "economic_factors": ["Post-war economic growth expectations"],
+    "timeline": "By 2020",
+    "key_events": "Herman Kahn and Anthony Wiener, in *The Year 2000* (1967), projected that by 2020 the average American work year would shrink to about 1,370 hours (around 26 hours per week) due to automation and productivity gains:contentReference[oaicite:18]{index=18}.",
+    "domains_focused": ["Economics", "Labor"],
+    "domains": ["Economics", "Labor"],
+    "time_since_prediction_years": 53,
+    "metadata": {
+      "predictor_source": "Herman Kahn & Anthony J. Wiener – *The Year 2000* (1967)",
+      "prediction_date": "1967-01-01",
+      "original_stated_confidence": "Scenario projection",
+      "actual_outcome": "Partially realized",
+      "actual_outcome_date": "2020-01-01",
+      "outcome_notes": "Work hours did decline compared to 1967, but not to 26/week. In 2018, Americans worked ~1,780 hours/year (~34 hours/week) on average:contentReference[oaicite:19]{index=19}. Some European countries reached ~30-hour weeks, but a 26-hour norm was not realized across the board.",
+      "unforeseen_influencing_factors_positive": [
+        "Productivity did increase and some reduction in hours occurred, especially in Europe"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Cultural and economic factors kept full-time work weeks near ~40 hours in the U.S.; income inequality and cost of living led many to continue working long hours"
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "technological_factors": ["Communication technology", "Globalization"],
+    "social_factors": ["Optimism about global unity in late 1960s"],
+    "economic_factors": ["Advances in translation and travel"],
+    "timeline": "By 2018",
+    "key_events": "Ithiel de Sola Pool (MIT political scientist) predicted in 1968 that improved communication and understanding would mean \"nationalism should be a waning force\" by the year 2018:contentReference[oaicite:20]{index=20}. He foresaw people connecting across ethnic and national lines, reducing the importance of nation-states.",
+    "domains_focused": ["Society", "Politics"],
+    "domains": ["Society", "Politics"],
+    "time_since_prediction_years": 50,
+    "metadata": {
+      "predictor_source": "Ithiel de Sola Pool – Symposium on future (1968)",
+      "prediction_date": "1968-01-01",
+      "original_stated_confidence": "Optimistic theory",
+      "actual_outcome": "Not realized (opposite trend)",
+      "actual_outcome_date": "2018-01-01",
+      "outcome_notes": "Contrary to the prediction, nationalism saw a resurgence in many places by the 2010s. Rather than fading, nationalist movements and identity politics were strong (e.g., Brexit, populist leaders):contentReference[oaicite:21]{index=21}. Global communication increased, but it did not eliminate national divisions.",
+      "unforeseen_influencing_factors_positive": [
+        "Global internet and social media did allow worldwide communication"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Backlash against globalization, cultural and economic anxieties fueled new waves of nationalism"
+      ]
+    }
+  },
+    "timeline": "Indefinite (general statement about future)",
+    "key_events": "Ken Olsen, founder of Digital Equipment Corporation, said in 1977: \"There is no reason anyone would want a computer in their home.\":contentReference[oaicite:27]{index=27} This implied home computers would not become common.",
+    "domains_focused": ["Personal Computing"],
+    "domains": ["Personal Computing"],
+    "time_since_prediction_years": 23,
+    "metadata": {
+      "predictor_source": "Ken Olsen – Address at World Future Society, 1977",
+      "prediction_date": "1977-00-00",
+      "original_stated_confidence": "Definitive statement",
+      "actual_outcome": "Completely false",
+      "actual_outcome_date": "2000-01-01",
+      "outcome_notes": "By the 2000s, PCs were ubiquitous in homes. Olsen's prediction was a famous misjudgment: personal computers became a cornerstone of modern life:contentReference[oaicite:28]{index=28}. (Olsen later said his quote was misinterpreted, but the sentiment proved wrong regardless.)",
+      "unforeseen_influencing_factors_positive": [
+        "Rapid improvement in user-friendly interfaces and falling costs (e.g., Apple II, IBM PC) drove home adoption"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Olsen's perspective was clouded by focusing on big business/minicomputers, underestimating consumer demand"
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "technological_factors": ["Computers", "User interfaces", "AI"],
+    "social_factors": ["1980s computer revolution imagination"],
+    "economic_factors": ["Apple's R&D vision for personal devices"],
+    "timeline": "Set in a fictional early 2010s (around 2011)",
+    "key_events": "Apple's 1987 \"Knowledge Navigator\" concept video depicted a professor in \"September 2011\" using a tablet computer with a voice-activated intelligent assistant, video calling, and digital encyclopedia at his fingertips:contentReference[oaicite:29]{index=29}. It predicted a Siri-like digital assistant and iPad-style device decades before they arrived.",
+    "domains_focused": ["Personal Computing", "Artificial Intelligence"],
+    "domains": ["Personal Computing", "Artificial Intelligence"],
+    "time_since_prediction_years": 24,
+    "metadata": {
+      "predictor_source": "Apple – \"Knowledge Navigator\" concept film (1987)",
+      "prediction_date": "1987-09-00",
+      "original_stated_confidence": "Demonstration/vision",
+      "actual_outcome": "Realized (around predicted date)",
+      "actual_outcome_date": "2011-10-04",
+      "outcome_notes": "Strikingly accurate. In 2010 Apple released the iPad, and in 2011 Apple debuted Siri (a voice assistant) – almost exactly matching the envisioned timeframe and functionality:contentReference[oaicite:30]{index=30}. The video even set the fictional scenario in 2011. Many features (video chat, digital assistant, tablet computing) became reality.",
+      "unforeseen_influencing_factors_positive": [
+        "Advances in mobile computing, speech recognition, and cloud services enabled these products by 2010s"
+      ],
+      "unforeseen_influencing_factors_negative": []
+    }
+  },
+  {
+    "id": 17,
+    "technological_factors": ["Artificial Intelligence", "Software"],
+    "social_factors": ["Early 1990s tech foresight"],
+    "economic_factors": ["Rapid PC improvement in 90s"],
+    "timeline": "By 1998",
+    "key_events": "Ray Kurzweil predicted in 1990 that a computer would defeat a world chess champion by 1998:contentReference[oaicite:31]{index=31}. (At the time, top human players still easily beat computers.)",
+    "domains_focused": ["AI", "Games"],
+    "domains": ["AI", "Games"],
+    "time_since_prediction_years": 8,
+    "metadata": {
+      "predictor_source": "Ray Kurzweil – *The Age of Intelligent Machines* (1990)",
+      "prediction_date": "1990-01-01",
+      "original_stated_confidence": "Confident projection",
+      "actual_outcome": "Realized",
+      "actual_outcome_date": "1997-05-11",
+      "outcome_notes": "Correct. In May 1997, IBM’s Deep Blue defeated reigning world chess champion Garry Kasparov:contentReference[oaicite:32]{index=32}, slightly ahead of Kurzweil’s 1998 deadline. This marked the fulfillment of the prediction.",
+      "unforeseen_influencing_factors_positive": [
+        "Massive increase in computing power and specialized chess algorithms in the 90s"
+      ],
+      "unforeseen_influencing_factors_negative": []
+    }
+  },
+  {
+    "id": 18,
+    "technological_factors": ["Biotechnology", "Medicine"],
+    "social_factors": ["Transhumanist interest in longevity"],
+    "economic_factors": ["Growth of biotech industry in late 20th century"],
+    "timeline": "By 2019",
+    "key_events": "Ray Kurzweil predicted in his 1999 book that human life expectancy would rise to \"over one hundred\" years by 2019:contentReference[oaicite:33]{index=33}, thanks to advances in medicine and biotechnology.",
+    "domains_focused": ["Life Extension", "Health"],
+    "domains": ["Life Extension", "Health"],
+    "time_since_prediction_years": 20,
+    "metadata": {
+      "predictor_source": "Ray Kurzweil – *The Age of Spiritual Machines* (1999)",
+      "prediction_date": "1999-01-01",
+      "original_stated_confidence": "Optimistic",
+      "actual_outcome": "Not realized",
+      "actual_outcome_date": "2019-12-31",
+      "outcome_notes": "Average human life expectancy in 2019 was ~72.6 globally (78.5 in the US):contentReference[oaicite:34]{index=34} – nowhere near \"over 100.\" Kurzweil correctly anticipated health-monitoring gadgets (e.g., wearable fitness trackers):contentReference[oaicite:35]{index=35}, but dramatic lifespan extension had not occurred by 2019.",
+      "unforeseen_influencing_factors_positive": [
+        "Progress in genomics, some new therapies"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Aging proved complex; few breakthroughs in fundamentally extending lifespan within that timeframe"
+      ]
+    }
+  },
+  {
+    "id": 19,
+    "technological_factors": ["Computers", "Ubiquitous computing"],
+    "social_factors": ["Late-90s vision of pervasive tech"],
+    "economic_factors": ["Continuing Moore's Law enabling miniaturization"],
+    "timeline": "By 2019",
+    "key_events": "Ray Kurzweil predicted that by 2019, computers would be effectively \"invisible\" – embedded everywhere in walls, clothing, and jewelry, rather than seen as distinct devices:contentReference[oaicite:36]{index=36}.",
+    "domains_focused": ["Computing", "Consumer Tech"],
+    "domains": ["Computing", "Consumer Tech"],
+    "time_since_prediction_years": 20,
+    "metadata": {
+      "predictor_source": "Ray Kurzweil – *The Age of Spiritual Machines* (1999)",
+      "prediction_date": "1999-01-01",
+      "original_stated_confidence": "Confident",
+      "actual_outcome": "Partially realized",
+      "actual_outcome_date": "2019-01-01",
+      "outcome_notes": "Partially true. By 2019, computing was embedded in many objects (smartphones in pockets, smartwatches on wrists, IoT devices in homes). However, devices like smartphones are still very visible tools, not literally hidden in walls/jewelry for most people:contentReference[oaicite:37]{index=37}. Ubiquitous computing is happening but not to the seamless extent envisioned.",
+      "unforeseen_influencing_factors_positive": [
+        "Smartphones and IoT explosion (computers in thermostats, cars, etc.)"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Ergonomics and consumer preference still favor some standalone devices (e.g., phones with screens)"
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "technological_factors": ["Digital media", "Internet"],
+    "social_factors": ["Shift to digital content"],
+    "economic_factors": ["Late-90s dot-com expectations"],
+    "timeline": "By 2019",
+    "key_events": "Kurzweil predicted that by 2019, paper books and documents would be rarely used, with most information accessed digitally:contentReference[oaicite:38]{index=38}. Essentially, he foresaw the eclipse of print by e-books and electronic archives.",
+    "domains_focused": ["Media", "Information Management"],
+    "domains": ["Media", "Information Management"],
+    "time_since_prediction_years": 20,
+    "metadata": {
+      "predictor_source": "Ray Kurzweil – *The Age of Spiritual Machines* (1999)",
+      "prediction_date": "1999-01-01",
+      "original_stated_confidence": "Likely (trend projection)",
+      "actual_outcome": "Partially realized",
+      "actual_outcome_date": "2019-01-01",
+      "outcome_notes": "Mixed outcome. By 2019, digital media was widespread (e-books, online news), but paper books and documents were still in use. Print publishing persisted and even thrived in niches; offices still used paper, though less than before.",
+      "unforeseen_influencing_factors_positive": [
+        "E-reader and tablet technology matured (Kindle in 2007, etc.), broad adoption of digital archives"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Human reading habits and print’s appeal remained strong; not everyone switched fully to digital"
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "technological_factors": ["Surveillance", "Data storage"],
+    "social_factors": ["Late-90s concerns about privacy"],
+    "economic_factors": ["Expansion of the web and databases"],
+    "timeline": "By 2019",
+    "key_events": "Kurzweil predicted that privacy would become a major issue by 2019, with \"each individual's practically every move stored in a database\":contentReference[oaicite:39]{index=39}. He anticipated a world of ubiquitous surveillance and data collection.",
+    "domains_focused": ["Privacy", "Data"],
+    "domains": ["Privacy", "Data"],
+    "time_since_prediction_years": 20,
+    "metadata": {
+      "predictor_source": "Ray Kurzweil – *The Age of Spiritual Machines* (1999)",
+      "prediction_date": "1999-01-01",
+      "original_stated_confidence": "High",
+      "actual_outcome": "Realized",
+      "actual_outcome_date": "2019-01-01",
+      "outcome_notes": "Largely correct. By 2019, concerns over digital privacy were indeed huge (e.g., debates over surveillance, social media data, GPS tracking). Governments and corporations did collect vast amounts of personal data (location, online activity), essentially tracking much of people's lives:contentReference[oaicite:40]{index=40}.",
+      "unforeseen_influencing_factors_positive": [
+        "Rise of social networks and smartphones leading people to share data willingly"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Public backlash and new privacy laws (GDPR, etc.) started pushing back against data collection by late 2010s"
+      ]
+    }
+  },
+  {
+    "id": 22,
+    "technological_factors": ["Space travel", "Aerospace engineering"],
+    "social_factors": ["Post-Cold War optimism in global cooperation"],
+    "economic_factors": ["1990s economic boom funding space plans"],
+    "timeline": "By 2020",
+    "key_events": "In 1997, futurists Peter Schwartz and Peter Leyden (in *Wired* magazine) predicted that humans would land on Mars in the year 2020, in a peaceful international effort:contentReference[oaicite:41]{index=41}:contentReference[oaicite:42]{index=42}.",
+    "domains_focused": ["Space Exploration"],
+    "domains": ["Space Exploration"],
+    "time_since_prediction_years": 23,
+    "metadata": {
+      "predictor_source": "Peter Schwartz & Peter Leyden – *Wired* magazine \"Long Boom\" scenario (July 1997):contentReference[oaicite:43]{index=43}",
+      "prediction_date": "1997-07-01",
+      "original_stated_confidence": "Scenario (optimistic)",
+      "actual_outcome": "Not realized",
+      "actual_outcome_date": "2020-12-31",
+      "outcome_notes": "Did not happen. By 2020, no human had set foot on Mars. The envisioned 2020 multinational Mars landing remained aspirational:contentReference[oaicite:44]{index=44}:contentReference[oaicite:45]{index=45}.",
+      "unforeseen_influencing_factors_positive": [
+        "Continued robotic exploration of Mars kept interest alive"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "High costs and technical challenges; shifting government priorities and the Space Shuttle retirement delayed crewed Mars plans"
+      ]
+    }
+  },
+  {
+    "id": 23,
+    "technological_factors": ["Digital democracy", "Internet"],
+    "social_factors": ["Rise of the Millennial generation and internet use"],
+    "economic_factors": ["Growth of e-government concepts in 90s"],
+    "timeline": "By the 2008 U.S. election (and beyond)",
+    "key_events": "Schwartz and Leyden also predicted that as Millennials came of age, Americans would be voting in national elections electronically from home – possibly as early as the 2008 presidential election:contentReference[oaicite:46]{index=46}.",
+    "domains_focused": ["Governance", "IT"],
+    "domains": ["Governance", "IT"],
+    "time_since_prediction_years": 11,
+    "metadata": {
+      "predictor_source": "Peter Schwartz & Peter Leyden – *Wired* 1997 \"Long Boom\" article",
+      "prediction_date": "1997-07-01",
+      "original_stated_confidence": "Speculative scenario",
+      "actual_outcome": "Not realized (by that date)",
+      "actual_outcome_date": "2008-11-04",
+      "outcome_notes": "No – by 2008 or even 2020, U.S. elections were still largely conducted via in-person or mail ballots. Fears of hacking and security issues have so far prevented widespread online voting:contentReference[oaicite:47]{index=47}. A few local pilots happened, but home e-voting is not the norm.",
+      "unforeseen_influencing_factors_positive": [
+        "None significant (security concerns consistently overrode convenience benefits)"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Cybersecurity threats and election integrity worries made policymakers cautious about online voting"
+      ]
+    }
+  },
+  {
+    "id": 24,
+    "technological_factors": ["Energy", "Automotive"],
+    "social_factors": ["1990s environmental awareness"],
+    "economic_factors": ["R&D in alternative fuels"],
+    "timeline": "By 2010",
+    "key_events": "The *Wired* \"Long Boom\" piece predicted that by 2010, cars would run on hydrogen: fuel processed in plants and loaded into vehicles that could go \"thousands of miles\" without refueling:contentReference[oaicite:48]{index=48}. In other words, a hydrogen economy for transportation.",
+    "domains_focused": ["Energy", "Transportation"],
+    "domains": ["Energy", "Transportation"],
+    "time_since_prediction_years": 13,
+    "metadata": {
+      "predictor_source": "Peter Schwartz & Peter Leyden – *Wired* 1997",
+      "prediction_date": "1997-07-01",
+      "original_stated_confidence": "Scenario projection",
+      "actual_outcome": "Not realized",
+      "actual_outcome_date": "2010-12-31",
+      "outcome_notes": "No – by 2010 hydrogen cars were not in mass use. A few prototypes and limited-release fuel-cell cars existed, but a hydrogen fuel infrastructure was not broadly established. Gasoline/electric hybrids and EVs became the main new direction instead.",
+      "unforeseen_influencing_factors_positive": [
+        "Growing interest in electric battery vehicles reduced focus on hydrogen"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Hydrogen storage and distribution proved difficult and costly; required infrastructure never fully built by 2010"
+      ]
+    }
+  },
+  {
+    "id": 25,
+    "technological_factors": ["Public health", "Medical science"],
+    "social_factors": ["Global health initiatives in 1990s"],
+    "economic_factors": ["Investments in healthcare"],
+    "timeline": "By 2020",
+    "key_events": "In 1996, a joint Harvard School of Public Health/WHO study projected that by 2020 the leading causes of global disease burden would be heart disease and major depression:contentReference[oaicite:49]{index=49}.",
+    "domains_focused": ["Healthcare"],
+    "domains": ["Healthcare"],
+    "time_since_prediction_years": 24,
+    "metadata": {
+      "predictor_source": "Harvard & WHO Global Burden of Disease Study (1996)",
+      "prediction_date": "1996-01-01",
+      "original_stated_confidence": "Research-based projection",
+      "actual_outcome": "Realized",
+      "actual_outcome_date": "2020-01-01",
+      "outcome_notes": "Largely correct. By 2020, ischemic heart disease was the #1 global cause of death and depression was a leading cause of disability worldwide, matching those forecasts.",
+      "unforeseen_influencing_factors_positive": [
+        "Continued high prevalence of smoking, poor diets (heart disease remained top killer)"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "None – the projection was research-based and turned out accurate"
+      ]
+    }
+  },
+  {
+    "id": 26,
+    "technological_factors": ["Space exploration"],
+    "social_factors": ["Post-Apollo space vision"],
+    "economic_factors": ["Government space agency roadmaps"],
+    "timeline": "By 2018",
+    "key_events": "A 1996 report by the U.S. National Research Council’s Space Studies Board projected \"possible human exploratory missions to the Moon and Mars within the next quarter century,\" specifically suggesting humans on Mars by 2018:contentReference[oaicite:50]{index=50}.",
+    "domains_focused": ["Space Exploration"],
+    "domains": ["Space Exploration"],
+    "time_since_prediction_years": 22,
+    "metadata": {
+      "predictor_source": "Space Studies Board (National Research Council) report (1996):contentReference[oaicite:51]{index=51}",
+      "prediction_date": "1996-01-01",
+      "original_stated_confidence": "Official planning scenario",
+      "actual_outcome": "Not realized",
+      "actual_outcome_date": "2018-12-31",
+      "outcome_notes": "Did not occur. By 2018, humans had not returned to the Moon since 1972, nor reached Mars. The timelines envisioned in the 1990s slipped dramatically; crewed Mars missions are now eyed for the 2030s at best:contentReference[oaicite:52]{index=52}.",
+      "unforeseen_influencing_factors_positive": [],
+      "unforeseen_influencing_factors_negative": [
+        "Space program budget cuts and changing priorities (e.g., Shuttle, ISS took focus)",
+        "Lack of political drive for Mars until recently"
+      ]
+    }
+  },
+  {
+    "id": 27,
+    "technological_factors": ["Autonomous vehicles", "AI"],
+    "social_factors": ["Late-90s tech optimism"],
+    "economic_factors": ["Automotive R&D in intelligent systems"],
+    "timeline": "Early 2000s (first decade of 21st century)",
+    "key_events": "Ray Kurzweil wrote in 1999 that self-driving cars were already being tested and that \"implementation on major highways (is) feasible during the first decade of the twenty-first century\":contentReference[oaicite:53]{index=53}.",
+    "domains_focused": ["Transportation", "AI"],
+    "domains": ["Transportation", "AI"],
+    "time_since_prediction_years": 11,
+    "metadata": {
+      "predictor_source": "Ray Kurzweil – *The Age of Spiritual Machines* (1999):contentReference[oaicite:54]{index=54}",
+      "prediction_date": "1999-01-01",
+      "original_stated_confidence": "Forward-looking but cautious (not immediate)",
+      "actual_outcome": "Partially realized",
+      "actual_outcome_date": "2010-12-31",
+      "outcome_notes": "Partial. By 2010, several companies (Google, etc.) had prototype self-driving cars on roads, but widespread deployment had not happened:contentReference[oaicite:55]{index=55}. The technology was feasible (as predicted) but still in testing. Truly autonomous cars for consumers were still years away beyond 2010.",
+      "unforeseen_influencing_factors_positive": [
+        "Rapid improvements in sensors (LIDAR) and machine learning enabling prototypes by late 2000s"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Regulatory and safety hurdles slowed public rollout; edge-case driving challenges proved harder than expected"
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "technological_factors": ["Email", "Internet"],
+    "social_factors": ["Early 2000s recognition of spam problem"],
+    "economic_factors": ["Need for reliable e-commerce communication"],
+    "timeline": "By 2006",
+    "key_events": "In early 2004, Microsoft Chairman Bill Gates declared \"Two years from now, spam will be solved\":contentReference[oaicite:56]{index=56} – predicting unsolicited email would be eliminated by 2006 via better tech and laws.",
+    "domains_focused": ["Internet", "Cybersecurity"],
+    "domains": ["Internet", "Cybersecurity"],
+    "time_since_prediction_years": 2,
+    "metadata": {
+      "predictor_source": "Bill Gates – World Economic Forum panel (Jan 2004):contentReference[oaicite:57]{index=57}",
+      "prediction_date": "2004-01-23",
+      "original_stated_confidence": "Very confident",
+      "actual_outcome": "Not realized",
+      "actual_outcome_date": "2006-12-31",
+      "outcome_notes": "Spam was definitely not \"solved\" by 2006. Unsolicited emails continued at high volume (in 2006, ~90% of email was spam:contentReference[oaicite:58]{index=58}). While spam filters improved and reduced the annoyance, spam remained a persistent problem well beyond 2006.",
+      "unforeseen_influencing_factors_positive": [
+        "Better filtering algorithms emerged and did mitigate spam for users over time"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Spammers adapted tactics; the cat-and-mouse game continued. Gates underestimated the resilience of spam operations"
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "technological_factors": ["Internet", "E-commerce"],
+    "social_factors": ["Mid-1990s skepticism of new media"],
+    "economic_factors": ["Dot-com boom debates"],
+    "timeline": "Mid-1990s onward",
+    "key_events": "Astronomer Clifford Stoll wrote a 1995 Newsweek article dismissing the internet as hype – he called the idea of online shopping and communities \"baloney,\" insisting it would never replace real human contact or traditional stores:contentReference[oaicite:59]{index=59}:contentReference[oaicite:60]{index=60}.",
+    "domains_focused": ["Internet", "Society"],
+    "domains": ["Internet", "Society"],
+    "time_since_prediction_years": 10,
+    "metadata": {
+      "predictor_source": "Clifford Stoll – Newsweek essay \"The Internet? Bah!\" (Feb 27, 1995):contentReference[oaicite:61]{index=61}",
+      "prediction_date": "1995-02-27",
+      "original_stated_confidence": "Emphatic (derisive)",
+      "actual_outcome": "Completely false",
+      "actual_outcome_date": "2005-01-01",
+      "outcome_notes": "Utterly wrong. By the 2000s, the internet revolutionized commerce and community: online retail (Amazon, etc.) boomed, and social networks connected hundreds of millions. Stoll's assertion that e-commerce and online communities were impractical proved famously mistaken:contentReference[oaicite:62]{index=62}:contentReference[oaicite:63]{index=63}.",
+      "unforeseen_influencing_factors_positive": [
+        "Rapid consumer adoption of the web; development of secure online payment (SSL) overcame e-commerce trust issues"
+      ],
+      "unforeseen_influencing_factors_negative": []
+    }
+  },
+  {
+    "id": 30,
+    "technological_factors": ["Internet", "Networking"],
+    "social_factors": ["Mid-90s internet growth"],
+    "economic_factors": ["Telecom infrastructure investment"],
+    "timeline": "By 1996",
+    "key_events": "Ethernet co-inventor Robert Metcalfe predicted in 1995 that the internet would \"go spectacularly supernova and in 1996 catastrophically collapse\":contentReference[oaicite:64]{index=64}. He expected the network to suffer a sudden, massive failure under its own growth.",
+    "domains_focused": ["Internet"],
+    "domains": ["Internet"],
+    "time_since_prediction_years": 1,
+    "metadata": {
+      "predictor_source": "Robert Metcalfe – InfoWorld column (Dec 1995):contentReference[oaicite:65]{index=65}",
+      "prediction_date": "1995-12-01",
+      "original_stated_confidence": "Bold hyperbole",
+      "actual_outcome": "False",
+      "actual_outcome_date": "1996-12-31",
+      "outcome_notes": "The internet did not collapse in 1996; it continued growing exponentially. Metcalfe later humorously ate a printed copy of his prediction to acknowledge the error:contentReference[oaicite:66]{index=66}. The network proved far more robust and scalable than he assumed.",
+      "unforeseen_influencing_factors_positive": [
+        "Advances in network technology (fiber optics, routers) handled surging traffic"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Metcalfe overestimated short-term risks; no single point of failure took down the whole internet"
+      ]
+    }
+  },
+  {
+    "id": 31,
+    "technological_factors": ["Internet", "Economics"],
+    "social_factors": ["Late-90s skepticism by traditional economists"],
+    "economic_factors": ["1990s productivity paradox debates"],
+    "timeline": "By 2005",
+    "key_events": "Economist Paul Krugman famously wrote in 1998 that by 2005 it would become clear that \"the Internet's impact on the economy has been no greater than the fax machine's.\":contentReference[oaicite:67]{index=67} He doubted the internet's transformative economic effect.",
+    "domains_focused": ["Economy", "Internet"],
+    "domains": ["Economy", "Internet"],
+    "time_since_prediction_years": 7,
+    "metadata": {
+      "predictor_source": "Paul Krugman – Red Herring magazine column (1998):contentReference[oaicite:68]{index=68}",
+      "prediction_date": "1998-09-01",
+      "original_stated_confidence": "Strong (provocative claim)",
+      "actual_outcome": "Completely false",
+      "actual_outcome_date": "2005-12-31",
+      "outcome_notes": "Far off. By 2005, the internet had radically changed the economy – from e-commerce (Amazon, eBay) to online services and productivity. Its impact was vastly greater than a fax machine:contentReference[oaicite:69]{index=69}. Krugman's quote is often cited as a major missed prediction (he later explained he was being deliberately provocative).",
+      "unforeseen_influencing_factors_positive": [
+        "Explosion of web-based businesses and whole new industries (search, social media, cloud computing) driving economic change"
+      ],
+      "unforeseen_influencing_factors_negative": []
+    }
+  },
+  {
+    "id": 32,
+    "technological_factors": ["Smartphones", "Mobile computing"],
+    "social_factors": ["Skepticism from incumbent tech leaders"],
+    "economic_factors": ["Competition in mobile industry"],
+    "timeline": "2007–2008 (short-term market forecast)",
+    "key_events": "Microsoft CEO Steve Ballmer laughed off the first iPhone in 2007, saying \"there's no chance that the iPhone is going to get any significant market share. No chance.\":contentReference[oaicite:70]{index=70} He predicted Apple's phone would fail to gain traction due to its price and lack of keyboard.",
+    "domains_focused": ["Consumer Tech", "Mobile"],
+    "domains": ["Consumer Tech", "Mobile"],
+    "time_since_prediction_years": 3,
+    "metadata": {
+      "predictor_source": "Steve Ballmer – USA Today interview (April 2007):contentReference[oaicite:71]{index=71}",
+      "prediction_date": "2007-04-30",
+      "original_stated_confidence": "Emphatic (dismissive)",
+      "actual_outcome": "Spectacularly false",
+      "actual_outcome_date": "2010-01-01",
+      "outcome_notes": "Completely wrong. The iPhone (released 2007) went on to dominate the smartphone market, achieving huge market share and profits. By 2010, it led the industry and ushered in the modern smartphone era, proving Ballmer's prediction egregiously incorrect:contentReference[oaicite:72]{index=72}.",
+      "unforeseen_influencing_factors_positive": [
+        "Apple's innovation in touch UI and app ecosystem drove massive consumer adoption"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Ballmer underestimated the appeal of smartphones beyond enterprise-style devices"
+      ]
+    }
+  },
+  {
+    "id": 33,
+    "technological_factors": ["Artificial Intelligence"],
+    "social_factors": ["Early 90s academic AI speculation"],
+    "economic_factors": ["Trends of accelerating computing power"],
+    "timeline": "Within 30 years (by 2023)",
+    "key_events": "Science fiction author Vernor Vinge wrote in 1993 that \"within thirty years, we will have the technological means to create superhuman intelligence\" and that shortly after, the human era would end – a concept he called the \"Singularity\":contentReference[oaicite:73]{index=73}.",
+    "domains_focused": ["AI", "Transhumanism"],
+    "domains": ["AI", "Transhumanism"],
+    "time_since_prediction_years": 30,
+    "metadata": {
+      "predictor_source": "Vernor Vinge – \"The Coming Technological Singularity\" paper (1993):contentReference[oaicite:74]{index=74}",
+      "prediction_date": "1993-01-01",
+      "original_stated_confidence": "Strong (warning of inevitability)",
+      "actual_outcome": "Not realized (as of 2023)",
+      "actual_outcome_date": "2023-01-01",
+      "outcome_notes": "As of 2023, we have not reached a \"singularity\" or created AI smarter than humans in all respects. AI has advanced (e.g., machine learning breakthroughs) but not to the civilization-altering, runaway intelligence level Vinge anticipated by the early 2020s.",
+      "unforeseen_influencing_factors_positive": [
+        "Significant AI progress (deep learning, etc.) but still short of superintelligence"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "General intelligence turned out harder to achieve than some expected; no explosive recursive improvement of AI has occurred yet"
+      ]
+    }
+  },
+  {
+    "id": 34,
+    "technological_factors": ["Biotechnology", "Transhumanism"],
+    "social_factors": ["Life-extension movement in late 20th century"],
+    "economic_factors": ["Private funding into cryonics and anti-aging"],
+    "timeline": "By 2030",
+    "key_events": "Transhumanist FM-2030 (born F.M. Esfandiary) claimed that around the year 2030 \"we will be ageless and everyone will have an excellent chance to live forever\":contentReference[oaicite:75]{index=75}. He chose the name '2030' to symbolize his belief that physical death would become optional by then.",
+    "domains_focused": ["Life Extension", "Transhumanism"],
+    "domains": ["Life Extension", "Transhumanism"],
+    "time_since_prediction_years": 55,
+    "metadata": {
+      "predictor_source": "FM-2030 – Interviews and writings (circa 1970–1980):contentReference[oaicite:76]{index=76}",
+      "prediction_date": "1970-01-01",
+      "original_stated_confidence": "Visionary (hopeful certainty)",
+      "actual_outcome": "Not realized (as of 2025)",
+      "actual_outcome_date": "2025-01-01",
+      "outcome_notes": "Not achieved. By 2025, humans are not \"ageless\" and immortality remains out of reach. FM-2030 himself died in 2000 (and was cryogenically preserved). The dream of negligible aging by 2030 appears very unlikely to materialize on that timeline.",
+      "unforeseen_influencing_factors_positive": [
+        "Ongoing incremental progress in anti-aging research"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Aging is a complex multifactorial process; no breakthrough has halted aging in humans yet"
+      ]
+    }
+  },
+  {
+    "id": 35,
+    "technological_factors": ["Biotechnology", "AI"],
+    "social_factors": ["21st-century longevity research"],
+    "economic_factors": ["Significant investment in anti-aging startups"],
+    "timeline": "Mid-2030s",
+    "key_events": "Biogerontologist Aubrey de Grey has often predicted a 50% chance that humanity will achieve \"longevity escape velocity\" (where life expectancy increases faster than time passes) by the mid-2030s:contentReference[oaicite:77]{index=77}. In 2018 he specifically estimated we might reach that point around 2036.",
+    "domains_focused": ["Life Extension", "Medicine"],
+    "domains": ["Life Extension", "Medicine"],
+    "time_since_prediction_years": 7,
+    "metadata": {
+      "predictor_source": "Aubrey de Grey – public talks and interviews (circa 2018):contentReference[oaicite:78]{index=78}",
+      "prediction_date": "2018-01-01",
+      "original_stated_confidence": "Stated ~50% chance",
+      "actual_outcome": "Pending (not yet realized as of 2025)",
+      "actual_outcome_date": "N/A",
+      "outcome_notes": "As of 2025, we have not reached \"escape velocity\" in aging. Lifespan is increasing slowly but there's no sign of a near-term breakthrough that would indefinitely extend life. De Grey's timeline remains speculative for the 2030s:contentReference[oaicite:79]{index=79}.",
+      "unforeseen_influencing_factors_positive": [
+        "CRISPR and regenerative medicine advances could help if breakthroughs occur"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Many proposed anti-aging therapies have yet to show dramatic effects in humans; funding and regulatory challenges continue"
+      ]
+    }
+  },
+  {
+    "id": 36,
+    "technological_factors": ["Mobile computing", "IoT"],
+    "social_factors": ["Late-90s vision of seamless tech"],
+    "economic_factors": ["Emergence of handheld digital devices"],
+    "timeline": "Early 21st century (~2010s)",
+    "key_events": "In his 1999 book, Bill Gates envisioned \"personal companions\" – devices that would connect and sync all your electronics and information, acting as ubiquitous digital assistants:contentReference[oaicite:80]{index=80}.",
+    "domains_focused": ["Consumer Tech", "AI"],
+    "domains": ["Consumer Tech", "AI"],
+    "time_since_prediction_years": 11,
+    "metadata": {
+      "predictor_source": "Bill Gates – *Business @ the Speed of Thought* (1999):contentReference[oaicite:81]{index=81}",
+      "prediction_date": "1999-03-24",
+      "original_stated_confidence": "Confident",
+      "actual_outcome": "Realized",
+      "actual_outcome_date": "2010-01-01",
+      "outcome_notes": "Accurate. By the 2010s, smartphones (and digital ecosystems like Apple's iCloud, Google Assistant) essentially fulfilled this role – they sync our contacts, email, files, and serve as personal digital assistants. Smart speakers and AI assistants (Siri, Alexa) also embodied Gates' vision of pervasive personal companion tech.",
+      "unforeseen_influencing_factors_positive": [
+        "Mobile internet and cloud services matured, enabling device synchronization and AI assistant functionalities"
+      ],
+      "unforeseen_influencing_factors_negative": []
+    }
+  },
+  {
+    "id": 37,
+    "technological_factors": ["Globalization", "Economics"],
+    "social_factors": ["Post-Cold War optimism"],
+    "economic_factors": ["1990s long economic expansion"],
+    "timeline": "1980–2020",
+    "key_events": "The \"Long Boom\" scenario (Schwartz & Leyden, 1997) forecast 25 years (1995–2020) of unprecedented global economic expansion, technological progress, rising prosperity, and even a better environment:contentReference[oaicite:82]{index=82}. They imagined a sustained world boom with minimal major downturns.",
+    "domains_focused": ["Economy", "Environment"],
+    "domains": ["Economy", "Environment"],
+    "time_since_prediction_years": 23,
+    "metadata": {
+      "predictor_source": "Peter Schwartz & Peter Leyden – *Wired* magazine, \"The Long Boom\" (July 1997):contentReference[oaicite:83]{index=83}",
+      "prediction_date": "1997-07-01",
+      "original_stated_confidence": "Scenario (optimistic)",
+      "actual_outcome": "Partially realized",
+      "actual_outcome_date": "2020-01-01",
+      "outcome_notes": "Reality was mixed. 1995–2020 saw significant global growth (especially in China, India, and tech sectors) and millions lifted from poverty, aligning with parts of the prediction. But there were also major recessions (2001, 2008) and crises, and environmental issues like climate change worsened rather than uniformly improved. The period wasn’t an uninterrupted \"long boom\" as envisaged:contentReference[oaicite:84]{index=84}.",
+      "unforeseen_influencing_factors_positive": [
+        "Emergence of the internet and globalization did boost growth in many regions"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Financial crises (e.g., the 2008 global recession)",
+        "Uneven distribution of prosperity leading to social and political tensions"
+      ]
+    }
+  },
+  {
+    "id": 38,
+    "technological_factors": ["Economics"],
+    "social_factors": ["1990s focus on Asia's rise"],
+    "economic_factors": ["Rapid growth of China"],
+    "timeline": "By 2019–2020",
+    "key_events": "Futurists in 1997 (Schwartz/Leyden) predicted that by 2019, China would become about as affluent as the U.S., essentially the world's largest economy by 2020:contentReference[oaicite:85]{index=85}.",
+    "domains_focused": ["Economy"],
+    "domains": ["Economy"],
+    "time_since_prediction_years": 23,
+    "metadata": {
+      "predictor_source": "\"The Long Boom\" – *Wired* (1997):contentReference[oaicite:86]{index=86}",
+      "prediction_date": "1997-07-01",
+      "original_stated_confidence": "Likely in scenario",
+      "actual_outcome": "Nearly realized",
+      "actual_outcome_date": "2020-01-01",
+      "outcome_notes": "China's economy did grow enormously. By 2020, China was the #2 economy globally by nominal GDP (though ~2/3 the size of the U.S.) and #1 by purchasing power parity. So while not equal in per capita affluence, China indeed became a dominant economic superpower around 2020, close to the prediction:contentReference[oaicite:87]{index=87}.",
+      "unforeseen_influencing_factors_positive": [
+        "China’s manufacturing and export boom; entry into WTO in 2001 accelerated growth"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Per capita wealth still lagged the U.S.; prediction of equal affluence overstated, though aggregate size did rival U.S."
+      ]
+    }
+  },
+  {
+    "id": 39,
+    "technological_factors": ["Autonomous vehicles", "AI"],
+    "social_factors": ["Tech CEO bold promises"],
+    "economic_factors": ["Competition in rideshare/autonomy"],
+    "timeline": "By 2019–2020",
+    "key_events": "Elon Musk said in April 2019 that Tesla would likely have \"fully self-driving cars\" on the road by the end of 2019 and that a fleet of robo-taxis (cars operating with no driver) would be available by 2020:contentReference[oaicite:88]{index=88}.",
+    "domains_focused": ["Transportation", "AI"],
+    "domains": ["Transportation", "AI"],
+    "time_since_prediction_years": 1,
+    "metadata": {
+      "predictor_source": "Elon Musk – Tesla Autonomy Day (April 2019):contentReference[oaicite:89]{index=89}",
+      "prediction_date": "2019-04-22",
+      "original_stated_confidence": "Highly confident (\"extremely confident\")",
+      "actual_outcome": "Not realized by stated date",
+      "actual_outcome_date": "2020-12-31",
+      "outcome_notes": "Missed. By end of 2019, Teslas had advanced driver-assistance (Autopilot) but not true full self-driving without human supervision. No autonomous robo-taxi service ran in 2020 with Teslas. Musk’s timelines proved overly optimistic, and as of 2025 full Level-5 autonomy is still in development.",
+      "unforeseen_influencing_factors_positive": [
+        "Continuous improvement in AI and sensors; Tesla did roll out a beta \"Full Self-Driving\" to testers"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Long-tail of autonomous driving problems (edge cases) harder than anticipated; regulatory approval slow to materialize"
+      ]
+    }
+  },
+  {
+    "id": 40,
+    "technological_factors": ["Spaceflight", "Rocketry"],
+    "social_factors": ["Private spaceflight enthusiasm"],
+    "economic_factors": ["NewSpace investment in 2010s"],
+    "timeline": "By 2024–2025",
+    "key_events": "Elon Musk announced in 2016 (and reiterated in years after) an ambitious goal for SpaceX to send the first humans to Mars by 2024, with the aim of a Mars landing in the mid-2020s:contentReference[oaicite:90]{index=90}.",
+    "domains_focused": ["Space Exploration"],
+    "domains": ["Space Exploration"],
+    "time_since_prediction_years": 9,
+    "metadata": {
+      "predictor_source": "Elon Musk – SpaceX presentation (Sept 2016) and interviews:contentReference[oaicite:91]{index=91}",
+      "prediction_date": "2016-09-27",
+      "original_stated_confidence": "Aspirational goal",
+      "actual_outcome": "Not realized (deadline passed)",
+      "actual_outcome_date": "2025-01-01",
+      "outcome_notes": "Not yet achieved. By 2025, SpaceX has not sent humans to Mars. Musk’s timeline has been pushed out; the Starship rocket (critical to Mars plans) was still in testing. His 2016 prediction proved too aggressive, though development continues:contentReference[oaicite:92]{index=92}.",
+      "unforeseen_influencing_factors_positive": [
+        "Rapid engineering progress on reusable rockets (Falcon 9, Starship prototypes) keeps Mars goal alive long-term"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Technical setbacks, regulatory hurdles, and the immense challenge of Mars travel made the 2024 date unfeasible"
+      ]
+    }
+  },
+  {
+    "id": 41,
+    "technological_factors": ["Cryptography", "Finance"],
+    "social_factors": ["1990s cypherpunk movement"],
+    "economic_factors": ["Interest in digital money for e-commerce"],
+    "timeline": "By 2020",
+    "key_events": "In the 1990s, cryptographer David Chaum and economist Milton Friedman predicted the development of reliable electronic cash. Friedman said in 1999 that the internet would be the driving force behind a rise of e-cash by the 2010s:contentReference[oaicite:93]{index=93}. They foresaw digital currencies replacing some physical cash by 2020.",
+    "domains_focused": ["Finance", "Cryptocurrency"],
+    "domains": ["Finance", "Cryptocurrency"],
+    "time_since_prediction_years": 25,
+    "metadata": {
+      "predictor_source": "David Chaum & Milton Friedman – Interviews (mid-1990s):contentReference[oaicite:94]{index=94}",
+      "prediction_date": "1995-01-01",
+      "original_stated_confidence": "Believed likely",
+      "actual_outcome": "Partially realized",
+      "actual_outcome_date": "2020-01-01",
+      "outcome_notes": "Partial. By 2020, while physical cash still existed, digital payment methods were ubiquitous (credit cards, PayPal, mobile payments) and cryptocurrencies like Bitcoin (2009) had emerged, aligning with the idea of internet-enabled e-cash:contentReference[oaicite:95]{index=95}. However, a single global digital cash replacing cash hadn’t fully materialized, and cryptocurrencies remained volatile and not universally adopted as everyday money.",
+      "unforeseen_influencing_factors_positive": [
+        "Invention of blockchain/Bitcoin validated the concept of decentralized digital money"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Regulatory hurdles and volatility limited crypto use; multiple competing systems rather than one \"e-cash\" solution"
+      ]
+    }
+  },
+  {
+    "id": 42,
+    "technological_factors": ["Transportation infrastructure"],
+    "social_factors": ["Mid-century futurism"],
+    "economic_factors": ["Investments in highways post-WWII"],
+    "timeline": "By 2020",
+    "key_events": "Popular Mechanics (mid-20th-century) envisioned that by 2020, America’s network of roads might be replaced by high-speed pneumatic tubes for cars:contentReference[oaicite:96]{index=96}. Drivers would only need to travel to the nearest tube entry, then get whisked cross-country in pneumatic travel pods.",
+    "domains_focused": ["Transportation"],
+    "domains": ["Transportation"],
+    "time_since_prediction_years": 63,
+    "metadata": {
+      "predictor_source": "Popular Mechanics magazine (c. 1957):contentReference[oaicite:97]{index=97}",
+      "prediction_date": "1957-01-01",
+      "original_stated_confidence": "Speculative",
+      "actual_outcome": "Not realized",
+      "actual_outcome_date": "2020-01-01",
+      "outcome_notes": "No pneumatic tube highway system exists. By 2020, roads and highways are still the norm, with cars and trucks using fuel or electric power. The idea anticipated something like the modern \"Hyperloop\" concept, but as of 2020 that remained in testing, not reality:contentReference[oaicite:98]{index=98}.",
+      "unforeseen_influencing_factors_positive": [
+        "Renewed interest via Hyperloop projects shows concept hasn't died completely"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Extraordinary cost and engineering challenges; the inertia of existing road infrastructure"
+      ]
+    }
+  },
+  {
+    "id": 43,
+    "technological_factors": ["Digital media", "Music technology"],
+    "social_factors": ["Early 90s observations of digitization"],
+    "economic_factors": ["Music industry shifts (CDs to digital)"],
+    "timeline": "By 2020",
+    "key_events": "Musician Frank Zappa said in 1993 that by 2020 we'd have a centralized system to store and play any music on any device:contentReference[oaicite:99]{index=99}. Effectively, he predicted the rise of streaming music services accessible everywhere.",
+    "domains_focused": ["Entertainment Tech"],
+    "domains": ["Entertainment Tech"],
+    "time_since_prediction_years": 27,
+    "metadata": {
+      "predictor_source": "Frank Zappa – Interview (1993):contentReference[oaicite:100]{index=100}",
+      "prediction_date": "1993-01-01",
+      "original_stated_confidence": "Confident insight",
+      "actual_outcome": "Realized",
+      "actual_outcome_date": "2020-01-01",
+      "outcome_notes": "Accurate. By 2020, services like Spotify, Apple Music, and others provided streaming access to huge music libraries on phones, computers, etc., fulfilling Zappa's vision of a central music repository available on any device:contentReference[oaicite:101]{index=101}.",
+      "unforeseen_influencing_factors_positive": [
+        "High-bandwidth internet and widespread smartphones in 2010s enabled streaming model"
+      ],
+      "unforeseen_influencing_factors_negative": []
+    }
+  },
+  {
+    "id": 44,
+    "technological_factors": ["Labor market", "Demographics"],
+    "social_factors": ["Aging populations in developed countries"],
+    "economic_factors": ["Pension system pressures"],
+    "timeline": "By 2020",
+    "key_events": "Financial commentator Hamish McRae wrote in 1994 (*The World in 2020*) that normal retirement ages would rise to ~70 by 2020:contentReference[oaicite:102]{index=102}, as governments push later retirement to manage pension costs.",
+    "domains_focused": ["Economy", "Society"],
+    "domains": ["Economy", "Society"],
+    "time_since_prediction_years": 26,
+    "metadata": {
+      "predictor_source": "Hamish McRae – *The World in 2020* (1994):contentReference[oaicite:103]{index=103}",
+      "prediction_date": "1994-01-01",
+      "original_stated_confidence": "Likely trend",
+      "actual_outcome": "Partially realized",
+      "actual_outcome_date": "2020-01-01",
+      "outcome_notes": "Mixed. In the US, the average actual retirement age in 2016 was 65 (men) and 63 (women):contentReference[oaicite:104]{index=104} – not 70, though Social Security's full retirement age did slowly increase to 66-67. In many European countries, official retirement ages have moved toward 67 and plans exist to push 70+, aligning somewhat with the prediction, but 70 was not the norm by 2020.",
+      "unforeseen_influencing_factors_positive": [
+        "People living and working longer did nudge ages upward slightly"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "Public resistance and political caution made raising retirement age beyond mid-60s slow"
+      ]
+    }
+  },
+  {
+    "id": 45,
+    "technological_factors": ["Personal transport", "Urban design"],
+    "social_factors": ["Hype around new inventions (Segway)"],
+    "economic_factors": ["Venture capital enthusiasm circa 2000"],
+    "timeline": "Early 2000s",
+    "key_events": "When the Segway personal transporter was unveiled in 2001, Steve Jobs reportedly predicted that \"future cities would be designed around the device\":contentReference[oaicite:105]{index=105}, indicating an expectation that the Segway would profoundly change urban layouts and transportation.",
+    "domains_focused": ["Urban Planning", "Transportation"],
+    "domains": ["Urban Planning", "Transportation"],
+    "time_since_prediction_years": 9,
+    "metadata": {
+      "predictor_source": "Steve Jobs – Comment (2001, via media reports):contentReference[oaicite:106]{index=106}",
+      "prediction_date": "2001-12-00",
+      "original_stated_confidence": "Excited assertion",
+      "actual_outcome": "Not realized",
+      "actual_outcome_date": "2010-01-01",
+      "outcome_notes": "The Segway did not revolutionize city design. Its sales were modest and it remained a niche gadget (used by some police, tours, etc.). Cities in the 2000s-2010s were not redesigned for Segways; the device never approached the impact of bicycles or cars. Segway production even ceased in 2020.",
+      "unforeseen_influencing_factors_positive": [],
+      "unforeseen_influencing_factors_negative": [
+        "Segway's high cost and legal restrictions on sidewalk use limited adoption; it never achieved mass usage to influence city planning"
+      ]
+    }
+  },
+  {
+    "id": 46,
+    "technological_factors": ["Personal transport", "Business"],
+    "social_factors": ["Tech startup optimism"],
+    "economic_factors": ["Dot-com era venture capital"],
+    "timeline": "Mid-2000s",
+    "key_events": "Segway Inc.'s investors in 2001 predicted it would be the fastest company to reach $1 billion in sales (due to expected massive demand):contentReference[oaicite:107]{index=107}.",
+    "domains_focused": ["Business"],
+    "domains": ["Business"],
+    "time_since_prediction_years": 6,
+    "metadata": {
+      "predictor_source": "Segway investor statement (2001):contentReference[oaicite:108]{index=108}",
+      "prediction_date": "2001-12-00",
+      "original_stated_confidence": "High (business projection)",
+      "actual_outcome": "Not realized",
+      "actual_outcome_date": "2007-12-31",
+      "outcome_notes": "Way off. From 2001 to 2007, only about 30,000 Segways were sold:contentReference[oaicite:109]{index=109} – nowhere near $1B in revenue. The company never approached unicorn status; this prediction of explosive growth failed as the product found only a limited market.",
+      "unforeseen_influencing_factors_positive": [],
+      "unforeseen_influencing_factors_negative": [
+        "Overestimation of mainstream appeal; Segway never overcame practical and image issues to achieve mass adoption"
+      ]
+    }
+  },
+  {
+    "id": 47,
+    "technological_factors": ["Medicine", "Virology"],
+    "social_factors": ["1980s urgency over AIDS crisis"],
+    "economic_factors": ["Government research funding spikes"],
+    "timeline": "By 1986",
+    "key_events": "U.S. Health & Human Services Secretary Margaret Heckler said in April 1984, upon announcing the discovery of HIV, that she expected an AIDS vaccine ready for testing within two years:contentReference[oaicite:110]{index=110}.",
+    "domains_focused": ["Medicine"],
+    "domains": ["Medicine"],
+    "time_since_prediction_years": 2,
+    "metadata": {
+      "predictor_source": "Margaret Heckler – Press Conference (Apr 23, 1984):contentReference[oaicite:111]{index=111}",
+      "prediction_date": "1984-04-23",
+      "original_stated_confidence": "Very confident (public assurance)",
+      "actual_outcome": "Not realized",
+      "actual_outcome_date": "1986-12-31",
+      "outcome_notes": "Unfortunately incorrect. No effective HIV vaccine was available by 1986, nor decades after. HIV proved a far more difficult target. As of 2025, there's still no widely available vaccine for AIDS, illustrating how this optimistic prediction failed:contentReference[oaicite:112]{index=112}.",
+      "unforeseen_influencing_factors_positive": [
+        "None in short term – vaccine research continued but success remains elusive"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "HIV's mutation rate and tricky immunology made vaccine development far harder than initially assumed"
+      ]
+    }
+  },
+  {
+    "id": 48,
+    "technological_factors": ["Spaceflight", "Aerospace"],
+    "social_factors": ["Cold War space rivalry"],
+    "economic_factors": ["Massive government spending on Apollo program"],
+    "timeline": "By 1970 (within the 1960s)",
+    "key_events": "In 1961, U.S. President John F. Kennedy proclaimed the goal of \"landing a man on the Moon and returning him safely to Earth before this decade is out\":contentReference[oaicite:113]{index=113}.",
+    "domains_focused": ["Space Exploration"],
+    "domains": ["Space Exploration"],
+    "time_since_prediction_years": 8,
+    "metadata": {
+      "predictor_source": "John F. Kennedy – Address to Congress (May 25, 1961):contentReference[oaicite:114]{index=114}",
+      "prediction_date": "1961-05-25",
+      "original_stated_confidence": "Aspirational commitment",
+      "actual_outcome": "Realized",
+      "actual_outcome_date": "1969-07-20",
+      "outcome_notes": "Achieved. On July 20, 1969, Apollo 11 fulfilled Kennedy’s vision by landing astronauts on the Moon within the 1960s timeframe:contentReference[oaicite:115]{index=115}. This stands as a successful prediction (and goal) that was met through intensive effort and funding.",
+      "unforeseen_influencing_factors_positive": [
+        "Enormous political will and resources funneled into NASA’s Apollo program"
+      ],
+      "unforeseen_influencing_factors_negative": []
+    }
+  },
+  {
+    "id": 49,
+    "technological_factors": ["Telecommunications", "Computers"],
+    "social_factors": ["1990s advertising optimism"],
+    "economic_factors": ["Telecom industry competition"],
+    "timeline": "Early 21st century (~2000s)",
+    "key_events": "AT&T’s 1993 \"You Will\" TV ad campaign predicted several futuristic scenarios \"in the near future,\" such as electronic toll collection, reading books on a tablet, video calling from anywhere, telemedicine consultations, and GPS navigation – all ending with \"...and the company that will bring it to you: AT&T.\":contentReference[oaicite:116]{index=116}:contentReference[oaicite:117]{index=117}",
+    "domains_focused": ["Consumer Tech", "Communications"],
+    "domains": ["Consumer Tech", "Communications"],
+    "time_since_prediction_years": 17,
+    "metadata": {
+      "predictor_source": "AT&T \"You Will\" advertisements (1993):contentReference[oaicite:118]{index=118}:contentReference[oaicite:119]{index=119}",
+      "prediction_date": "1993-01-01",
+      "original_stated_confidence": "Marketing vision (very confident)",
+      "actual_outcome": "Mostly realized (but not by AT&T alone)",
+      "actual_outcome_date": "2010-01-01",
+      "outcome_notes": "Remarkably accurate regarding the technologies: e-books, GPS maps, video conferencing, telemedicine, and more all became common in the 2000s and 2010s:contentReference[oaicite:120]{index=120}. However, AT&T wasn’t the sole provider – many companies (Apple, Google, etc.) delivered those innovations. The ads are often praised for predicting how we live, even if the branding part didn’t pan out:contentReference[oaicite:121]{index=121}.",
+      "unforeseen_influencing_factors_positive": [
+        "Rapid advances in wireless networks, miniaturization, and the internet made these conveniences reality"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "AT&T itself did not dominate these services as the ads implied; new tech players took the lead"
+      ]
+    }
+  },
+  {
+    "id": 50,
+    "technological_factors": ["Artificial Intelligence", "Transhumanism"],
+    "social_factors": ["Techno-optimism in early 2000s"],
+    "economic_factors": ["Exponential growth trends in tech industry"],
+    "timeline": "By 2045",
+    "key_events": "Ray Kurzweil predicted that a \"Technological Singularity\" would occur by 2045, meaning AI would surpass human intelligence and humans would merge with machines, radically transforming society.",
+    "domains_focused": ["AI", "Future Society"],
+    "domains": ["AI", "Future Society"],
+    "time_since_prediction_years": 40,
+    "metadata": {
+      "predictor_source": "Ray Kurzweil – *The Singularity Is Near* (2005):contentReference[oaicite:122]{index=122}",
+      "prediction_date": "2005-09-26",
+      "original_stated_confidence": "Confident (based on extrapolation of trends)",
+      "actual_outcome": "Pending",
+      "actual_outcome_date": "N/A",
+      "outcome_notes": "As of 2025, this event has not occurred. It remains to be seen by 2045. Kurzweil's prediction is influential but debated – current AI, while advanced (e.g., GPT models), is not yet a singularity-level intelligence.",
+      "unforeseen_influencing_factors_positive": [
+        "Continued exponential growth in some tech areas (computing, AI algorithms) could bring us closer to this scenario"
+      ],
+      "unforeseen_influencing_factors_negative": [
+        "AI development might plateau or encounter physical/ethical limits that delay or prevent a true singularity"
+      ]
+    }
+  },
+    {
+    "id": "Kurzweil_Chess_2000",
+    "factors": {
+      "technological": "Rapid increase in computing power; specialized algorithms for chess (Deep Blue prototype)",
+      "social": "Public interest in AI vs human intelligence competitions",
+      "economic": "Significant investments by corporations (IBM) in AI research"
+    },
+    "predicted_timeline": "By 2000",
+    "predicted_events": [
+      "A computer will beat the world chess champion"
+    ],
+    "domains": [
+      "Artificial Intelligence",
+      "Gaming"
+    ],
+    "predictor": "Ray Kurzweil",
+    "prediction_date": "1990",
+    "original_confidence": "High (stated belief in timeline)",
+    "actual_outcome": "Realized",
+    "outcome_date": "1997-05-11",
+    "outcome_notes": "IBM’s Deep Blue defeated world champion Garry Kasparov in May 1997:contentReference[oaicite:0]{index=0}:contentReference[oaicite:1]{index=1}, achieving the milestone before 2000.",
+    "influencing_factors": {
+      "positive": [
+        "Advances in computer hardware and chess algorithms exceeded expectations"
+      ],
+      "negative": [
+        "None significant (prediction realized ahead of schedule)"
+      ]
+    }
+  },
+  {
+    "id": "Kurzweil_Digital_Media_2009",
+    "factors": {
+      "technological": "Proliferation of the internet and wireless networks; emergence of digital file formats (MP3, e-books)",
+      "social": "Growing consumer adoption of portable devices and online services",
+      "economic": "Rapid drop in data storage costs; new digital content distribution business models"
+    },
+    "predicted_timeline": "Around 2009",
+    "predicted_events": [
+      "Most media (books, music, movies) distributed digitally with no physical format",
+      "Computers routinely use wireless high-bandwidth networks"
+    ],
+    "domains": [
+      "Computing", 
+      "Media"
+    ],
+    "predictor": "Ray Kurzweil",
+    "prediction_date": "1999",
+    "original_confidence": "Not stated (implied as likely scenario)",
+    "actual_outcome": "Partially Realized",
+    "outcome_date": "2010",
+    "outcome_notes": "By 2008–2010, digital distribution became dominant in music (Apple’s iTunes Store became the top music retailer:contentReference[oaicite:2]{index=2}) and e-books (Amazon’s e-books outsold print by 2010:contentReference[oaicite:3]{index=3}). Wireless internet became ubiquitous. However, paper books persisted with significant sales even in 2018:contentReference[oaicite:4]{index=4}:contentReference[oaicite:5]{index=5}, so physical media did not vanish entirely.",
+    "influencing_factors": {
+      "positive": [
+        "Explosion of smartphone and broadband usage",
+        "Successful digital ecosystems (iTunes, Kindle) accelerated consumer shift"
+      ],
+      "negative": [
+        "Continued consumer preference for physical formats (e.g. print books, vinyl records)",
+        "Publishing industry adaptation slower than anticipated"
+      ]
+    }
+  },
+  {
+    "id": "Kurzweil_Longevity_2019",
+    "factors": {
+      "technological": "Advances expected in biotech, genomics, and medicine (late 1990s optimism)",
+      "social": "Rising interest in anti-aging research and health",
+      "economic": "Increasing healthcare investments"
+    },
+    "predicted_timeline": "By 2019",
+    "predicted_events": [
+      "Average human life expectancy reaches about 100 years"
+    ],
+    "domains": [
+      "Biotechnology", 
+      "Health"
+    ],
+    "predictor": "Ray Kurzweil",
+    "prediction_date": "1999",
+    "original_confidence": "Not stated",
+    "actual_outcome": "Failed",
+    "outcome_date": "2019",
+    "outcome_notes": "Global average life expectancy in 2019 was around 72 years:contentReference[oaicite:6]{index=6}, far below 100. Even in the most developed countries it remained in the 80s. Advances in medicine extended many lives, but lifestyle diseases and biological complexity kept the average well short of the prediction.",
+    "influencing_factors": {
+      "positive": [
+        "Progress in medical technology (genomics, therapies) did improve health outcomes"
+      ],
+      "negative": [
+        "Obesity and other health issues increased, counteracting longevity gains:contentReference[oaicite:7]{index=7}",
+        "Aging proved more complex than anticipated; no breakthrough to drastically extend lifespan by 2019"
+      ]
+    }
+  },
+  {
+    "id": "Diamandis_Global_Connectivity_2025",
+    "factors": {
+      "technological": "Ambitious projects for global internet (satellite constellations, balloons like Google Loon)",
+      "social": "Recognition of the internet as key to economic growth and information access",
+      "economic": "Lower costs of smartphones; companies investing in connecting new markets"
+    },
+    "predicted_timeline": "By 2025",
+    "predicted_events": [
+      "Internet access reaches virtually every human (8 billion connected)"
+    ],
+    "domains": [
+      "Telecommunications", 
+      "Global Development"
+    ],
+    "predictor": "Peter Diamandis",
+    "prediction_date": "2015",
+    "original_confidence": "Not stated (optimistic projection)",
+    "actual_outcome": "Partially Realized",
+    "outcome_date": "2025",
+    "outcome_notes": "Global internet users grew from ~3 billion in 2015 to over 5.5 billion by 2023, but full connectivity for 8 billion people is not yet achieved. Mega-projects for universal coverage (e.g. balloons, satellite networks) faced technical and financial hurdles (Google’s Project Loon was shut down, etc.). While connectivity greatly expanded, a significant gap remains by 2025, especially in remote and poor regions.",
+    "influencing_factors": {
+      "positive": [
+        "Rapid smartphone adoption in the developing world",
+        "Falling costs of mobile data and devices"
+      ],
+      "negative": [
+        "Infrastructure challenges in rural/remote areas",
+        "Delayed or canceled initiatives (Project Loon, OneWeb bankruptcy) slowed universal coverage"
+      ]
+    }
+  },
+  {
+    "id": "Toffler_Remote_Work_2000s",
+    "factors": {
+      "technological": "Personal computers and telecommunications becoming accessible by 1980s",
+      "social": "Desire for flexible work arrangements, reduce commuting",
+      "economic": "Oil crises and commute costs made work-from-home appealing"
+    },
+    "predicted_timeline": "By early 21st century (2000s)",
+    "predicted_events": [
+      "A significant portion of work is done from home via computer (“electronic cottage”)",
+      "Cities lose importance as work decentralizes"
+    ],
+    "domains": [
+      "Future of Work", 
+      "Society"
+    ],
+    "predictor": "Alvin Toffler",
+    "prediction_date": "1980",
+    "original_confidence": "Not stated",
+    "actual_outcome": "Partially Realized",
+    "outcome_date": "2020",
+    "outcome_notes": "Toffler correctly foresaw the rise of telecommuting and home offices:contentReference[oaicite:8]{index=8}. By the 2010s, millions worked from home at least part-time, and the 2020 pandemic accelerated this trend dramatically. However, his associated prediction that cities would decline in significance did not fully materialize:contentReference[oaicite:9]{index=9}. Urban areas remained economically and culturally important, although remote work has begun to challenge that paradigm.",
+    "influencing_factors": {
+      "positive": [
+        "Internet and collaboration tools enabled effective remote work",
+        "Cultural shifts slowly increased acceptance of telework"
+      ],
+      "negative": [
+        "Many industries still require physical presence or resisted remote work",
+        "Cities adapted by focusing on services and creative industries, maintaining their importance"
+      ]
+    }
+  },
+  {
+    "id": "Wired_Long_Boom_2020",
+    "factors": {
+      "technological": "1990s tech boom (Internet, PCs) fueling optimism",
+      "social": "Post-Cold War optimism and globalization",
+      "economic": "Strong late-90s economic growth and stock market gains"
+    },
+    "predicted_timeline": "1997–2020",
+    "predicted_events": [
+      "Worldwide economic boom doubling global economy every 12 years",
+      "Widespread prosperity and environmental improvements ('25 years of prosperity, freedom, better environment')"
+    ],
+    "domains": [
+      "Economics", 
+      "Global Development"
+    ],
+    "predictor": "Peter Schwartz & Peter Leyden (Wired magazine)",
+    "prediction_date": "1997",
+    "original_confidence": "Scenario (optimistic scenario presented as plausible)",
+    "actual_outcome": "Failed",
+    "outcome_date": "2020",
+    "outcome_notes": "The “Long Boom” scenario:contentReference[oaicite:10]{index=10}:contentReference[oaicite:11]{index=11} envisioned uninterrupted prosperity through 2020, which did not occur. While parts of the world saw growth and millions lifted out of poverty, the period also saw major setbacks: the dot-com crash (~2000), the 2008 global financial crisis, rising inequality, and worsening climate change. By 2020, environmental issues remained urgent and prosperity was uneven, contrary to the prediction of a uniformly positive boom.",
+    "influencing_factors": {
+      "positive": [
+        "Rapid technological advancement did drive economic growth in some areas"
+      ],
+      "negative": [
+        "Financial crises and recessions broke the streak of continuous growth",
+        "Environmental degradation and climate change escalated, contrary to expected improvements"
+      ]
+    }
+  },
+  {
+    "id": "Olsen_No_Home_Computer_1977",
+    "factors": {
+      "technological": "Late 1970s computers were large, costly, and not user-friendly",
+      "social": "Computing seen as business/academic tool, hobbyist market nascent",
+      "economic": "Home computers not yet a mass market, limited software for consumers"
+    },
+    "predicted_timeline": "Indefinite (general statement in 1977)",
+    "predicted_events": [
+      "No reason for any individual to have a computer in their home"
+    ],
+    "domains": [
+      "Personal Computing"
+    ],
+    "predictor": "Ken Olsen (Digital Equipment Corp. CEO)",
+    "prediction_date": "1977",
+    "original_confidence": "N/A (statement of opinion)",
+    "actual_outcome": "Failed",
+    "outcome_date": "1990",
+    "outcome_notes": "Olsen’s 1977 remark:contentReference[oaicite:12]{index=12}:contentReference[oaicite:13]{index=13} was dramatically proven wrong. By the 1990s, personal computers had become common household items, and by the 2000s, it was unusual *not* to have a computer at home. The PC revolution (sparked by kits in late 1970s, then the 1980 IBM PC and clones) showed strong demand for home computing, contrary to Olsen’s expectation.",
+    "influencing_factors": {
+      "positive": [
+        "Introduction of user-friendly home computers (Apple II, IBM PC) and useful applications (spreadsheets, games)",
+        "Falling costs of microprocessors and memory"
+      ],
+      "negative": [
+        "Olsen’s focus on corporate computing made him underestimate consumer market potential"
+      ]
+    }
+  },
+  {
+    "id": "Metcalfe_Internet_Collapse_1996",
+    "factors": {
+      "technological": "1990s Internet infrastructure was relatively rudimentary (dial-up, early routers)",
+      "social": "Explosive growth in web users and traffic raised concerns",
+      "economic": "Little commercial incentive yet to massively over-provision network capacity"
+    },
+    "predicted_timeline": "1996",
+    "predicted_events": [
+      "The Internet \"will soon go spectacularly supernova and catastrophically collapse\" from overload"
+    ],
+    "domains": [
+      "Internet Infrastructure"
+    ],
+    "predictor": "Robert Metcalfe (3Com founder)",
+    "prediction_date": "1995",
+    "original_confidence": "Confident (famously vowed to \"eat his words\" if wrong)",
+    "actual_outcome": "Failed",
+    "outcome_date": "1997",
+    "outcome_notes": "The predicted 1996 Internet collapse never occurred. The web kept growing without catastrophic failure. Metcalfe honored his promise by literally blending a printed copy of his prediction and consuming it in 1997:contentReference[oaicite:14]{index=14}:contentReference[oaicite:15]{index=15}. Infrastructure scaled up (improved routers, optical fiber, etc.) and the internet proved more resilient and scalable than anticipated.",
+    "influencing_factors": {
+      "positive": [
+        "Technical innovations (better networking protocols, infrastructure investment) prevented collapse"
+      ],
+      "negative": [
+        "Initial security and congestion issues did arise, but were mitigated in time"
+      ]
+    }
+  },
+  {
+    "id": "XPrize_Private_Spaceflight_2004",
+    "factors": {
+      "technological": "Emergence of commercial aerospace technologies (lightweight materials, hybrid rockets)",
+      "social": "Renewed public interest in space and private innovation",
+      "economic": "Prize incentive ($10 million) spurred private investment in spacecraft development"
+    },
+    "predicted_timeline": "By 2004",
+    "predicted_events": [
+      "A private team will launch a reusable manned spacecraft to space (100 km altitude) twice within two weeks"
+    ],
+    "domains": [
+      "Space Exploration"
+    ],
+    "predictor": "Ansari X Prize (Peter Diamandis/XPRIZE Foundation)",
+    "prediction_date": "1996",
+    "original_confidence": "N/A (goal set as competition deadline)",
+    "actual_outcome": "Realized",
+    "outcome_date": "2004-10-04",
+    "outcome_notes": "Scaled Composites’ SpaceShipOne successfully completed two suborbital spaceflights within two weeks, winning the X Prize on Oct 4, 2004:contentReference[oaicite:16]{index=16}:contentReference[oaicite:17]{index=17}. This marked the first privately-developed crewed spacecraft to reach space, achieved by the prize deadline.",
+    "influencing_factors": {
+      "positive": [
+        "Innovative design by Burt Rutan and funding by Paul Allen enabled rapid development"
+      ],
+      "negative": [
+        "After the win, the expected quick commercialization (space tourism) progressed slower than hoped"
+      ]
+    }
+  },
+  {
+    "id": "NASA_Moon_Base_2020",
+    "factors": {
+      "technological": "Post-Space Shuttle vision with new rockets and spacecraft (Constellation program)",
+      "social": "Renewed political will for space exploration after Columbia shuttle disaster",
+      "economic": "Large NASA budget commitment expected (though subject to political changes)"
+    },
+    "predicted_timeline": "By 2020",
+    "predicted_events": [
+      "Humans return to the Moon, establishing a permanent outpost"
+    ],
+    "domains": [
+      "Space Exploration"
+    ],
+    "predictor": "NASA Vision for Space Exploration (announced by U.S. President George W. Bush)",
+    "prediction_date": "2004",
+    "original_confidence": "Official goal",
+    "actual_outcome": "Failed",
+    "outcome_date": "2020",
+    "outcome_notes": "The 2004 plan called for a human Moon return by 2020:contentReference[oaicite:18]{index=18}. NASA did develop new spacecraft (Orion) but the Constellation program was canceled in 2010. No human has returned to the Moon as of 2020. The timeline slipped: a new Artemis program plans a crewed lunar landing in 2025+. Budget constraints and changing political priorities derailed the original schedule.",
+    "influencing_factors": {
+      "positive": [
+        "Technological progress (e.g., new rocket designs) continued and were inherited by successor programs"
+      ],
+      "negative": [
+        "Funding shortfalls and program cancellations (Constellation) reset the timeline"
+      ]
+    }
+  },
+  {
+    "id": "AT&T_Videophone_1980s",
+    "factors": {
+      "technological": "Early analog video compression was limited; expensive equipment",
+      "social": "Excitement about space-age communication, assumption people want face-to-face calls",
+      "economic": "AT&T invested in Picturephone technology as a premium service"
+    },
+    "predicted_timeline": "1960s prediction for 1980s",
+    "predicted_events": [
+      "Video calls become common, replacing standard voice telephone calls"
+    ],
+    "domains": [
+      "Telecommunications"
+    ],
+    "predictor": "AT&T Bell Labs (1964 World’s Fair demonstration)",
+    "prediction_date": "1964",
+    "original_confidence": "Promotional vision",
+    "actual_outcome": "Failed (for predicted timeframe)",
+    "outcome_date": "1984",
+    "outcome_notes": "AT&T’s Picturephone, unveiled in 1964, was expected to revolutionize communication. However, it failed commercially in the 1970s; consumers were not ready to videoconference regularly, preferring traditional phones:contentReference[oaicite:19]{index=19}:contentReference[oaicite:20]{index=20}. Widespread adoption of video calling only occurred decades later (Skype, FaceTime in the 2000s, and especially during the 2020s), well past the original 20-year horizon.",
+    "influencing_factors": {
+      "positive": [
+        "Improvements in digital networks and webcams eventually made video calls feasible and cheap"
+      ],
+      "negative": [
+        "Users’ privacy preferences and high initial costs hindered early adoption:contentReference[oaicite:21]{index=21}:contentReference[oaicite:22]{index=22}",
+        "Needed infrastructure (broadband internet) was not available until decades later"
+      ]
+    }
+  },
+  {
+    "id": "Keynes_15Hour_Workweek_2030",
+    "factors": {
+      "technological": "Continuous productivity improvements due to automation",
+      "social": "Expectation that people would choose more leisure as basic needs met",
+      "economic": "Economic growth assumed to reduce scarcity and necessity for long work hours"
+    },
+    "predicted_timeline": "By 2030 (100 years from 1930)",
+    "predicted_events": [
+      "Workweeks shrink to ~15 hours (vast leisure time as machines do most work)"
+    ],
+    "domains": [
+      "Economics", 
+      "Labor"
+    ],
+    "predictor": "John Maynard Keynes",
+    "prediction_date": "1930",
+    "original_confidence": "Hypothesis in essay",
+    "actual_outcome": "Failed (as of 2025)",
+    "outcome_date": "2025",
+    "outcome_notes": "Keynes imagined that by 2030, productivity gains would allow drastically shorter workweeks:contentReference[oaicite:23]{index=23}:contentReference[oaicite:24]{index=24}. In reality, by 2025 most full-time workers still work ~40-hour weeks (or more). Productivity did rise enormously, but instead of leisure, societies saw consumption and expectations rise in tandem. New industries and desires meant people still work long hours, making this prediction unlikely to be realized by 2030:contentReference[oaicite:25]{index=25}.",
+    "influencing_factors": {
+      "positive": [
+        "Automation did eliminate many labor-intensive tasks"
+      ],
+      "negative": [
+        "Human wants proved insatiable – higher productivity led to producing more, not working less",
+        "Social and economic structures (e.g., income inequality, cost of living) kept workweeks long"
+      ]
+    }
+  },
+  {
+    "id": "Simon_AI_Doing_All_Work_1985",
+    "factors": {
+      "technological": "Early AI successes in the 1950s–60s (game playing, theorem proving) fueled optimism",
+      "social": "Cold War funding poured into AI research, creating bold expectations",
+      "economic": "Assumption that human-level AI would dramatically boost economic productivity"
+    },
+    "predicted_timeline": "Within 20 years (by 1985)",
+    "predicted_events": [
+      "Machines capable of doing any work a human can do (human-level general AI)"
+    ],
+    "domains": [
+      "Artificial Intelligence"
+    ],
+    "predictor": "Herbert Simon (AI pioneer)",
+    "prediction_date": "1965",
+    "original_confidence": "Strong (declarative prediction)",
+    "actual_outcome": "Failed",
+    "outcome_date": "1985",
+    "outcome_notes": "In 1965, Simon claimed “machines will be capable, within twenty years, of doing any work a man can do.”:contentReference[oaicite:26]{index=26} This proved drastically overoptimistic. By 1985, AI was still limited to narrow tasks, and even by 2025 no AI has human-level general intelligence. The prediction failed as researchers underestimated the complexity of general intelligence and encountered hurdles (leading to an \"AI winter\" in the 1970s–80s).",
+    "influencing_factors": {
+      "positive": [
+        "Computing power and algorithms improved steadily, enabling some tasks to be automated"
+      ],
+      "negative": [
+        "Many aspects of human intelligence (common sense, creativity, context understanding) were far harder to replicate than expected",
+        "Overoptimism led to underestimating the time and research needed, causing funding booms and busts"
+      ]
+    }
+  },
+  {
+    "id": "Clarke_GeoSatellites_1965",
+    "factors": {
+      "technological": "World War II rocket advancements (V-2) hinted at space launch capability",
+      "social": "Post-war interest in scientific frontiers like space communication",
+      "economic": "Growing demand for global communication links (e.g., international phone, TV broadcasts)"
+    },
+    "predicted_timeline": "Within a few decades (post-1945)",
+    "predicted_events": [
+      "Geostationary satellites used for global telecommunications"
+    ],
+    "domains": [
+      "Space Communication"
+    ],
+    "predictor": "Arthur C. Clarke",
+    "prediction_date": "1945",
+    "original_confidence": "Concept proposal",
+    "actual_outcome": "Realized",
+    "outcome_date": "1965",
+    "outcome_notes": "Clarke’s 1945 paper proposed orbital radio relays:contentReference[oaicite:27]{index=27}:contentReference[oaicite:28]{index=28}. It was fulfilled: the first geostationary communication satellite was launched in 1964 and by 1965, Intelsat was deploying a network of GEO satellites:contentReference[oaicite:29]{index=29}:contentReference[oaicite:30]{index=30}. By the late 20th century, hundreds of “Clarke orbit” satellites were in service, just as he envisioned, making global TV and telecom possible.",
+    "influencing_factors": {
+      "positive": [
+        "Rapid development of rocket technology and electronics after WWII",
+        "International collaboration on communications (INTELSAT) to realize the vision"
+      ],
+      "negative": [
+        "None significant – prediction was achieved with technological progress"
+      ]
+    }
+  }
+]

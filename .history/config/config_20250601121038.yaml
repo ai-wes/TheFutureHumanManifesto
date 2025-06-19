@@ -1,0 +1,292 @@
+data_sources:
+  arxiv:
+    base_url: http://export.arxiv.org/api/query
+    categories:
+      - cs.AI
+      - cs.LG
+      - cs.CL
+      - cs.CV
+      - q-bio
+    max_results: 100
+  gdelt:
+    base_url: http://data.gdeltproject.org/gdeltv2/
+    themes:
+      - ARTIFICIAL_INTELLIGENCE
+      - BIOTECHNOLOGY
+      - TECHNOLOGY
+  news_api:
+    api_key: your_news_api_key # Best to use .env for this
+    keywords:
+      - artificial intelligence
+      - transhumanism
+      - biotechnology
+      - nanotechnology
+    sources:
+      - bbc-news
+      - reuters
+      - associated-press
+      - the-verge
+
+  serpapi: # New section for SerpApi
+    api_key: null # IMPORTANT: Set your SerpApi key in .env as SERPAPI_API_KEY
+    google_patents_engine: "google_patents" # Default engine for patents
+    rate_limit_seconds: 1.0 # SerpApi's free plan has ~100 searches/month. Paid plans have higher limits. Adjust based on your plan.
+
+  patents: # General settings for how your system uses patent data
+    # This section now primarily defines search behavior, not specific API endpoints if SerpApi is the sole provider
+    search_settings:
+      future_tech_queries:
+        - "(neural interface) OR (brain computer interface)" # Use Google Patents search syntax
+        - "(CRISPR OR gene editing) AND (longevity OR aging reversal)"
+        - "(quantum computing) AND (artificial intelligence OR drug discovery)"
+        - "(nanotechnology OR nanobots) AND (drug delivery OR medical treatment)"
+        - "(synthetic biology) AND (aging OR rejuvenation)"
+        - "(neural lace) OR (neural dust)"
+        - "(DNA data storage) OR (biocomputing)"
+        - "(life extension) AND (telomere OR senolytics)"
+        - "(artificial general intelligence) AND (cognitive architecture OR self-improvement)"
+        - "(molecular assembler) OR (self-replicating nanotechnology)"
+      max_results_per_query: 10 # 'num' parameter for SerpApi (10 to 100)
+      # Parameters for SerpApi Google Patents engine
+      # These can be overridden per query if needed, or set as defaults here
+      sort_by: "new" # 'new', 'old', or 'relevance' (default)
+      cluster_results: "false" # 'true' for classification clustering
+      deduplicate_by: "family" # 'family' or 'publication'
+      include_patents: "true"
+      include_scholar: "false"
+      date_after_type: "publication" # 'priority', 'filing', 'publication'
+      date_after_value: "20200101" # YYYYMMDD
+      # date_before_type: "publication"
+      # date_before_value: "20231231"
+      # country_codes: "US,EP,WO" # Comma-separated
+      # languages: "ENGLISH"
+      # status_filter: "GRANT" # 'GRANT' or 'APPLICATION'
+      # type_filter: "PATENT" # 'PATENT' or 'DESIGN'
+forecasting: # This section seems to be for the TFP/Orchestrator pipeline
+  domains:
+    - artificial_general_intelligence
+    - biotechnology_longevity
+    - brain_computer_interfaces
+    - nanotechnology
+    - quantum_computing
+    - space_colonization
+    - genetic_engineering
+  forecast_horizons: # Example values
+    - 30
+    - 90
+    - 365
+    - 1825
+  models: # Models the orchestrator might try to use
+    - tfp_sts
+    - pymc_bayesian # Now you have an implementation for this
+    - neural_ensemble # This could refer to the GAPS-E forecaster
+  update_frequency: daily
+  # PyMC specific settings (can also be nested under a 'pymc' sub-key if preferred)
+  pymc:
+    draws: 2000
+    tune: 1000
+    chains: 2
+    cores: 1
+  # TFP STS specific settings (can also be nested)
+  sts:
+    variational_steps: 200
+    learning_rate: 0.1
+  # GBM specific settings (can also be nested)
+  gbm:
+    n_estimators: 100
+
+narratives:
+  length: detailed
+  perspective: balanced
+  style: academic
+
+neo4j:
+  database: neo4j
+  password: password # Best to use .env for this: NEO4J_PASSWORD
+  uri: neo4j://localhost:7687
+  username: neo4j # Best to use .env for this: NEO4J_USERNAME
+
+openai:
+  api_key: your_openai_api_key_here # Best to use .env for this: OPENAI_API_KEY
+  max_tokens: 4000
+  model: gpt-4-turbo-preview
+
+redis:
+  db: 0
+  host: localhost
+  port: 6379
+  streams:
+    raw_arxiv: stream:raw_arxiv
+    raw_markets: stream:raw_markets # Fetcher not yet provided
+    raw_news: stream:raw_news
+    raw_patents: "stream:raw_patents"
+    raw_social: "stream:raw_social" # Fetcher not yet provided
+
+scenarios: # General scenario settings, potentially for PipelineOrchestrator's evolutionary_generator
+  crossover_rate: 0.8
+  generations: 10 # Fewer generations than GAPS-E example
+  mutation_rate: 0.1
+  population_size: 50
+  scenarios_per_chapter: 5
+
+scheduling:
+  data_ingestion: "0 */6 * * *" # Cron string
+  forecasting: "0 2 * * 0" # Cron string
+  kg_processing: "0 8 * * *" # Cron string for the new kg_redis_consumer
+  scenario_generation: "0 4 * * 0" # Cron string
+
+# --- Add your gapse_settings block here ---
+gapse_settings:
+  llm_model: gpt-4.1-mini # Or your preferred model for GAPS-E
+  evolution_population_size: 20
+  evolution_num_generations: 5 # Number of generations per chapter theme
+  scenarios_per_chapter: 3 # How many top scenarios to select per chapter theme
+  evolution_elite_count: 2
+  evolution_crossover_rate: 0.8
+  evolution_mutation_rate: 0.25 # Slightly increased mutation for more exploration
+  fitness_prob_weight: 0.55 # Weight for probability score in fitness
+  fitness_consistency_weight: 0.45 # Weight for consistency score in fitness
+
+  book_structure: # Defines the chapters/themes for your book
+    AI_Cognitive_Revolution: "The dawn of Artificial General Intelligence: societal transformation, ethical dilemmas, and the future of human work and creativity."
+    BioTech_Longevity_Frontier: "Breaking biological barriers: scenarios of radical life extension, genetic engineering for healthspan, and the societal impact of defeating aging."
+    NeuroTech_Mind_Merge: "The evolving human mind: brain-computer interfaces, cognitive augmentation, digital consciousness, and the philosophical questions of identity."
+    NanoTech_Material_Mastery: "The world remade at the atomic scale: molecular manufacturing, smart materials, environmental remediation, and medical nanorobotics."
+    Quantum_Computational_Leap: "Harnessing the quantum realm: impact on cryptography, drug discovery, materials science, and complex system simulation."
+    ExoHumanity_Space_Odyssey: "Humanity's expansion into the cosmos: establishing off-world colonies, terraforming, and the challenges of interstellar existence."
+    EcoFutures_Climate_Resilience: "Navigating environmental tipping points: technological and societal adaptations to climate change, geoengineering, and sustainable futures."
+    Decentralized_Digital_Societies: "The future of governance and economy: Web3, DAOs, digital identity, and the impact of decentralized systems on global structures."
+    Humanity_Reimagined_Transhumanism_Ethics: "The core of transhumanist thought: morphological freedom, posthumanism, and the ethical frameworks needed for a radically enhanced future."
+    Global_Risk_Opportunity_Nexus: "Interconnected global scenarios: exploring how breakthroughs in one domain (e.g., AGI) cascade through others, creating complex risks and opportunities."
+
+  scenario_generator: # Specific settings for GAPS-E's EvolutionaryScenarioGenerator
+    available_domains: # Ensure these align with your conceptual domains
+      - artificial_general_intelligence
+      - biotechnology_longevity
+      - brain_computer_interfaces
+      - nanotechnology
+      - quantum_computing
+      - space_colonization
+      - genetic_engineering
+      - climate_tech_adaptation
+      - decentralized_systems_web3
+      - future_of_work_education
+      - global_governance
+      - resource_management
+      - synthetic_biology
+      - neurophilosophy # For consciousness/identity themes
+      - geoengineering
+      - digital_identity_privacy
+      - post_scarcity_economics
+      - surveillance_society
+      - global_health_security
+      - energy_storage_distribution
+      - advanced_materials
+      - food_security_agritech
+      - water_scarcity_management
+      - migration_demographics
+      - universal_basic_income
+      - posthumanism
+      - ethics_ai_bio
+      - planetary_defense
+      - interspecies_communication
+      - digital_democracy
+      - autonomous_transportation
+      - synthetic_media_deepfakes
+      - cyberwarfare
+      - mental_health_augmentation
+      - eco_restoration
+      - smart_cities
+      - longevity_economics
+      - disaster_resilience
+      - global_inequality
+      - digital_currency
+      - virtual_reality_society
+      - education_reform
+      - decentralized_science
+      - open_source_governance
+
+    base_themes: # Initial prompts/ideas for scenario generation, can be more specific
+      agi_breakthrough_rapid: "A scenario where AGI is achieved rapidly (within 5 years) through an unexpected algorithmic breakthrough, leading to immediate and widespread disruption."
+      agi_breakthrough_gradual: "A scenario depicting a more gradual emergence of AGI over 10-15 years, allowing for some societal adaptation but still posing significant challenges."
+      ai_existential_risk_realized: "A scenario where AGI development leads to an existential catastrophe due to misalignment or uncontrolled self-improvement."
+      ai_beneficial_superintelligence: "AGI development is successfully aligned with human values, leading to an era of unprecedented progress and problem-solving (a 'Singleton' or benevolent AI)."
+      ai_regulation_global: "A global regulatory framework for AI is established, balancing innovation with safety and ethical concerns."
+      ai_mass_unemployment: "Widespread automation leads to mass unemployment, forcing a rethinking of economic and social structures."
+      ai_creative_revolution: "AI systems become primary drivers of art, literature, and scientific discovery, challenging human notions of creativity."
+      longevity_escape_velocity_achieved: "A future where Longevity Escape Velocity (LEV) is definitively reached, focusing on the economic, social, and psychological impacts on a multi-generational, slowly-aging society."
+      longevity_partial_success: "Scenarios where significant but not complete anti-aging breakthroughs occur, extending average healthspan by 20-30 years, creating new societal strata."
+      longevity_economics: "Radical life extension disrupts pension systems, insurance, and the concept of retirement, creating new economic paradigms."
+      bci_direct_neural_link: "Widespread adoption of high-bandwidth, direct neural interfaces for communication, learning, and entertainment, exploring both utopian and dystopian potentials."
+      bci_therapeutic_focus: "BCIs primarily develop for therapeutic uses (restoring lost function) with slow, cautious adoption for enhancement due to ethical concerns."
+      bci_digital_immortality: "Mind uploading and digital consciousness become possible, raising questions about identity, rights, and the meaning of life."
+      nanotech_molecular_assemblers: "The advent of functional molecular assemblers, leading to post-scarcity for material goods but also raising concerns about misuse and economic displacement."
+      nanotech_medical_nanobots: "Medical nanorobots become a standard part of healthcare, constantly monitoring and repairing the human body at a cellular level."
+      nanotech_environmental_cleanup: "Nanotechnology is deployed at scale to remediate pollution and restore ecosystems."
+      quantum_cryptography_broken: "Quantum computers become powerful enough to break current encryption standards, forcing a global race for quantum-resistant cryptography and impacting cybersecurity."
+      quantum_drug_discovery_revolution: "Quantum simulations lead to rapid breakthroughs in designing novel drugs and materials, transforming medicine and industry."
+      quantum_internet: "A global quantum internet is established, enabling ultra-secure communication and new forms of distributed computing."
+      mars_colony_established: "A self-sustaining human colony is established on Mars, exploring its governance, unique culture, and relationship with Earth."
+      asteroid_mining_boom: "Large-scale asteroid mining becomes economically viable, providing new resources but also creating new geopolitical tensions in space."
+      lunar_industry: "The Moon becomes a hub for manufacturing and resource extraction, supporting both Earth and deep space missions."
+      gene_editing_commonplace: "Somatic and germline gene editing for disease eradication and enhancement become widely accepted and accessible, leading to debates about 'designer humans'."
+      gene_drive_ecosystem: "Gene drives are used to alter entire species or ecosystems, with unpredictable ecological consequences."
+      synthetic_biology_custom_organisms: "Creation of novel synthetic organisms for industrial, agricultural, and environmental purposes becomes routine, with associated ecological risks."
+      synthetic_bio_terror: "Synthetic biology is weaponized, leading to new forms of bioterrorism and global security challenges."
+      climate_geoengineering_deployed: "Large-scale geoengineering projects (e.g., solar radiation management) are deployed to combat climate change, with uncertain global side effects."
+      climate_adaptation_success: "Humanity successfully adapts to a significantly warmer world through technological innovation and resilient infrastructure, but with regional disparities."
+      eco_restoration_ai: "AI and robotics are used to restore biodiversity and manage ecosystems at scale."
+      web3_dao_governance: "Decentralized Autonomous Organizations (DAOs) become significant players in global governance and resource management, challenging traditional nation-state models."
+      decentralized_science: "Open, decentralized platforms disrupt traditional scientific publishing and funding, accelerating discovery."
+      digital_identity_privacy: "Universal digital identity systems are implemented, raising new privacy and surveillance concerns."
+      metaverse_work_life_integration: "A significant portion of work, education, and social life moves into immersive, persistent virtual worlds, blurring physical and digital realities."
+      universal_basic_income: "Universal Basic Income is adopted in response to automation, with varying degrees of success and social impact."
+      global_pandemic_future_tech: "A future global pandemic is either caused by or effectively managed by advanced biotechnologies and AI-driven response systems."
+      food_security_agritech: "Advanced agricultural technologies solve food scarcity, but create new dependencies and vulnerabilities."
+      water_scarcity_management: "Breakthroughs in desalination and water recycling address global water shortages."
+      migration_demographics: "Mass migrations driven by climate, conflict, or opportunity reshape global demographics and politics."
+      planetary_defense: "A major asteroid threat leads to unprecedented global cooperation and new planetary defense technologies."
+      cyberwarfare_escalation: "State and non-state actors engage in continuous cyberwarfare, destabilizing economies and societies."
+      digital_currency_global: "A global digital currency emerges, disrupting traditional banking and monetary policy."
+      smart_cities_ubiquitous: "Cities become fully smart and automated, raising questions about surveillance, privacy, and urban inequality."
+      education_reform_ai: "AI-driven personalized education becomes the norm, transforming learning and social mobility."
+      disaster_resilience_networks: "Distributed sensor and AI networks enable rapid response to natural and man-made disasters."
+      posthumanism_ethics: "Society grapples with the ethical implications of radical human enhancement and the emergence of posthuman entities."
+      interspecies_communication: "Breakthroughs in neuroscience and AI enable meaningful communication with non-human animals."
+      synthetic_media_deepfakes: "Synthetic media and deepfakes erode trust in information, requiring new verification systems."
+      open_source_governance: "Open-source models are adopted for governance, law, and policy-making at local and global scales."
+      global_inequality_tech: "Technological progress exacerbates or mitigates global inequality, depending on policy and access."
+      surveillance_society: "Pervasive surveillance becomes normalized, with trade-offs between security and freedom."
+      mental_health_augmentation: "Neurotechnology and AI are used to enhance mental health and cognitive performance."
+      resource_management_ai: "AI-driven optimization of global resource allocation reduces waste but concentrates power."
+      energy_storage_breakthrough: "Revolutionary energy storage technologies enable 100% renewable grids and new economic models."
+      digital_democracy: "Digital platforms enable direct democracy, but also new forms of manipulation and polarization."
+      decentralized_systems_resilience: "Decentralized infrastructure proves more resilient to disasters and attacks than centralized systems."
+      future_of_work_education: "The nature of work and education is transformed by automation, AI, and lifelong learning paradigms."
+      global_governance_fragmentation: "Global governance structures fragment, leading to regional blocs and new forms of cooperation and conflict."
+      neurophilosophy_identity: "Advances in neuroscience and AI challenge traditional concepts of consciousness and personal identity."
+      ethics_ai_bio: "Rapid advances in AI and biotechnology outpace ethical frameworks, leading to societal dilemmas and new institutions."
+      post_scarcity_economics: "Abundance created by automation and nanotechnology forces a redefinition of value, work, and distribution."
+      disaster_resilience: "Communities leverage technology and social innovation to become highly resilient to shocks and disruptions."
+
+  forecaster: # Specific settings for GAPS-E's HybridProbabilisticForecaster
+    nn_input_dim: 50 # Total number of features your NN expects
+    tfidf_max_features: 45 # Number of features from TF-IDF (nn_input_dim - 5 numerical features)
+    model_save_path: "models/probabilistic_nn.pth"
+    scaler_save_path: "models/feature_scaler.joblib"
+    vectorizer_save_path: "models/tfidf_vectorizer.joblib"
+    bayesian_model_save_path: "models/bayesian_ridge_model.joblib"
+    nn_hidden1: 128 # Example
+    nn_hidden2: 64 # Example
+    nn_dropout: 0.2 # Example
+    ensemble_weights:
+      bayesian: 0.4
+      neural: 0.6
+
+  training: # Specific settings for GAPS-E's NN/Bayesian model training
+    learning_rate: 0.0001
+    num_epochs: 100
+    batch_size: 32
+    historical_data_path: "F:\\TheFutureHumanManifesto\\src\\gaps_subsystem\\historical_predictions.json"
+    refined_data_with_plausibility_path: "F:\\TheFutureHumanManifesto\\src\\gaps_subsystem\\refined_briefs_with_plausibility.json"
+    original_synthetic_scenarios_path: "F:\\TheFutureHumanManifesto\\src\\gaps_subsystem\\synthetic_scenarios_generated.json"

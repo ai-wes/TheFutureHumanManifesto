@@ -1,0 +1,9 @@
+This is why a complete and whole representation of humanity must be utilized and no one view other than human flourishment is adopted. This is why I used philosophical bodies of work and purposefully excluded religion.
+
+My theory is that by NOT hard coding rules and hard labels and by "guiding the horse to water" and not trying to force it to drink, the "horse" will "drink" the water on its own. In other words, by allowing the AI to fundamentally reason and learn for itself, it will develop an ethical and moral code that aligns with human flourishing and survival. Another analogy is the parent that teaches their child and tries to teach their child right and wrong, but when that chlid gets older, the parent can only let go and hope and trust they've raised the child to become a responsible and moral adult, because at the end of the day, the parent can't control their child or the way they think forever. I'm approaching the AI alignment problem in a similar way.
+
+Other skeptics argue that alignment is an impossible problem by definition, as it requires specifying human values with mathematical precision while humans themselves disagree about fundamental moral questions. They contend that the problem space is poorly defined and that proposed solutions contain irresolvable logical contradictions.
+
+Why can't we tackle both at the same time? Other skeptics argue that alignment is an impossible problem by definition, as it requires specifying human values with mathematical precision while humans themselves disagree about fundamental moral questions. They contend that the problem space is poorly defined and that proposed solutions contain irresolvable logical contradictions.
+
+Let me be clear - prohibiting and limiting research and access to intelligence is not the answer, nor is a "hard stop" or "pause" on innovation - because someone somewhere will continue to do it.

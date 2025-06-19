@@ -1,0 +1,8 @@
+.env
+venv
+/data
+src\gaps_subsystem\final_refined_briefs_with_plausibility.json
+src\gaps_subsystem\historical_predictions.json
+src\gaps_subsystem\processing_progress.json
+src\gaps_subsystem\synthetic_scenarios_generated.json
+.history

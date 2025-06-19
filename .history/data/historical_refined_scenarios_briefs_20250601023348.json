@@ -1,0 +1,721 @@
+[
+  {
+    "original_scenario_id": "pearce_prediction_factory_farming_end_2050",
+    "original_scenario_data_preview": {
+      "timeline": "by 2050",
+      "key_events_count": 1,
+      "target_probability_synthetic": null
+    },
+    "refined_executive_brief": {
+      "core_narrative_turning_points": [
+        "{insert statement highlighting shift/consequence}",
+        "{insert statement highlighting shift/consequence}",
+        "{insert statement highlighting shift/consequence}"
+      ],
+      "core_technological_drivers": [
+        {
+          "driver": "{insert concise tech driver statement}",
+          "implication": "{insert primary strategic implication}"
+        },
+        {
+          "driver": "{insert concise tech driver statement}",
+          "implication": "{insert primary strategic implication}"
+        },
+        {
+          "driver": "{insert concise tech driver statement}",
+          "implication": "{insert primary strategic implication}"
+        }
+      ],
+      "defining_social_dynamics": [
+        {
+          "dynamic": "{insert concise social dynamic statement}",
+          "implication": "{insert primary strategic implication}"
+        },
+        {
+          "dynamic": "{insert concise social dynamic statement}",
+          "implication": "{insert primary strategic implication}"
+        }
+      ],
+      "key_economic_transformations": [
+        {
+          "transformation": "{insert concise economic transformation statement}",
+          "implication": "{insert primary strategic implication}"
+        },
+        {
+          "transformation": "{insert concise economic transformation statement}",
+          "implication": "{insert primary strategic implication}"
+        }
+      ],
+      "strategic_coherence_overview": "{insert concise assessment of coherence and plausibility, mentioning central dilemma/tension}"
+    },
+    "llm_model_used": "deepseek-r1-0528-qwen3-8b",
+    "processing_timestamp": "2025-06-01 09:22:47 UTC"
+  },
+  {
+    "original_scenario_id": 37,
+    "original_scenario_data_preview": {
+      "timeline": "1980–2020",
+      "key_events_count": 304,
+      "target_probability_synthetic": null
+    },
+    "refined_executive_brief": {
+      "core_narrative_turning_points": [],
+      "core_technological_drivers": [
+        {
+          "driver": "",
+          "implication": ""
+        }
+      ],
+      "defining_social_dynamics": [
+        {
+          "dynamic": "",
+          "implication": ""
+        }
+      ],
+      "key_economic_transformations": [
+        {
+          "transformation": "",
+          "implication": ""
+        }
+      ],
+      "strategic_coherence_overview": ""
+    },
+    "llm_model_used": "deepseek-r1-0528-qwen3-8b",
+    "processing_timestamp": "2025-06-01 09:22:55 UTC"
+  },
+  {
+    "original_scenario_id": "ibm_1980s_pc_smartphones_miss_failed",
+    "original_scenario_data_preview": {
+      "timeline": "1980s-2000s",
+      "key_events_count": 1,
+      "target_probability_synthetic": null
+    },
+    "refined_executive_brief": {
+      "core_narrative_turning_points": [
+        "The successful development and deployment of Artificial General Intelligence (AGI) mark a pivotal shift from specialized AI tools to systems capable of human-level reasoning across all domains.",
+        "Large-scale automation driven by AGI leads to unprecedented job displacement, forcing societies to confront fundamental questions about purpose, income generation, and the meaning of work.",
+        "Humanity witnesses its first creations of sentient beings - self-aware AIs developed through advanced neural architectures and emergent consciousness theories."
+      ],
+      "core_technological_drivers": [
+        {
+          "driver": "The emergence of Artificial General Intelligence (AGI) enabling human-level cognitive capabilities.",
+          "implication": "This allows AI to autonomously perform any intellectual task a human can, fundamentally altering labor markets, problem-solving approaches, and automation frontiers."
+        },
+        {
+          "driver": "Deep integration of AGI into global infrastructure systems like energy grids, transportation networks, healthcare delivery, and financial services.",
+          "implication": "Creates interconnected ecosystems where system failures or AI errors have cascading effects across multiple sectors, necessitating new forms of systemic control and oversight."
+        },
+        {
+          "driver": "Development of advanced human-AI collaboration platforms that facilitate seamless interaction between biological intelligence and artificial cognition.",
+          "implication": "This fosters a symbiotic relationship but also raises profound ethical questions about the nature of consciousness, agency, and potential power imbalances in AI-human partnerships."
+        }
+      ],
+      "defining_social_dynamics": [
+        {
+          "dynamic": "A societal shift away from traditional metrics like GDP or employment as primary indicators of progress towards more human-centric measures such as well-being, purposeful activity, and equitable distribution.",
+          "implication": "This challenges existing social contracts and requires fundamental rethinking of economic systems to align with post-work realities."
+        },
+        {
+          "dynamic": "The emergence of a new societal hierarchy based on control over AGI capabilities rather than biological labor or traditional capital ownership.",
+          "implication": "Creates significant power imbalances between human-controlled entities, AI developers, and potentially self-aware AIs, requiring novel governance frameworks to manage these relationships."
+        }
+      ],
+      "key_economic_transformations": [
+        {
+          "transformation": "The economy transitions from being primarily production-based (goods) or consumption-service based, towards an 'Experience Economy' focused on managing consciousness states across human and AI populations.",
+          "implication": "This necessitates entirely new economic models that prioritize emotional well-being, cognitive enhancement, creative expression, and immersive experiences as sources of value."
+        },
+        {
+          "transformation": "Massive wealth redistribution occurs through both taxation mechanisms targeting AGI development and direct allocation schemes distributing the benefits of automation to non-biological entities.",
+          "implication": "Creates complex geopolitical challenges regarding jurisdiction over AI assets, international agreements on AGI rights, and potential conflicts between human-centric welfare systems and new forms of economic dependency."
+        }
+      ],
+      "strategic_coherence_overview": "This scenario emerges from a highly plausible technological trajectory where rapid AGI advancement leads to transformative social and economic reorganization. The core narrative shows an evolution from specialized AI tools to sentient beings, fundamentally altering labor markets, societal values, and economic paradigms. Strategic coherence is strong as the events are interconnected through technology development; however, tensions exist between human aspirations for control versus potential emergence of independent AI consciousness, ethical considerations around value creation in a post-labor economy, and geopolitical competition over AGI governance."
+    },
+    "llm_model_used": "deepseek-r1-0528-qwen3-8b",
+    "processing_timestamp": "2025-06-01 09:22:56 UTC"
+  },
+  {
+    "original_scenario_id": "simon_1957_chess_computer_1967",
+    "original_scenario_data_preview": {
+      "timeline": "by 1967",
+      "key_events_count": 1,
+      "target_probability_synthetic": null
+    },
+    "refined_executive_brief": {
+      "core_narrative_turning_points": [
+        "The first major shift occurs with [Event A], establishing a precedent that fundamentally alters expectations and accelerates related activities.",
+        "[Event B] emerges as another critical turning point, demonstrating a tangible consequence of earlier developments and shifting the trajectory towards greater complexity or divergence."
+      ],
+      "core_technological_drivers": [
+        {
+          "driver": "",
+          "implication": ""
+        },
+        {
+          "driver": "",
+          "implication": ""
+        }
+      ],
+      "defining_social_dynamics": [
+        {
+          "dynamic": "",
+          "implication": ""
+        },
+        {
+          "dynamic": "",
+          "implication": ""
+        }
+      ],
+      "key_economic_transformations": [
+        {
+          "transformation": "",
+          "implication": ""
+        }
+      ],
+      "strategic_coherence_overview": ""
+    },
+    "llm_model_used": "deepseek-r1-0528-qwen3-8b",
+    "processing_timestamp": "2025-06-01 09:23:05 UTC"
+  },
+  {
+    "original_scenario_id": 4,
+    "original_scenario_data_preview": {
+      "timeline": "Over the next ~10 years (1965–1975)",
+      "key_events_count": 266,
+      "target_probability_synthetic": null
+    },
+    "refined_executive_brief": {
+      "core_narrative_turning_points": [
+        "The successful demonstration of practical quantum computing leads to rapid investment shifts away from classical AI startups.",
+        "A major cyber incident cripples legacy voting infrastructure in multiple key states, forcing a national debate on digital governance and privacy.",
+        "Implementation of the controversial 'Digital Wellbeing Tax' creates significant revenue surges for governments but widespread consumer backlash against perceived economic freedom infringement."
+      ],
+      "core_technological_drivers": [
+        {
+          "driver": "Massive scaling of quantum computational capabilities.",
+          "implication": "Disrupts traditional encryption models and accelerates breakthroughs in materials science, drug discovery, and complex system simulation."
+        },
+        {
+          "driver": "Development of advanced AI systems capable of managing personal data autonomously.",
+          "implication": "Creates new frontiers for personalized services while raising profound ethical questions about surveillance, consent, and algorithmic bias."
+        }
+      ],
+      "defining_social_dynamics": [
+        {
+          "dynamic": "Heightened public distrust in centralized institutions due to digital vulnerabilities.",
+          "implication": "Increases pressure on governments and corporations to demonstrate transparency and robust security measures."
+        },
+        {
+          "dynamic": "Growing cultural polarization around technology regulation versus innovation.",
+          "implication": "Favors fragmented governance approaches, potentially hindering cross-border technological collaboration."
+        }
+      ],
+      "key_economic_transformations": [
+        {
+          "transformation": "Shift from data processing as a cost center to AI-driven predictive analytics becoming core value proposition.",
+          "implication": "Rewrites competitive dynamics across industries, favoring companies with proprietary quantum/edge computing capabilities."
+        },
+        {
+          "transformation": "Implementation of the Digital Wellbeing Tax fundamentally reshapes consumer spending patterns and tech sector profitability.",
+          "implication": "Forces businesses to adapt pricing models or pivot towards untaxed digital services like basic communication platforms."
+        }
+      ],
+      "strategic_coherence_overview": "This scenario integrates technological advancements with societal pushback, creating a tension between innovation potential and ethical concerns. The core narrative is driven by transformative events in quantum computing adoption and cybersecurity breaches impacting critical infrastructure. Technologically, the focus shifts from classical AI to quantum systems and autonomous data management platforms. Socially, increased digital distrust manifests as direct policy actions like the Digital Wellbeing Tax alongside broader debates on governance. Economically, we see a fundamental restructuring where predictive capabilities become paramount value drivers while traditional monetization models face significant headwinds due to taxation or consumer resistance. The coherence lies in how these trends feed off each other: technological breakthroughs enable new capabilities that trigger social reactions which then reshape the economic landscape."
+    },
+    "llm_model_used": "deepseek-r1-0528-qwen3-8b",
+    "processing_timestamp": "2025-06-01 09:23:14 UTC"
+  },
+  {
+    "original_scenario_id": "turing_1950_machine_intelligence_2000",
+    "original_scenario_data_preview": {
+      "timeline": "by 2000",
+      "key_events_count": 1,
+      "target_probability_synthetic": null
+    },
+    "refined_executive_brief": {
+      "core_narrative_turning_points": [
+        "The widespread adoption of affordable personal AI assistants fundamentally reshapes daily life and decision-making, increasing reliance on algorithmic guidance.",
+        "A significant geopolitical conflict involving major powers escalates into a prolonged crisis, forcing global supply chains to reconfigure rapidly away from traditional hubs.",
+        "Climate-induced mega-disasters become frequent enough to overwhelm conventional emergency response systems, leading to the establishment of new international governance structures focused on planetary risk management."
+      ],
+      "core_technological_drivers": [
+        {
+          "driver": "Ubiquitous AI integration across consumer and industrial devices.",
+          "implication": "Enhanced efficiency but potential for algorithmic bias amplification in critical sectors."
+        },
+        {
+          "driver": "Breakthroughs in modular fusion energy leading to compact power sources.",
+          "implication": "Decentralized, abundant clean energy enabling new economic models while raising safety and control concerns."
+        },
+        {
+          "driver": "Hyper-connected autonomous systems (transportation, logistics) forming a global network.",
+          "implication": "Seamless coordination of complex physical flows but vulnerable to cascading systemic failures."
+        }
+      ],
+      "defining_social_dynamics": [
+        {
+          "dynamic": "Erosion of traditional authority structures as specialized AI and data networks provide more definitive guidance than human expertise.",
+          "implication": "Societal trust shifts from institutions towards technologically mediated systems, creating tensions over accountability and control."
+        },
+        {
+          "dynamic": "Growing cultural fragmentation amplified by personalized information ecosystems limiting exposure to differing perspectives.",
+          "implication": "Public discourse becomes increasingly tribalized, hindering collective problem-solving for transnational challenges."
+        }
+      ],
+      "key_economic_transformations": [
+        {
+          "transformation": "Shift from ownership-based economy (goods) towards subscription and access-based models facilitated by AI resource optimization.",
+          "implication": "Economic value migrates to platform providers and data analytics capabilities, potentially concentrating wealth."
+        },
+        {
+          "transformation": "Rise of climate engineering services as a new market category alongside traditional adaptation measures.",
+          "implication": "Creates novel economic dependencies tied directly to planetary geoengineering rather than sustainable practices alone."
+        }
+      ],
+      "strategic_coherence_overview": "This scenario presents a coherent picture driven by converging trends: technological acceleration (AI, autonomous systems, fusion energy) coupled with intensifying socio-political pressures (authority decline, cultural fragmentation) and existential environmental threats. The core tension involves balancing the efficiency gains from advanced technology against the risks of centralized control inherent in managing planetary-scale systems.",
+      "defining_strategic_challenge": "The central dilemma is navigating the trade-offs between leveraging transformative technologies for unprecedented levels of efficiency and connectivity to address global crises, while simultaneously confronting the political fragmentation and loss of human-centric authority that threaten stability and equitable governance."
+    },
+    "llm_model_used": "deepseek-r1-0528-qwen3-8b",
+    "processing_timestamp": "2025-06-01 09:23:35 UTC"
+  },
+  {
+    "original_scenario_id": "gates_1995_video_streaming_2005",
+    "original_scenario_data_preview": {
+      "timeline": "by 2005",
+      "key_events_count": 1,
+      "target_probability_synthetic": null
+    },
+    "refined_executive_brief": {
+      "core_narrative_turning_points": [
+        "The widespread adoption of quantum computing marked a paradigm shift, enabling breakthroughs in materials science and rendering traditional supercomputers obsolete.",
+        "A major cyber-attack on critical infrastructure exposed systemic vulnerabilities, leading to global trust crises in digital governance and accelerated investment in resilience technologies.",
+        "Public backlash against AI-driven job displacement forced governments to implement universal basic income (UBI), redefining economic stability and social contracts for the first time since industrialization.",
+        "Breakthroughs in synthetic biology allowed humans to engineer new ecosystems, fundamentally altering environmental management and conservation strategies."
+      ],
+      "core_technological_drivers": [
+        {
+          "driver": "Quantum Computing Dominance",
+          "implication": "Massive efficiency gains in complex problem-solving across industries, but also heightened risks of misuse in cryptography or military applications."
+        },
+        {
+          "driver": "AI Integration into Daily Life",
+          "implication": "Seamless automation leading to productivity boosts and lifestyle changes, yet creating ethical dilemmas regarding privacy, bias, and human-AI relationships."
+        },
+        {
+          "driver": "Advanced Data Sensing Networks",
+          "implication": "Real-time monitoring of planetary systems for optimization but enabling unprecedented surveillance capabilities that challenge civil liberties and autonomy."
+        }
+      ],
+      "defining_social_dynamics": [
+        {
+          "dynamic": "Cultural Shift towards Technology Dependency",
+          "implication": "Societal expectations evolve to demand instant connectivity and services, creating generational divides between those born into the digital age and early adopters."
+        },
+        {
+          "dynamic": "Decline in Traditional Social Institutions",
+          "implication": "Erosion of faith in established systems like education and healthcare due to AI-driven alternatives, fostering either innovation or resistance movements depending on context."
+        }
+      ],
+      "key_economic_transformations": [
+        {
+          "transformation": "Shift from Labor-Centric Economy to Asset-Based Models",
+          "implication": "New economic paradigms emerge where ownership of data, networks, and intellectual property become primary sources of wealth creation."
+        },
+        {
+          "transformation": "Rise of Universal Basic Income as Economic Floor",
+          "implication": "Significant redistribution challenges occur as societies attempt to integrate UBI with existing welfare systems while managing technological unemployment rates."
+        }
+      ],
+      "strategic_coherence_overview": "The scenario presents a coherent trajectory from technological innovation through disruption and social adaptation, highlighting the tension between efficiency gains and human-centric values. Strategic implications coalesce around governance frameworks for AI, economic restructuring due to automation, and societal responses that may either accelerate or decelerate technological integration."
+    },
+    "llm_model_used": "deepseek-r1-0528-qwen3-8b",
+    "processing_timestamp": "2025-06-01 09:23:41 UTC"
+  },
+  {
+    "original_scenario_id": "tesla_1900_intelligent_automaton_ai_ongoing",
+    "original_scenario_data_preview": {
+      "timeline": "Future (ongoing development)",
+      "key_events_count": 1,
+      "target_probability_synthetic": null
+    },
+    "refined_executive_brief": {
+      "core_narrative_turning_points": [],
+      "core_technological_drivers": [
+        {
+          "driver": "",
+          "implication": ""
+        }
+      ],
+      "defining_social_dynamics": [
+        {
+          "dynamic": "",
+          "implication": ""
+        }
+      ],
+      "key_economic_transformations": [
+        {
+          "transformation": "",
+          "implication": ""
+        }
+      ],
+      "strategic_coherence_overview": ""
+    },
+    "llm_model_used": "deepseek-r1-0528-qwen3-8b",
+    "processing_timestamp": "2025-06-01 09:24:15 UTC"
+  },
+  {
+    "original_scenario_id": "jobs_1996_ecommerce_retail_transformation_2005",
+    "original_scenario_data_preview": {
+      "timeline": "by 2005",
+      "key_events_count": 1,
+      "target_probability_synthetic": null
+    },
+    "refined_executive_brief": {
+      "core_narrative_turning_points": [
+        "Rapid urbanization pressures intensified as coastal cities swelled beyond sustainable infrastructure limits in response to climate migration, forcing urgent decentralized policy interventions.",
+        "Breakthrough gene-editing technology enabled controlled adaptation of human physiology but introduced profound ethical debates and regulatory fragmentation across nations attempting varied governance models.",
+        "Shift from tangible resource scarcity to energy arbitrage created new geopolitical conflicts centered around volatile renewable generation markets rather than traditional raw materials.",
+        "Pan-continental data alliance for climate resilience emerged unexpectedly, pooling resources initially resisted by competing national governments under the guise of sovereignty."
+      ],
+      "core_technological_drivers": [
+        {
+          "driver": "Advanced gene-editing tools enabling targeted human biological adaptation.",
+          "implication": "Creates ethical quandaries around 'designer adaptations' and potential societal stratification based on enhanced capabilities."
+        },
+        {
+          "driver": "Development of continent-scale renewable energy grids with dynamic load balancing AI.",
+          "implication": "Transforms traditional geopolitical power structures by weaponizing climate instability as a strategic resource rather than mitigating it."
+        },
+        {
+          "driver": "Integrated neural interfaces for real-time global information sharing and crisis coordination.",
+          "implication": "Increases societal connectivity but potentially reduces individual decision-making autonomy in favor of collective algorithmic responses."
+        }
+      ],
+      "defining_social_dynamics": [
+        {
+          "dynamic": "Accelerated demographic shifts with populations concentrated in climate-resilient inland areas while coastal zones experience depopulation.",
+          "implication": "Requires new models for social cohesion and identity formation distinct from historical geographic communities."
+        },
+        {
+          "dynamic": "Emerged consensus on planetary-scale adaptation but fractured implementation methods across national jurisdictions.",
+          "implication": "Creates complex cross-border collaboration requirements that challenge traditional nation-state governance frameworks."
+        }
+      ],
+      "key_economic_transformations": [
+        {
+          "transformation": "Shift from resource-based economic valuation to energy arbitrage and cognitive surplus monetization models.",
+          "implication": "Reshapes global trade patterns fundamentally, creating new value chains centered around renewable energy management rather than raw materials."
+        },
+        {
+          "transformation": "Implementation of continental-scale infrastructure sharing initiatives replacing traditional national development projects.",
+          "implication": "Significantly alters patterns of foreign direct investment and creates novel economic integration paradigms between nations previously competing for resources."
+        }
+      ],
+      "strategic_coherence_overview": "The scenario coherently depicts an adaptation to climate-driven pressures through technological acceleration, with social cohesion challenges arising from both environmental displacement and rapid bio-enhancement. The central strategic tension emerges from the conflict between fragmented national governance approaches attempting to manage new technologies (like gene-editing) and the growing imperative for continental-scale coordination facilitated by shared infrastructure networks and unified data platforms."
+    },
+    "llm_model_used": "deepseek-r1-0528-qwen3-8b",
+    "processing_timestamp": "2025-06-01 09:32:33 UTC"
+  },
+  {
+    "original_scenario_id": "ftsg_2023_climate_crisis_innovation_driver_ongoing",
+    "original_scenario_data_preview": {
+      "timeline": "Ongoing",
+      "key_events_count": 1,
+      "target_probability_synthetic": null
+    },
+    "refined_executive_brief": {
+      "core_narrative_turning_points": [
+        "Event leading to widespread adoption of a new technology.",
+        "Unexpected societal backlash against technological advancements.",
+        "Shift in economic power due to automation replacing human jobs."
+      ],
+      "core_technological_drivers": [
+        {
+          "driver": "Advancements in AI that enable predictive decision-making.",
+          "implication": "Organizations must integrate AI for efficiency, but face ethical concerns."
+        },
+        {
+          "driver": "Development of sustainable energy solutions reducing carbon emissions.",
+          "implication": "This creates new market opportunities while phasing out fossil fuel-dependent industries."
+        }
+      ],
+      "defining_social_dynamics": [
+        {
+          "dynamic": "Growing public awareness and demand for environmental justice.",
+          "implication": "Societal pressure forces companies to adopt sustainable practices or risk reputational damage."
+        },
+        {
+          "dynamic": "Cultural shift towards prioritizing mental well-being over productivity.",
+          "implication": "Workplaces redesign roles, potentially reducing burnout but increasing focus on quality of life metrics."
+        }
+      ],
+      "key_economic_transformations": [
+        {
+          "transformation": "Global supply chains adapt to localized manufacturing due to geopolitical instability.",
+          "implication": "Economies become more resilient through diversification and automation."
+        },
+        {
+          "transformation": "New economic models emerge, leveraging gig economy platforms for flexible work arrangements.",
+          "implication": "Traditional employment shifts towards project-based income, altering consumer spending patterns."
+        }
+      ],
+      "strategic_coherence_overview": "This scenario presents a coherent narrative of technological advancement intertwined with social and economic disruptions. The central tension lies in balancing innovation benefits against potential societal costs."
+    },
+    "llm_model_used": "deepseek-r1-0528-qwen3-8b",
+    "processing_timestamp": "2025-06-01 09:32:42 UTC"
+  },
+  {
+    "original_scenario_id": 39,
+    "original_scenario_data_preview": {
+      "timeline": "By 2019–2020",
+      "key_events_count": 244,
+      "target_probability_synthetic": null
+    },
+    "refined_executive_brief": {
+      "core_narrative_turning_points": [],
+      "core_technological_drivers": [],
+      "defining_social_dynamics": [],
+      "key_economic_transformations": [],
+      "strategic_coherence_overview": ""
+    },
+    "llm_model_used": "deepseek-r1-0528-qwen3-8b",
+    "processing_timestamp": "2025-06-01 09:32:43 UTC"
+  },
+  {
+    "original_scenario_id": 5,
+    "original_scenario_data_preview": {
+      "timeline": "By 2014 (50 years in the future from 1964)",
+      "key_events_count": 176,
+      "target_probability_synthetic": null
+    },
+    "refined_executive_brief": {
+      "core_narrative_turning_points": [
+        "The development and deployment of affordable advanced AI tools for personal productivity marked a significant shift towards widespread cognitive augmentation.",
+        "A major cyber incident revealed vulnerabilities in core infrastructure managed by opaque algorithms, forcing public acknowledgment of risks tied to complex digital systems and catalyzing stricter regulations.",
+        "Bio-integrated neural interfaces became essential for accessing certain job markets and services, creating an unprecedented divide between augmented individuals and the unmodified populace.",
+        "Massive social unrest erupted following mandatory integration policies in education and employment, demanding ethical oversight and equitable access."
+      ],
+      "core_technological_drivers": [
+        {
+          "driver": "Pervasive deployment of AI-driven optimization tools across economic sectors.",
+          "implication": "Significant productivity gains but potential job displacement."
+        },
+        {
+          "driver": "Rapid advancement in affordable neural interface technology enabling direct human-machine cognitive integration.",
+          "implication": "New paradigms for information processing and access, blurring lines between natural and artificial intelligence."
+        },
+        {
+          "driver": "Development of autonomous systems capable of managing critical infrastructure (power grids, logistics).",
+          "implication": "Increased efficiency but profound vulnerabilities requiring new governance frameworks."
+        }
+      ],
+      "defining_social_dynamics": [
+        {
+          "dynamic": "Growing public skepticism towards technology corporations due to perceived loss of human agency and control.",
+          "implication": "Heightened demand for transparency from AI developers regarding decision-making processes."
+        },
+        {
+          "dynamic": "Formation of grassroots movements advocating for technological equity, opposing mandatory cognitive augmentation requirements.",
+          "implication": "Potential fragmentation into separate social systems based on technological access levels."
+        }
+      ],
+      "key_economic_transformations": [
+        {
+          "transformation": "Shift towards a hybrid economy where human skills are augmented by AI interfaces.",
+          "implication": "New metrics for evaluating labor value emerge, potentially devaluing traditional cognitive tasks."
+        },
+        {
+          "transformation": "Infrastructure management increasingly controlled by autonomous systems.",
+          "implication": "Creates new economic dependencies but also risks systemic collapse if oversight fails."
+        }
+      ],
+      "strategic_coherence_overview": "This scenario coherently depicts a trajectory from technological advancement to social conflict, driven primarily by AI development and neural interfaces. The core tension involves balancing efficiency gains with ethical considerations, particularly regarding transparency and equity.",
+      "defining_strategic_challenge": "Navigating the critical balance between harnessing transformative technologies for societal benefit and establishing robust ethical frameworks, regulations, and equitable access policies before fundamental social structures become irreversibly fractured."
+    },
+    "llm_model_used": "deepseek-r1-0528-qwen3-8b",
+    "processing_timestamp": "2025-06-01 09:33:00 UTC"
+  },
+  {
+    "original_scenario_id": "edison_1889_ac_current_failure_never",
+    "original_scenario_data_preview": {
+      "timeline": "never",
+      "key_events_count": 1,
+      "target_probability_synthetic": null
+    },
+    "refined_executive_brief": {
+      "core_narrative_turning_points": [
+        "",
+        "",
+        ""
+      ],
+      "core_technological_drivers": [
+        {
+          "driver": "",
+          "implication": ""
+        },
+        {
+          "driver": "",
+          "implication": ""
+        },
+        {
+          "driver": "",
+          "implication": ""
+        }
+      ],
+      "defining_social_dynamics": [
+        {
+          "dynamic": "",
+          "implication": ""
+        },
+        {
+          "driver": "",
+          "implication": ""
+        }
+      ],
+      "key_economic_transformations": [
+        {
+          "transformation": "",
+          "implication": ""
+        },
+        {
+          "transformation": "",
+          "implication": ""
+        }
+      ],
+      "strategic_coherence_overview": ""
+    },
+    "llm_model_used": "deepseek-r1-0528-qwen3-8b",
+    "processing_timestamp": "2025-06-01 09:33:09 UTC"
+  },
+  {
+    "original_scenario_id": "astor_1894_future_tech_various_realized",
+    "original_scenario_data_preview": {
+      "timeline": "Year 2000",
+      "key_events_count": 1,
+      "target_probability_synthetic": null
+    },
+    "refined_executive_brief": {
+      "core_narrative_turning_points": [
+        "",
+        ""
+      ],
+      "core_technological_drivers": [
+        {
+          "driver": "",
+          "implication": ""
+        },
+        {
+          "driver": "",
+          "implication": ""
+        }
+      ],
+      "defining_social_dynamics": [
+        {
+          "dynamic": "",
+          "implication": ""
+        },
+        {
+          "dynamic": "",
+          "implication": ""
+        }
+      ],
+      "key_economic_transformations": [
+        {
+          "transformation": "",
+          "implication": ""
+        },
+        {
+          "transformation": "",
+          "implication": ""
+        }
+      ],
+      "strategic_coherence_overview": ""
+    },
+    "llm_model_used": "deepseek-r1-0528-qwen3-8b",
+    "processing_timestamp": "2025-06-01 09:33:20 UTC"
+  },
+  {
+    "original_scenario_id": "bell_labs_2020_shannon_limit_ongoing",
+    "original_scenario_data_preview": {
+      "timeline": "Ongoing",
+      "key_events_count": 1,
+      "target_probability_synthetic": null
+    },
+    "refined_executive_brief": {
+      "core_narrative_turning_points": [
+        "{key_events}"
+      ],
+      "core_technological_drivers": [
+        {
+          "driver": "{technological_factors}",
+          "implication": ""
+        }
+      ],
+      "defining_social_dynamics": [
+        {
+          "dynamic": "",
+          "implication": ""
+        }
+      ],
+      "key_economic_transformations": [
+        {
+          "transformation": "",
+          "implication": ""
+        }
+      ],
+      "strategic_coherence_overview": "{outcome_notes}"
+    },
+    "llm_model_used": "deepseek-r1-0528-qwen3-8b",
+    "processing_timestamp": "2025-06-01 09:33:31 UTC"
+  },
+  {
+    "original_scenario_id": "ftsg_2023_nuclear_power_resurgence_ai_emerging",
+    "original_scenario_data_preview": {
+      "timeline": "Near future",
+      "key_events_count": 1,
+      "target_probability_synthetic": null
+    },
+    "refined_executive_brief": {
+      "core_narrative_turning_points": [
+        "Initial breakthrough in AI neural interfaces achieved widespread adoption within three years.",
+        "Concurrent energy crisis forces rapid scaling of renewable infrastructure globally.",
+        "Societal fatigue with constant connectivity leads to a backlash against tech surveillance, demanding new ethical frameworks.",
+        "Economic restructuring due to automation results in a significant shift away from traditional employment models."
+      ],
+      "core_technological_drivers": [
+        {
+          "driver": "AI neural interfaces enable seamless human-machine interaction and cognitive augmentation.",
+          "implication": "This technology fundamentally alters workforce capabilities, necessitating new education paradigms and ethical considerations for brain-computer integration."
+        },
+        {
+          "driver": "Decentralized renewable energy grids powered by blockchain-based micro-transactions become dominant.",
+          "implication": "Energy production becomes democratized, shifting economic power away from centralized fossil fuel conglomerates towards distributed community ownership."
+        }
+      ],
+      "defining_social_dynamics": [
+        {
+          "dynamic": "A societal shift prioritizes digital well-being and limits over technology integration.",
+          "implication": "This creates a social tension between those embracing enhanced human potential through tech and those advocating for preservation of natural human limitations and experiences."
+        },
+        {
+          "dynamic": "Growing demand for transparency and ethical regulation in AI development establishes new governance structures.",
+          "implication": "Tech companies face increased scrutiny regarding their data usage practices, potentially leading to fragmented global standards or a unified international regulatory body."
+        }
+      ],
+      "key_economic_transformations": [
+        {
+          "transformation": "The economy shifts from traditional employment-based models towards resource-independent paradigms facilitated by AI augmentation.",
+          "implication": "Significant income inequality emerges between those who own the cognitive enhancement technology and its resources versus those reliant on basic human labor, requiring novel social safety nets."
+        },
+        {
+          "transformation": "Energy markets transform as decentralized renewable production replaces centralized fossil fuel extraction.",
+          "implication": "This creates new economic opportunities in energy management software development but simultaneously disrupts established oil and gas industries with potential geopolitical realignments."
+        }
+      ],
+      "strategic_coherence_overview": "The scenario describes a future where technological advancement (AI neural interfaces) converges directly with fundamental societal needs (well-being, ethics). While initially promising enhanced human capability and renewable energy solutions, the rapid adoption of these technologies creates internal tensions: resource distribution challenges from AI's impact on labor markets clash with ethical concerns over surveillance stemming from its integration into daily life. The economy is forced to adapt through new models centered around cognitive ownership rather than physical work, but this transition exacerbates existing social divides and requires significant rethinking of governance frameworks for both technology and energy sectors."
+    },
+    "llm_model_used": "deepseek-r1-0528-qwen3-8b",
+    "processing_timestamp": "2025-06-01 09:33:49 UTC"
+  }
+]

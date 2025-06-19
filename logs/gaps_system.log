@@ -1,0 +1,189 @@
+2025-05-31 05:38:08,731 - nn_trainer - WARNING - warning:41 - Could not import ScenarioGenome from src.utils.models, trying from src.gapse_subsystem.evolutionary_scenario_generator
+2025-05-31 05:38:09,116 - nn_trainer - INFO - info:35 - Using device: cpu
+2025-05-31 05:38:09,116 - nn_trainer - INFO - info:35 - Attempting to load historical prediction data from data/historical_predictions.json...
+2025-05-31 05:40:25,810 - nn_trainer - WARNING - warning:41 - Could not import ScenarioGenome from src.utils.models, trying from src.gapse_subsystem.evolutionary_scenario_generator
+2025-05-31 05:40:26,206 - config_loader.ConfigLoader._load_config - INFO - info:35 - Successfully loaded configuration from F:\TheFutureHumanManifesto\config\config.yaml
+2025-05-31 05:40:26,207 - nn_trainer - INFO - info:35 - Using device: cpu
+2025-05-31 05:40:26,208 - nn_trainer - INFO - info:35 - Attempting to load historical prediction data from data/historical_predictions.json...
+2025-05-31 05:42:28,647 - nn_trainer - WARNING - warning:41 - Could not import ScenarioGenome from src.utils.models, trying from src.gapse_subsystem.evolutionary_scenario_generator
+2025-05-31 05:42:28,990 - config_loader.ConfigLoader._load_config - INFO - info:35 - Successfully loaded configuration from F:\TheFutureHumanManifesto\config\config.yaml
+2025-05-31 05:42:28,992 - nn_trainer - INFO - info:35 - Using device: cpu
+2025-05-31 05:42:28,992 - nn_trainer - INFO - info:35 - Attempting to load historical prediction data from F:\TheFutureHumanManifesto\data\historical_predictions.json...
+2025-05-31 17:35:15,006 - nn_trainer - WARNING - warning:41 - Could not import ScenarioGenome from src.utils.models, trying from src.gapse_subsystem.evolutionary_scenario_generator
+2025-05-31 17:35:15,526 - config_loader.ConfigLoader._load_config - INFO - info:35 - Successfully loaded configuration from F:\TheFutureHumanManifesto\config\config.yaml
+2025-05-31 17:35:15,533 - nn_trainer - INFO - info:35 - Using device: cpu
+2025-05-31 17:35:15,533 - nn_trainer - INFO - info:35 - Attempting to load historical prediction data from F:\TheFutureHumanManifesto\data\historical_predictions.json...
+2025-05-31 17:37:11,352 - nn_trainer - WARNING - warning:41 - Could not import ScenarioGenome from src.utils.models, trying from src.gapse_subsystem.evolutionary_scenario_generator
+2025-05-31 17:37:11,778 - config_loader.ConfigLoader._load_config - INFO - info:35 - Successfully loaded configuration from F:\TheFutureHumanManifesto\config\config.yaml
+2025-05-31 17:37:11,780 - nn_trainer - INFO - info:35 - Using device: cpu
+2025-05-31 17:37:11,780 - nn_trainer - INFO - info:35 - Attempting to load historical prediction data from F:\TheFutureHumanManifesto\data\historical_predictions.json...
+2025-05-31 17:37:43,165 - nn_trainer - WARNING - warning:41 - Could not import ScenarioGenome from src.utils.models, trying from src.gapse_subsystem.evolutionary_scenario_generator
+2025-05-31 17:37:43,636 - config_loader.ConfigLoader._load_config - INFO - info:35 - Successfully loaded configuration from F:\TheFutureHumanManifesto\config\config.yaml
+2025-05-31 17:37:43,638 - nn_trainer - INFO - info:35 - Using device: cpu
+2025-05-31 17:37:43,638 - nn_trainer - INFO - info:35 - Attempting to load historical prediction data from F:\TheFutureHumanManifesto\data\historical_predictions.json...
+2025-05-31 17:38:15,212 - nn_trainer - WARNING - warning:41 - Could not import ScenarioGenome from src.utils.models, trying from src.gapse_subsystem.evolutionary_scenario_generator
+2025-05-31 17:38:15,621 - config_loader.ConfigLoader._load_config - INFO - info:35 - Successfully loaded configuration from F:\TheFutureHumanManifesto\config\config.yaml
+2025-05-31 17:38:15,623 - nn_trainer - INFO - info:35 - Using device: cpu
+2025-05-31 17:38:15,623 - nn_trainer - INFO - info:35 - Attempting to load historical prediction data from F:\TheFutureHumanManifesto\data\historical_predictions.json...
+2025-05-31 17:56:03,355 - nn_trainer - WARNING - warning:41 - Could not import ScenarioGenome from src.utils.models, trying from src.gapse_subsystem.evolutionary_scenario_generator
+2025-05-31 17:56:03,766 - config_loader.ConfigLoader._load_config - INFO - info:35 - Successfully loaded configuration from F:\TheFutureHumanManifesto\config\config.yaml
+2025-05-31 17:56:03,768 - nn_trainer - INFO - info:35 - Using device: cpu
+2025-05-31 17:56:03,768 - nn_trainer - INFO - info:35 - Attempting to load historical prediction data from F:\TheFutureHumanManifesto\data\historical_predictions.json...
+2025-05-31 17:56:18,745 - nn_trainer - WARNING - warning:41 - Could not import ScenarioGenome from src.utils.models, trying from src.gapse_subsystem.evolutionary_scenario_generator
+2025-05-31 17:56:19,162 - config_loader.ConfigLoader._load_config - INFO - info:35 - Successfully loaded configuration from F:\TheFutureHumanManifesto\config\config.yaml
+2025-05-31 17:56:19,164 - nn_trainer - INFO - info:35 - Using device: cpu
+2025-05-31 17:56:19,164 - nn_trainer - INFO - info:35 - Attempting to load historical prediction data from F:\TheFutureHumanManifesto\data\historical_predictions.json...
+2025-05-31 17:57:43,497 - nn_trainer - WARNING - warning:41 - Could not import ScenarioGenome from src.utils.models, trying from src.gapse_subsystem.evolutionary_scenario_generator
+2025-05-31 17:57:43,927 - config_loader.ConfigLoader._load_config - INFO - info:35 - Successfully loaded configuration from F:\TheFutureHumanManifesto\config\config.yaml
+2025-05-31 17:57:43,929 - nn_trainer - INFO - info:35 - Using device: cpu
+2025-05-31 17:57:43,929 - nn_trainer - INFO - info:35 - Attempting to load historical prediction data from F:\TheFutureHumanManifesto\data\historical_predictions.json...
+2025-05-31 17:57:43,934 - nn_trainer - INFO - info:35 - Loaded 194 historical (non-pending) prediction data samples from F:\TheFutureHumanManifesto\data\historical_predictions.json
+2025-05-31 17:57:43,934 - nn_trainer - INFO - info:35 - Total samples for training/validation: 194
+2025-05-31 17:57:43,939 - nn_trainer - INFO - info:35 - TfidfVectorizer fitted on training texts with 45 features.
+2025-05-31 17:57:43,940 - nn_trainer - INFO - info:35 - TfidfVectorizer saved to F:\TheFutureHumanManifesto\models\tfidf_vectorizer.joblib
+2025-05-31 17:57:43,974 - nn_trainer - INFO - info:35 - Feature scaler fitted on training data.
+2025-05-31 17:57:43,974 - nn_trainer - INFO - info:35 - Feature scaler saved to F:\TheFutureHumanManifesto\models\feature_scaler.joblib
+2025-05-31 17:57:43,974 - nn_trainer - INFO - info:35 - Training BayesianRidge model...
+2025-05-31 17:57:43,977 - nn_trainer - INFO - info:35 - BayesianRidge model trained. Coefs (first 5): [-0.0045485   0.00296614 -0.00775962 -0.00187575  0.00190025]..., Intercept: 0.3529204726219177
+2025-05-31 17:57:43,977 - nn_trainer - INFO - info:35 - BayesianRidge model saved to F:\TheFutureHumanManifesto\models\bayesian_ridge_model.joblib
+2025-05-31 17:57:44,015 - nn_trainer - INFO - info:35 - Created DataLoaders. Train size: 155, Val size: 39
+2025-05-31 17:57:45,168 - nn_trainer - INFO - info:35 - NN Model, optimizer, and criterion initialized.
+2025-05-31 17:57:45,168 - nn_trainer - INFO - info:35 - Starting training on cpu for 100 epochs.
+2025-05-31 17:57:45,180 - nn_trainer - INFO - info:35 - Epoch [1/100], Train Loss: 0.743255, Val Loss: 0.660012
+2025-05-31 17:57:45,187 - nn_trainer - INFO - info:35 - Epoch [2/100], Train Loss: 0.596495, Val Loss: 0.504363
+2025-05-31 17:57:45,196 - nn_trainer - INFO - info:35 - Epoch [3/100], Train Loss: 0.439366, Val Loss: 0.303460
+2025-05-31 17:57:45,203 - nn_trainer - INFO - info:35 - Epoch [4/100], Train Loss: 0.242392, Val Loss: 0.073672
+2025-05-31 17:57:45,210 - nn_trainer - INFO - info:35 - Epoch [5/100], Train Loss: 0.090119, Val Loss: -0.091978
+2025-05-31 17:57:45,218 - nn_trainer - INFO - info:35 - Epoch [6/100], Train Loss: 0.057963, Val Loss: -0.139723
+2025-05-31 17:57:45,225 - nn_trainer - INFO - info:35 - Epoch [7/100], Train Loss: -0.069990, Val Loss: -0.173099
+2025-05-31 17:57:45,232 - nn_trainer - INFO - info:35 - Epoch [8/100], Train Loss: -0.152342, Val Loss: -0.222044
+2025-05-31 17:57:45,240 - nn_trainer - INFO - info:35 - Epoch [9/100], Train Loss: -0.186536, Val Loss: -0.297502
+2025-05-31 17:57:45,247 - nn_trainer - INFO - info:35 - Epoch [10/100], Train Loss: -0.284354, Val Loss: -0.373869
+2025-05-31 17:57:45,254 - nn_trainer - INFO - info:35 - Epoch [11/100], Train Loss: -0.263716, Val Loss: -0.382230
+2025-05-31 17:57:45,262 - nn_trainer - INFO - info:35 - Epoch [12/100], Train Loss: -0.278254, Val Loss: -0.426533
+2025-05-31 17:57:45,272 - nn_trainer - INFO - info:35 - Epoch [13/100], Train Loss: -0.314952, Val Loss: -0.452056
+2025-05-31 17:57:45,282 - nn_trainer - INFO - info:35 - Epoch [14/100], Train Loss: -0.355884, Val Loss: -0.428170
+2025-05-31 17:57:45,289 - nn_trainer - INFO - info:35 - Epoch [15/100], Train Loss: -0.393151, Val Loss: -0.478126
+2025-05-31 17:57:45,297 - nn_trainer - INFO - info:35 - Epoch [16/100], Train Loss: -0.382734, Val Loss: -0.516289
+2025-05-31 17:57:45,304 - nn_trainer - INFO - info:35 - Epoch [17/100], Train Loss: -0.441827, Val Loss: -0.514004
+2025-05-31 17:57:45,313 - nn_trainer - INFO - info:35 - Epoch [18/100], Train Loss: -0.437112, Val Loss: -0.561206
+2025-05-31 17:57:45,320 - nn_trainer - INFO - info:35 - Epoch [19/100], Train Loss: -0.513848, Val Loss: -0.540157
+2025-05-31 17:57:45,327 - nn_trainer - INFO - info:35 - Epoch [20/100], Train Loss: -0.508423, Val Loss: -0.577606
+2025-05-31 17:57:45,335 - nn_trainer - INFO - info:35 - Epoch [21/100], Train Loss: -0.604343, Val Loss: -0.605257
+2025-05-31 17:57:45,342 - nn_trainer - INFO - info:35 - Epoch [22/100], Train Loss: -0.567872, Val Loss: -0.534136
+2025-05-31 17:57:45,349 - nn_trainer - INFO - info:35 - Epoch [23/100], Train Loss: -0.601361, Val Loss: -0.397755
+2025-05-31 17:57:45,356 - nn_trainer - INFO - info:35 - Epoch [24/100], Train Loss: -0.599551, Val Loss: -0.493404
+2025-05-31 17:57:45,365 - nn_trainer - INFO - info:35 - Epoch [25/100], Train Loss: -0.573541, Val Loss: -0.488953
+2025-05-31 17:57:45,372 - nn_trainer - INFO - info:35 - Epoch [26/100], Train Loss: -0.617283, Val Loss: -0.418275
+2025-05-31 17:57:45,380 - nn_trainer - INFO - info:35 - Epoch [27/100], Train Loss: -0.663960, Val Loss: -0.375261
+2025-05-31 17:57:45,387 - nn_trainer - INFO - info:35 - Epoch [28/100], Train Loss: -0.754379, Val Loss: -0.276318
+2025-05-31 17:57:45,395 - nn_trainer - INFO - info:35 - Epoch [29/100], Train Loss: -0.744052, Val Loss: -0.209313
+2025-05-31 17:57:45,402 - nn_trainer - INFO - info:35 - Epoch [30/100], Train Loss: -0.773267, Val Loss: -0.244673
+2025-05-31 17:57:45,409 - nn_trainer - INFO - info:35 - Epoch [31/100], Train Loss: -0.813420, Val Loss: -0.407126
+2025-05-31 17:57:45,416 - nn_trainer - INFO - info:35 - Epoch [32/100], Train Loss: -0.863158, Val Loss: -0.048730
+2025-05-31 17:57:45,424 - nn_trainer - INFO - info:35 - Epoch [33/100], Train Loss: -0.765337, Val Loss: -0.473662
+2025-05-31 17:57:45,431 - nn_trainer - INFO - info:35 - Epoch [34/100], Train Loss: -0.858438, Val Loss: -0.475041
+2025-05-31 17:57:45,438 - nn_trainer - INFO - info:35 - Epoch [35/100], Train Loss: -0.892484, Val Loss: -0.361181
+2025-05-31 17:57:45,446 - nn_trainer - INFO - info:35 - Epoch [36/100], Train Loss: -0.946952, Val Loss: -0.134503
+2025-05-31 17:57:45,453 - nn_trainer - INFO - info:35 - Epoch [37/100], Train Loss: -0.894933, Val Loss: -0.218178
+2025-05-31 17:57:45,460 - nn_trainer - INFO - info:35 - Epoch [38/100], Train Loss: -0.891358, Val Loss: -0.262487
+2025-05-31 17:57:45,467 - nn_trainer - INFO - info:35 - Epoch [39/100], Train Loss: -0.930526, Val Loss: -0.221526
+2025-05-31 17:57:45,475 - nn_trainer - INFO - info:35 - Epoch [40/100], Train Loss: -0.973209, Val Loss: -0.143371
+2025-05-31 17:57:45,483 - nn_trainer - INFO - info:35 - Epoch [41/100], Train Loss: -1.055854, Val Loss: 0.042370
+2025-05-31 17:57:45,490 - nn_trainer - INFO - info:35 - Epoch [42/100], Train Loss: -0.986689, Val Loss: 0.293775
+2025-05-31 17:57:45,498 - nn_trainer - INFO - info:35 - Epoch [43/100], Train Loss: -1.116452, Val Loss: 0.260378
+2025-05-31 17:57:45,505 - nn_trainer - INFO - info:35 - Epoch [44/100], Train Loss: -0.970975, Val Loss: 0.113151
+2025-05-31 17:57:45,512 - nn_trainer - INFO - info:35 - Epoch [45/100], Train Loss: -0.988898, Val Loss: -0.106035
+2025-05-31 17:57:45,519 - nn_trainer - INFO - info:35 - Epoch [46/100], Train Loss: -1.035030, Val Loss: -0.158789
+2025-05-31 17:57:45,526 - nn_trainer - INFO - info:35 - Epoch [47/100], Train Loss: -1.063060, Val Loss: 0.010062
+2025-05-31 17:57:45,534 - nn_trainer - INFO - info:35 - Epoch [48/100], Train Loss: -1.091039, Val Loss: 0.472121
+2025-05-31 17:57:45,541 - nn_trainer - INFO - info:35 - Epoch [49/100], Train Loss: -1.147896, Val Loss: 0.532704
+2025-05-31 17:57:45,549 - nn_trainer - INFO - info:35 - Epoch [50/100], Train Loss: -1.104089, Val Loss: 0.255332
+2025-05-31 17:57:45,556 - nn_trainer - INFO - info:35 - Epoch [51/100], Train Loss: -1.083969, Val Loss: 0.061027
+2025-05-31 17:57:45,564 - nn_trainer - INFO - info:35 - Epoch [52/100], Train Loss: -1.145898, Val Loss: 0.212132
+2025-05-31 17:57:45,571 - nn_trainer - INFO - info:35 - Epoch [53/100], Train Loss: -1.183403, Val Loss: 0.436713
+2025-05-31 17:57:45,579 - nn_trainer - INFO - info:35 - Epoch [54/100], Train Loss: -1.311448, Val Loss: 0.996539
+2025-05-31 17:57:45,586 - nn_trainer - INFO - info:35 - Epoch [55/100], Train Loss: -1.283012, Val Loss: 1.344641
+2025-05-31 17:57:45,594 - nn_trainer - INFO - info:35 - Epoch [56/100], Train Loss: -1.148484, Val Loss: 1.359575
+2025-05-31 17:57:45,602 - nn_trainer - INFO - info:35 - Epoch [57/100], Train Loss: -1.214222, Val Loss: 0.601804
+2025-05-31 17:57:45,608 - nn_trainer - INFO - info:35 - Epoch [58/100], Train Loss: -1.218421, Val Loss: 0.457356
+2025-05-31 17:57:45,616 - nn_trainer - INFO - info:35 - Epoch [59/100], Train Loss: -1.191360, Val Loss: 0.663869
+2025-05-31 17:57:45,624 - nn_trainer - INFO - info:35 - Epoch [60/100], Train Loss: -1.241660, Val Loss: 1.126061
+2025-05-31 17:57:45,631 - nn_trainer - INFO - info:35 - Epoch [61/100], Train Loss: -1.213550, Val Loss: 1.631414
+2025-05-31 17:57:45,638 - nn_trainer - INFO - info:35 - Epoch [62/100], Train Loss: -1.159918, Val Loss: 1.166592
+2025-05-31 17:57:45,645 - nn_trainer - INFO - info:35 - Epoch [63/100], Train Loss: -1.311502, Val Loss: 1.127144
+2025-05-31 17:57:45,652 - nn_trainer - INFO - info:35 - Epoch [64/100], Train Loss: -1.262365, Val Loss: 0.950522
+2025-05-31 17:57:45,660 - nn_trainer - INFO - info:35 - Epoch [65/100], Train Loss: -1.374887, Val Loss: 1.183363
+2025-05-31 17:57:45,667 - nn_trainer - INFO - info:35 - Epoch [66/100], Train Loss: -1.414870, Val Loss: 1.434111
+2025-05-31 17:57:45,674 - nn_trainer - INFO - info:35 - Epoch [67/100], Train Loss: -1.177960, Val Loss: 1.281554
+2025-05-31 17:57:45,682 - nn_trainer - INFO - info:35 - Epoch [68/100], Train Loss: -1.250054, Val Loss: 1.248820
+2025-05-31 17:57:45,689 - nn_trainer - INFO - info:35 - Epoch [69/100], Train Loss: -1.372912, Val Loss: 0.918973
+2025-05-31 17:57:45,696 - nn_trainer - INFO - info:35 - Epoch [70/100], Train Loss: -1.331372, Val Loss: 1.005479
+2025-05-31 17:57:45,703 - nn_trainer - INFO - info:35 - Epoch [71/100], Train Loss: -1.437131, Val Loss: 1.458413
+2025-05-31 17:57:45,711 - nn_trainer - INFO - info:35 - Epoch [72/100], Train Loss: -1.519944, Val Loss: 2.438421
+2025-05-31 17:57:45,718 - nn_trainer - INFO - info:35 - Epoch [73/100], Train Loss: -1.538427, Val Loss: 2.630353
+2025-05-31 17:57:45,726 - nn_trainer - INFO - info:35 - Epoch [74/100], Train Loss: -1.535559, Val Loss: 2.639717
+2025-05-31 17:57:45,733 - nn_trainer - INFO - info:35 - Epoch [75/100], Train Loss: -1.555648, Val Loss: 2.114025
+2025-05-31 17:57:45,740 - nn_trainer - INFO - info:35 - Epoch [76/100], Train Loss: -1.676628, Val Loss: 2.310413
+2025-05-31 17:57:45,747 - nn_trainer - INFO - info:35 - Epoch [77/100], Train Loss: -1.528248, Val Loss: 1.875987
+2025-05-31 17:57:45,755 - nn_trainer - INFO - info:35 - Epoch [78/100], Train Loss: -1.483724, Val Loss: 1.381057
+2025-05-31 17:57:45,762 - nn_trainer - INFO - info:35 - Epoch [79/100], Train Loss: -1.502280, Val Loss: 1.217818
+2025-05-31 17:57:45,770 - nn_trainer - INFO - info:35 - Epoch [80/100], Train Loss: -1.565728, Val Loss: 1.659181
+2025-05-31 17:57:45,778 - nn_trainer - INFO - info:35 - Epoch [81/100], Train Loss: -1.618936, Val Loss: 2.349580
+2025-05-31 17:57:45,786 - nn_trainer - INFO - info:35 - Epoch [82/100], Train Loss: -1.616715, Val Loss: 2.878694
+2025-05-31 17:57:45,793 - nn_trainer - INFO - info:35 - Epoch [83/100], Train Loss: -1.711961, Val Loss: 3.019846
+2025-05-31 17:57:45,801 - nn_trainer - INFO - info:35 - Epoch [84/100], Train Loss: -1.769454, Val Loss: 2.827573
+2025-05-31 17:57:45,807 - nn_trainer - INFO - info:35 - Epoch [85/100], Train Loss: -1.883178, Val Loss: 4.737412
+2025-05-31 17:57:45,815 - nn_trainer - INFO - info:35 - Epoch [86/100], Train Loss: -1.766537, Val Loss: 5.331782
+2025-05-31 17:57:45,822 - nn_trainer - INFO - info:35 - Epoch [87/100], Train Loss: -1.747350, Val Loss: 4.931756
+2025-05-31 17:57:45,830 - nn_trainer - INFO - info:35 - Epoch [88/100], Train Loss: -1.827257, Val Loss: 3.967447
+2025-05-31 17:57:45,837 - nn_trainer - INFO - info:35 - Epoch [89/100], Train Loss: -1.837320, Val Loss: 4.460619
+2025-05-31 17:57:45,844 - nn_trainer - INFO - info:35 - Epoch [90/100], Train Loss: -1.745858, Val Loss: 4.703590
+2025-05-31 17:57:45,851 - nn_trainer - INFO - info:35 - Epoch [91/100], Train Loss: -1.579763, Val Loss: 4.172353
+2025-05-31 17:57:45,858 - nn_trainer - INFO - info:35 - Epoch [92/100], Train Loss: -1.439177, Val Loss: 1.943674
+2025-05-31 17:57:45,865 - nn_trainer - INFO - info:35 - Epoch [93/100], Train Loss: -1.420555, Val Loss: 1.529426
+2025-05-31 17:57:45,872 - nn_trainer - INFO - info:35 - Epoch [94/100], Train Loss: -1.216374, Val Loss: 1.427904
+2025-05-31 17:57:45,879 - nn_trainer - INFO - info:35 - Epoch [95/100], Train Loss: -1.362904, Val Loss: 1.799814
+2025-05-31 17:57:45,886 - nn_trainer - INFO - info:35 - Epoch [96/100], Train Loss: -1.482553, Val Loss: 3.405484
+2025-05-31 17:57:45,893 - nn_trainer - INFO - info:35 - Epoch [97/100], Train Loss: -1.517568, Val Loss: 5.667136
+2025-05-31 17:57:45,900 - nn_trainer - INFO - info:35 - Epoch [98/100], Train Loss: -1.637140, Val Loss: 6.287850
+2025-05-31 17:57:45,906 - nn_trainer - INFO - info:35 - Epoch [99/100], Train Loss: -1.750517, Val Loss: 7.270559
+2025-05-31 17:57:45,914 - nn_trainer - INFO - info:35 - Epoch [100/100], Train Loss: -1.790358, Val Loss: 7.494310
+2025-05-31 17:57:45,914 - nn_trainer - INFO - info:35 - Training finished.
+2025-05-31 17:57:45,930 - nn_trainer - INFO - info:35 - Trained NN model saved to F:\TheFutureHumanManifesto\models\probabilistic_nn.pth
+2025-05-31 18:15:19,579 - config_loader.ConfigLoader._load_config - INFO - info:35 - Successfully loaded configuration from config/config.yaml
+2025-05-31 18:15:19,580 - synthetic_scenario_simulator - INFO - info:35 - Generating 500 synthetic scenarios via simulation...
+2025-05-31 18:15:19,580 - synthetic_scenario_simulator - INFO - info:35 - Generated 0/500 synthetic scenarios...
+2025-05-31 18:20:10,568 - config_loader.ConfigLoader._load_config - INFO - info:35 - Successfully loaded configuration from config/config.yaml
+2025-05-31 18:20:10,569 - synthetic_scenario_simulator - INFO - info:35 - SyntheticScenarioSimulator initialized with 19 variables, 28 event thresholds, and 39 influence rules.
+2025-05-31 18:20:10,569 - synthetic_scenario_simulator - INFO - info:35 - Generating 500 synthetic scenarios via simulation...
+2025-05-31 18:21:51,217 - config_loader.ConfigLoader._load_config - INFO - info:35 - Successfully loaded configuration from config/config.yaml
+2025-05-31 18:21:51,218 - synthetic_scenario_simulator - INFO - info:35 - SyntheticScenarioSimulator initialized with 19 variables, 28 event thresholds, and 39 influence rules.
+2025-05-31 18:21:51,218 - synthetic_scenario_simulator - INFO - info:35 - Generating 500 synthetic scenarios via simulation...
+2025-05-31 18:23:00,923 - config_loader.ConfigLoader._load_config - INFO - info:35 - Successfully loaded configuration from config/config.yaml
+2025-05-31 18:23:00,924 - synthetic_scenario_simulator - INFO - info:35 - SyntheticScenarioSimulator initialized with 19 variables, 28 event thresholds, and 39 influence rules.
+2025-05-31 18:23:00,925 - synthetic_scenario_simulator - INFO - info:35 - Generating 500 synthetic scenarios via simulation...
+2025-05-31 18:31:33,189 - config_loader.ConfigLoader._load_config - INFO - info:35 - Successfully loaded configuration from config/config.yaml
+2025-05-31 18:31:33,190 - synthetic_scenario_simulator - INFO - info:35 - SyntheticScenarioSimulator initialized with 19 variables, 28 event thresholds, and 39 influence rules.
+2025-05-31 18:31:33,190 - synthetic_scenario_simulator - INFO - info:35 - Generating 500 synthetic scenarios via simulation...
+2025-05-31 18:31:33,343 - synthetic_scenario_simulator - INFO - info:35 - Generated 25/500 synthetic scenarios...
+2025-05-31 18:31:33,490 - synthetic_scenario_simulator - INFO - info:35 - Generated 50/500 synthetic scenarios...
+2025-05-31 18:31:33,635 - synthetic_scenario_simulator - INFO - info:35 - Generated 75/500 synthetic scenarios...
+2025-05-31 18:31:33,779 - synthetic_scenario_simulator - INFO - info:35 - Generated 100/500 synthetic scenarios...
+2025-05-31 18:31:33,924 - synthetic_scenario_simulator - INFO - info:35 - Generated 125/500 synthetic scenarios...
+2025-05-31 18:31:34,067 - synthetic_scenario_simulator - INFO - info:35 - Generated 150/500 synthetic scenarios...
+2025-05-31 18:31:34,213 - synthetic_scenario_simulator - INFO - info:35 - Generated 175/500 synthetic scenarios...
+2025-05-31 18:31:34,356 - synthetic_scenario_simulator - INFO - info:35 - Generated 200/500 synthetic scenarios...
+2025-05-31 18:31:34,501 - synthetic_scenario_simulator - INFO - info:35 - Generated 225/500 synthetic scenarios...
+2025-05-31 18:31:34,648 - synthetic_scenario_simulator - INFO - info:35 - Generated 250/500 synthetic scenarios...
+2025-05-31 18:31:34,791 - synthetic_scenario_simulator - INFO - info:35 - Generated 275/500 synthetic scenarios...
+2025-05-31 18:31:34,931 - synthetic_scenario_simulator - INFO - info:35 - Generated 300/500 synthetic scenarios...
+2025-05-31 18:31:35,073 - synthetic_scenario_simulator - INFO - info:35 - Generated 325/500 synthetic scenarios...
+2025-05-31 18:31:35,215 - synthetic_scenario_simulator - INFO - info:35 - Generated 350/500 synthetic scenarios...
+2025-05-31 18:31:35,357 - synthetic_scenario_simulator - INFO - info:35 - Generated 375/500 synthetic scenarios...
+2025-05-31 18:31:35,498 - synthetic_scenario_simulator - INFO - info:35 - Generated 400/500 synthetic scenarios...
+2025-05-31 18:31:35,640 - synthetic_scenario_simulator - INFO - info:35 - Generated 425/500 synthetic scenarios...
+2025-05-31 18:31:35,783 - synthetic_scenario_simulator - INFO - info:35 - Generated 450/500 synthetic scenarios...
+2025-05-31 18:31:35,925 - synthetic_scenario_simulator - INFO - info:35 - Generated 475/500 synthetic scenarios...
+2025-05-31 18:31:36,071 - synthetic_scenario_simulator - INFO - info:35 - Finished generating 500 synthetic scenarios.
+2025-05-31 18:31:36,088 - synthetic_scenario_simulator - INFO - info:35 - Successfully saved 500 synthetic scenarios to data/synthetic_scenarios_generated.json
