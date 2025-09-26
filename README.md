@@ -1,3 +1,6 @@
+<img width="1863" height="661" alt="image" src="https://github.com/user-attachments/assets/287379e4-aa99-4549-8f9d-e9d73c776e0e" />
+
+
 # GAPS (Generative Assistive Prediction System) - Operational README
 
 ## 1. Overview
